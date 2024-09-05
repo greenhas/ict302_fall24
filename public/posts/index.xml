@@ -6,14 +6,24 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2024 09:49:58 -0400</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Thu, 05 Sep 2024 09:59:06 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bryant First Post</title>
-      <link>http://localhost:1313/posts/bryant-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 09:49:58 -0400</pubDate>
-      <guid>http://localhost:1313/posts/bryant-first-post/</guid>
-      <description>This is a test post. This is only a test and nothing that I type here matters.&#xA;Markdown is pretty cool. It&amp;rsquo;s taking some getting used to, but it seems to be a little simpler to use than HTML.&#xA;Test test test 12345&#xA;This is a test of the link function</description>
+      <title>Livingston First Post</title>
+      <link>http://localhost:1313/posts/livingston-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
+      <guid>http://localhost:1313/posts/livingston-first-post/</guid>
+=======
+    <lastBuildDate>Thu, 05 Sep 2024 09:55:18 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coleman First Post</title>
+      <link>http://localhost:1313/posts/coleman-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
+      <guid>http://localhost:1313/posts/coleman-first-post/</guid>
+>>>>>>> b92b0ca0ec0d90f0a5711995e5f43c49d9c9f606
+      <description></description>
     </item>
   </channel>
 </rss>
