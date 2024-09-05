@@ -20,4 +20,8 @@ draft = false
 
 
 
-![boxing squad](content\posts\BoxingGang.JPG)
+<!--![boxing squad](content\posts\BoxingGang.JPG)-->
+
+
+
+testign again
