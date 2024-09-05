@@ -6,6 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <lastBuildDate>Thu, 05 Sep 2024 09:59:06 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Livingston First Post</title>
+      <link>http://localhost:1313/posts/livingston-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
+      <guid>http://localhost:1313/posts/livingston-first-post/</guid>
+=======
     <lastBuildDate>Thu, 05 Sep 2024 09:55:18 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,6 +22,7 @@
       <link>http://localhost:1313/posts/coleman-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/coleman-first-post/</guid>
+>>>>>>> b92b0ca0ec0d90f0a5711995e5f43c49d9c9f606
       <description></description>
     </item>
   </channel>
