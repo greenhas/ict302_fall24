@@ -22,5 +22,12 @@
       <guid>http://localhost:1313/posts/coleman-first-post/</guid>
       <description>I am very excited for football to start. I think the chiefs will win.</description>
     </item>
+    <item>
+      <title>Hotko First Post</title>
+      <link>http://localhost:1313/posts/hotko-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:54:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hotko-first-post/</guid>
+      <description>text text error&#xA;test&#xA;test no line skip&#xA;skip&#xA;my link</description>
+    </item>
   </channel>
 </rss>
