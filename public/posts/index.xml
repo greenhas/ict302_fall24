@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2024 11:21:14 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hayes McCoy: My First Post</title>
+      <link>http://localhost:1313/posts/mccoy-first-post/</link>
+      <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
+      <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title>Content_coleman_bryan</title>
+      <link>http://localhost:1313/posts/content_coleman_bryan/</link>
+      <pubDate>Thu, 05 Sep 2024 11:21:14 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_coleman_bryan/</guid>
+      <description>Content is information produced through editorial process and ultimately intended for human consumption via publication. In my own words, content is information available for either retrieval or engagement intended for users and people. One example of content that I consume regularly are golf youtube videos posted by Bryson DeChambeau. Here is my link This example illustrates the concept of content as I, the user, engage with the information, the video of Bryson golfing and giving tips as he plays, and by watching it I consume it, and the videos are edited before they are posted.</description>
+    </item>
+    <item>
+      <title>Content_chen_ricky</title>
+      <link>http://localhost:1313/posts/content_chen_ricky/</link>
+      <pubDate>Thu, 05 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_chen_ricky/</guid>
+      <description>Content Definiton According to Deane Barker, &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;In My Own Words&#xA;To my understanding, content is something that takes time and money, made by human for human.&#xA;Content Example An exmaple of content is Online Courses. It is something that take money and time to create, made by humans for humans.</description>
+    </item>
+    <item>
+      <title>Content_bryant_henry</title>
+      <link>http://localhost:1313/posts/content_bryant_henry/</link>
+      <pubDate>Thu, 05 Sep 2024 11:09:04 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_bryant_henry/</guid>
+      <description>What is Content? According to Deane Barker in Web Content Management, content can be defined as information that was &amp;ldquo;produced through editorial process and ultimately intended for human consumption&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that content is something that an individual put effort into creating and that was designed and created for another individual to interact with in a meaningful way.&#xA;Content Example An example of content that I consume would be a YouTube video.</description>
+    </item>
+    <item>
+      <title>Donnelly First Post</title>
+      <link>http://localhost:1313/posts/donnelly-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 10:08:45 -0400</pubDate>
+      <guid>http://localhost:1313/posts/donnelly-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chen First Post</title>
+      <link>http://localhost:1313/posts/chen-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 10:02:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chen-first-post/</guid>
+      <description>italian&#xA;bold text&#xA;strike through&#xA;My Instagram&#xA;example blockquoate&#xA;testign again</description>
+    </item>
+    <item>
+      <title>Livingston First Post</title>
+      <link>http://localhost:1313/posts/livingston-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
+      <guid>http://localhost:1313/posts/livingston-first-post/</guid>
+      <description>Test Header italic text strikethrough Test information TEST test&#xA;click here</description>
+    </item>
+    <item>
+      <title>Nguyen First Post</title>
+      <link>http://localhost:1313/posts/nguyen-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:56:29 -0400</pubDate>
+      <guid>http://localhost:1313/posts/nguyen-first-post/</guid>
+      <description>This is my first post&#xA;This is the second line&#xA;This is another line&#xA;my link&#xA;example blockquote&#xA;This is another text </description>
+    </item>
+    <item>
+      <title>Coleman First Post</title>
+      <link>http://localhost:1313/posts/coleman-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
+      <guid>http://localhost:1313/posts/coleman-first-post/</guid>
+      <description>I am very excited for football to start. I think the chiefs will win.</description>
+    </item>
+    <item>
+      <title>Hotko First Post</title>
+      <link>http://localhost:1313/posts/hotko-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:54:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hotko-first-post/</guid>
+      <description>text text error&#xA;test&#xA;test no line skip&#xA;skip&#xA;my link</description>
+    </item>
+    <item>
+      <title>Adhikari First Post</title>
+      <link>http://localhost:1313/posts/adhikari-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:51:01 -0400</pubDate>
+      <guid>http://localhost:1313/posts/adhikari-first-post/</guid>
+      <description>Intro&#xA;My name is Sayana Adhikari and I am a Junior maojoring in ICT at the University of Kentucky.&#xA;[my link] (https://youtu.be/fBB4MaBybyg?si=kcz3ATvo-Ci1qzbK) is my favorite song at the moment.</description>
+    </item>
+    <item>
+      <title>Myers First Post</title>
+      <link>http://localhost:1313/posts/myers-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:50:37 -0400</pubDate>
+      <guid>http://localhost:1313/posts/myers-first-post/</guid>
+      <description>Testing This is a brand new start&#xA;Lets see if this works.&#xA;LETS GOOOOOOOOOOO Also go check this out my link</description>
+    </item>
+    <item>
+      <title>Bryant First Post</title>
+      <link>http://localhost:1313/posts/bryant-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:49:58 -0400</pubDate>
+      <guid>http://localhost:1313/posts/bryant-first-post/</guid>
+      <description>This is a test post. This is only a test and nothing that I type here matters.&#xA;Markdown is pretty cool. It&amp;rsquo;s taking some getting used to, but it seems to be a little simpler to use than HTML.&#xA;Test test test 12345&#xA;This is a test of the link function using markdown editing. Pretty cool!&#xA;The quick brown fox jumped over the lazy dog.&#xA;Test again</description>
+    </item>
+  </channel>
+</rss>
