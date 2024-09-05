@@ -6,14 +6,39 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2024 09:55:18 -0400</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Thu, 05 Sep 2024 09:58:01 -0400</lastBuildDate>
+=======
+<<<<<<< HEAD
+    <lastBuildDate>Thu, 05 Sep 2024 09:59:06 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Livingston First Post</title>
+      <link>http://localhost:1313/posts/livingston-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
+      <guid>http://localhost:1313/posts/livingston-first-post/</guid>
+=======
+    <lastBuildDate>Thu, 05 Sep 2024 09:55:18 -0400</lastBuildDate>
+>>>>>>> 36a2582b4b2fcddfd50ccd5b608430123fa1c3ba
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kirkpatrick First Post</title>
+      <link>http://localhost:1313/posts/kirkpatrick-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:58:01 -0400</pubDate>
+      <guid>http://localhost:1313/posts/kirkpatrick-first-post/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Coleman First Post</title>
       <link>http://localhost:1313/posts/coleman-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/coleman-first-post/</guid>
+<<<<<<< HEAD
+      <description>I am very excited for football to start. I think the chiefs will win.</description>
+=======
+>>>>>>> b92b0ca0ec0d90f0a5711995e5f43c49d9c9f606
       <description></description>
+>>>>>>> 36a2582b4b2fcddfd50ccd5b608430123fa1c3ba
     </item>
   </channel>
 </rss>

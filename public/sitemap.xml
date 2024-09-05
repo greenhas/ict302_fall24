@@ -2,14 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/coleman-first-post/</loc>
-    <lastmod>2024-09-05T09:55:18-04:00</lastmod>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/kirkpatrick-first-post/</loc>
+    <lastmod>2024-09-05T09:58:01-04:00</lastmod>
+=======
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/livingston-first-post/</loc>
+    <lastmod>2024-09-05T09:59:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-05T09:55:18-04:00</lastmod>
+    <lastmod>2024-09-05T09:59:06-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-05T09:59:06-04:00</lastmod>
+=======
+    <loc>http://localhost:1313/posts/coleman-first-post/</loc>
     <lastmod>2024-09-05T09:55:18-04:00</lastmod>
+>>>>>>> 36a2582b4b2fcddfd50ccd5b608430123fa1c3ba
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-05T09:58:01-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-05T09:58:01-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/coleman-first-post/</loc>
+    <lastmod>2024-09-05T09:55:18-04:00</lastmod>
+>>>>>>> b92b0ca0ec0d90f0a5711995e5f43c49d9c9f606
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
