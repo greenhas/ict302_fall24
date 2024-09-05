@@ -18,4 +18,4 @@ draft = false
 
 >example blockquoate
 
-![boxing squad](C:\Users\ricky\ict302_fall24\content\posts\BoxingGang.JPG)
+![boxing squad](content\posts\BoxingGang.JPG)
