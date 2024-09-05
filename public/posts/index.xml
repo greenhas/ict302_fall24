@@ -6,14 +6,21 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Sep 2024 09:26:42 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 09:55:18 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayes McCoy: My First Post</title>
       <link>http://localhost:1313/posts/mccoy-first-post/</link>
       <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
-      <description>Test Test Link&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+      <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title>Coleman First Post</title>
+      <link>http://localhost:1313/posts/coleman-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
+      <guid>http://localhost:1313/posts/coleman-first-post/</guid>
+      <description>I am very excited for football to start. I think the chiefs will win.</description>
     </item>
   </channel>
 </rss>
