@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/chen-first-post/</guid>
       <description>italian&#xA;bold text&#xA;strike through&#xA;My Instagram&#xA;example blockquoate&#xA;testign again</description>
     </item>
+    <item>
+      <title>Adhikari First Post</title>
+      <link>http://localhost:1313/posts/adhikari-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:51:01 -0400</pubDate>
+      <guid>http://localhost:1313/posts/adhikari-first-post/</guid>
+      <description>Intro&#xA;My name is Sayana Adhikari and I am a Junior maojoring in ICT at the University of Kentucky.&#xA;[my link] (https://youtu.be/fBB4MaBybyg?si=kcz3ATvo-Ci1qzbK) is my favorite song at the moment.</description>
+    </item>
   </channel>
 </rss>
