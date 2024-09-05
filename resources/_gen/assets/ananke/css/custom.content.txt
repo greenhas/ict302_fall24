@@ -1,0 +1,3 @@
+body {
+    background-color: #b6d7a8 !important; /* Change the background color */
+}
