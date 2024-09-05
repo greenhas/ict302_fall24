@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/nguyen-first-post/</guid>
       <description>This is my first post&#xA;This is the second line&#xA;This is another line&#xA;my link&#xA;example blockquote&#xA;This is another text </description>
     </item>
+    <item>
+      <title>Coleman First Post</title>
+      <link>http://localhost:1313/posts/coleman-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
+      <guid>http://localhost:1313/posts/coleman-first-post/</guid>
+      <description>I am very excited for football to start. I think the chiefs will win.</description>
+    </item>
   </channel>
 </rss>
