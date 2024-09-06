@@ -5,13 +5,16 @@
     <loc>http://localhost:1313/posts/mccoy-first-post/</loc>
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/content_coleman_bryan/</loc>
-    <lastmod>2024-09-05T11:21:14-04:00</lastmod>
+    <loc>http://localhost:1313/posts/content_myers_albert/</loc>
+    <lastmod>2024-09-06T13:27:31-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-05T11:21:14-04:00</lastmod>
+    <lastmod>2024-09-06T13:27:31-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-06T13:27:31-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_coleman_bryan/</loc>
     <lastmod>2024-09-05T11:21:14-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/content_nguyen_nhi/</loc>
