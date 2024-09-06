@@ -1,7 +1,7 @@
 +++
 title = 'Content_Myers_Albert'
 date = 2024-09-06T13:27:31-04:00
-draft = true
+draft = false
 +++
 
 Dash talks about the phrase user generated content and how the people who generated this conent did not like the way the phrase represented them. He also talks about how a lot of younger people today refer to themselves as content creators. (Richman, 2022)
