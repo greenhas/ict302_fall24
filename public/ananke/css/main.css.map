@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/bryancoleman/ict302_fall24",
+	"sourceRoot": "/Users/ajhotko/ict302_fall24",
 	"sources": [
 		"ananke/css/main.css"
 	],
