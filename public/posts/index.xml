@@ -6,22 +6,16 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-<<<<<<< Updated upstream
     <lastBuildDate>Fri, 06 Sep 2024 13:27:31 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-=======
-    <lastBuildDate>Thu, 05 Sep 2024 09:59:06 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayes McCoy: Define Content</title>
       <link>http://localhost:1313/posts/content_mccoy_hayes/</link>
       <pubDate>Thu, 05 Sep 2024 05:15:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_mccoy_hayes/</guid>
-      <description>&amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;What is Content To Me? Content is a term that can refer to a broad assortment of things&#xA;This can include&#xA;Text Visuals Audios Games Lessons And More! For me content can be defined as a piece of information, entertainment, or an experience that is created for the pupose to inform, entertain, or persuade, and this is consumed in a format that is either digital or physical.</description>
+      <description>Test&#xA;&amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;What is Content To Me? Content is a term that can refer to a broad assortment of things&#xA;This can include&#xA;Text Visuals Audios Games Lessons And More! For me content can be defined as a piece of information, entertainment, or an experience that is created for the pupose to inform, entertain, or persuade, and this is consumed in a format that is either digital or physical.</description>
     </item>
     <item>
->>>>>>> Stashed changes
       <title>Hayes McCoy: My First Post</title>
       <link>http://localhost:1313/posts/mccoy-first-post/</link>
       <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
@@ -29,7 +23,6 @@
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
-<<<<<<< Updated upstream
       <title>Content_Myers_Albert</title>
       <link>http://localhost:1313/posts/content_myers_albert/</link>
       <pubDate>Fri, 06 Sep 2024 13:27:31 -0400</pubDate>
@@ -79,8 +72,6 @@
       <description>italian&#xA;bold text&#xA;strike through&#xA;My Instagram&#xA;example blockquoate&#xA;testign again</description>
     </item>
     <item>
-=======
->>>>>>> Stashed changes
       <title>Livingston First Post</title>
       <link>http://localhost:1313/posts/livingston-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
@@ -88,30 +79,18 @@
       <description>Test Header italic text strikethrough Test information TEST test&#xA;click here</description>
     </item>
     <item>
-<<<<<<< Updated upstream
       <title>Nguyen First Post</title>
       <link>http://localhost:1313/posts/nguyen-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:56:29 -0400</pubDate>
       <guid>http://localhost:1313/posts/nguyen-first-post/</guid>
       <description>This is my first post&#xA;This is the second line&#xA;This is another line&#xA;my link&#xA;example blockquote&#xA;This is another text </description>
-=======
-      <title>Kirkpatrick First Post</title>
-      <link>http://localhost:1313/posts/kirkpatrick-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 09:58:01 -0400</pubDate>
-      <guid>http://localhost:1313/posts/kirkpatrick-first-post/</guid>
-      <description></description>
->>>>>>> Stashed changes
     </item>
     <item>
       <title>Coleman First Post</title>
       <link>http://localhost:1313/posts/coleman-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/coleman-first-post/</guid>
-<<<<<<< Updated upstream
       <description>I am very excited for football to start.&#xA;I think the chiefs will win.</description>
-=======
-      <description>I am very excited for football to start. I think the chiefs will win.</description>
->>>>>>> Stashed changes
     </item>
     <item>
       <title>Hotko First Post</title>

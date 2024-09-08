@@ -2,7 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< Updated upstream
+    <loc>http://localhost:1313/posts/content_mccoy_hayes/</loc>
+    <lastmod>2024-09-05T05:15:42-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/mccoy-first-post/</loc>
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
@@ -38,25 +40,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/nguyen-first-post/</loc>
     <lastmod>2024-09-05T09:56:29-04:00</lastmod>
-=======
-    <loc>http://localhost:1313/posts/content_mccoy_hayes/</loc>
-    <lastmod>2024-09-05T05:15:42-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/mccoy-first-post/</loc>
-    <lastmod>2024-09-03T09:26:42-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/livingston-first-post/</loc>
-    <lastmod>2024-09-05T09:59:06-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-05T09:59:06-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-05T09:59:06-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/kirkpatrick-first-post/</loc>
-    <lastmod>2024-09-05T09:58:01-04:00</lastmod>
->>>>>>> Stashed changes
   </url><url>
     <loc>http://localhost:1313/posts/coleman-first-post/</loc>
     <lastmod>2024-09-05T09:55:18-04:00</lastmod>
