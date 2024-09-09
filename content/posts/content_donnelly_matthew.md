@@ -1,11 +1,11 @@
 +++
 title = 'content_donnelly_matthew'
-date = 2024-09-05T11:17:40-04:00
+date = 2024-09-09T11:17:40-04:00
 draft = false
 +++
 ## What is Content? 
 
-title: "Definition of Content"
+"Definition of Content"
 **Content** would be something that users create and is "intended for consumption by a human audience" (Barker, 2016)
 
 **My Definition** would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.
