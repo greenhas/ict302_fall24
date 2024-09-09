@@ -6,21 +6,21 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Sep 2024 09:59:06 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 09:59:49 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Livingston First Post</title>
-      <link>http://localhost:1313/posts/livingston-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
-      <guid>http://localhost:1313/posts/livingston-first-post/</guid>
-      <description>Test Header italic text strikethrough Test information TEST test&#xA;click here</description>
+      <title>Amjad.first Post</title>
+      <link>http://localhost:1313/posts/amjad.first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:59:49 -0400</pubDate>
+      <guid>http://localhost:1313/posts/amjad.first-post/</guid>
+      <description>Be me 666 #987&#xA;uwu&#xA;http://hi.com</description>
     </item>
     <item>
-      <title>Coleman First Post</title>
-      <link>http://localhost:1313/posts/coleman-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
-      <guid>http://localhost:1313/posts/coleman-first-post/</guid>
-      <description>I am very excited for football to start. I think the chiefs will win.</description>
+      <title>Hotko First Post</title>
+      <link>http://localhost:1313/posts/hotko-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:54:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/hotko-first-post/</guid>
+      <description>text text error&#xA;test&#xA;test no line skip&#xA;skip&#xA;my link</description>
     </item>
   </channel>
 </rss>
