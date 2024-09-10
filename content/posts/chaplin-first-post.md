@@ -5,4 +5,4 @@ draft = true
 +++
 ## Introduction
 
-Hello! I'm **Omari** and this is my *first* post! My favorite website is [Google](https://google.com/).
+Hello! I'm **Omari** and this is my *first* post! My favorite website is [Google](https://google.com/)!
