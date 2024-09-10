@@ -14,7 +14,8 @@ draft = false
 
 > example blockquote
 
-![my alt text](/img/my-image.webp)
+![my alt text](/posts/nhi.jpg)
+
 
 ## This is another text
 
