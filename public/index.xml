@@ -7,6 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <lastBuildDate>Thu, 05 Sep 2024 09:59:06 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,6 +18,9 @@
       <description>Test Header italic text strikethrough Test information TEST test&#xA;click here</description>
 =======
     <lastBuildDate>Mon, 09 Sep 2024 23:06:05 -0400</lastBuildDate>
+=======
+    <lastBuildDate>Tue, 10 Sep 2024 04:50:12 +0000</lastBuildDate>
+>>>>>>> 76a9cd6e516391a5519400da3e7c012efec580b6
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayes McCoy: Define Content</title>
@@ -33,11 +37,32 @@
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
+      <title>What is **Content**? - Omari</title>
+      <link>http://localhost:1313/posts/content_chaplin_omari/</link>
+      <pubDate>Tue, 10 Sep 2024 04:50:12 +0000</pubDate>
+      <guid>http://localhost:1313/posts/content_chaplin_omari/</guid>
+      <description>What is Content? According to the slides and Deane Barker, content is created by editorial process and intended for consumption by a human audience. To me, content is anything we humans create and put onto the internet. Anything from blogposts, to videos, to music, to images: all of it is content!&#xA;An Example One example of content in action is this awesome video by Claire Saffitz. In this video, she demonstrates one of her recipes from her book.</description>
+    </item>
+    <item>
+      <title>Chaplin First Post</title>
+      <link>http://localhost:1313/posts/chaplin-first-post/</link>
+      <pubDate>Mon, 09 Sep 2024 23:43:59 -0400</pubDate>
+      <guid>http://localhost:1313/posts/chaplin-first-post/</guid>
+      <description>Introduction Hello! I&amp;rsquo;m Omari and this is my first post! My favorite website is Google!</description>
+    </item>
+    <item>
       <title>Content Livingston Chauncey</title>
       <link>http://localhost:1313/posts/content_lastname_firstname/</link>
       <pubDate>Mon, 09 Sep 2024 23:06:05 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_lastname_firstname/</guid>
       <description>What is Content? Formally &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media In my opinion content is various types of information or media shared on any type of platform. For example here is a website that has multiple types of content including an article and pictures.</description>
+    </item>
+    <item>
+      <title>Content_mason_avery</title>
+      <link>http://localhost:1313/posts/content_mason_avery/</link>
+      <pubDate>Mon, 09 Sep 2024 16:26:16 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_mason_avery/</guid>
+      <description>“Content is information produced through editorial process and ultimately intended for human consumption via publication.” Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;I understand this concept as the creation of something with humans as the consumers. Videos, movies, podcasts, interviews, books and journals are some examples. Authors write books with the hopes that someone consumes them, i.e. reads their work. A chef creates a dish that he hopes customers will enjoy etc.</description>
     </item>
     <item>
       <title>content_donnelly_matthew</title>
@@ -137,6 +162,13 @@
       <pubDate>Thu, 05 Sep 2024 09:52:58 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_young_sim/</guid>
       <description>Content is &amp;ldquo;&amp;hellip; information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media. To me, this means content that is produced by humans for human interaction.&#xA;Some content I regularly consume are YouTube videos(youtube.com). This aligns with the definitions because the videos are content that has been created by a human, edited, and then made for human consumption.</description>
+    </item>
+    <item>
+      <title>Parsons First Post</title>
+      <link>http://localhost:1313/posts/parsons-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:51:35 -0400</pubDate>
+      <guid>http://localhost:1313/posts/parsons-first-post/</guid>
+      <description>Hi my name is Ben. Here is my HTML website:&#xA;My Favorite Band</description>
     </item>
     <item>
       <title>Adhikari First Post</title>

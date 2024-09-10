@@ -1,7 +1,7 @@
 +++
 title = 'What is **Content**? - Omari'
 date = 2024-09-10T04:50:12Z
-draft = true
+draft = false
 +++
 ## What is Content?
 
