@@ -8,4 +8,8 @@ draft = false
 ~strikethrough~
 Test information *TEST* test
 
+<<<<<<< HEAD
 [click here](https://www.youtube.com/)
+=======
+[click here](https://www.youtube.com
+>>>>>>> f7e33f0b2dff66b1e5a833aabeb3e83970faac45
