@@ -50,8 +50,19 @@
     <loc>http://localhost:1313/posts/mccoy-first-post/</loc>
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/content_hotko_aj/</loc>
+    <lastmod>2024-09-08T17:47:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-08T17:47:53-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_myers_albert/</loc>
+    <lastmod>2024-09-06T13:27:31-04:00</lastmod>
+=======
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-09-10T04:50:12+00:00</lastmod>
+>>>>>>> 692da215b822e3338b6f032660a3e2e0cc84be72
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-10T04:50:12+00:00</lastmod>
