@@ -1,7 +1,7 @@
 +++
 title = 'UGC_bryant_henry'
 date = 2024-09-10T10:24:07-04:00
-draft = true
+draft = false
 +++
 ## What is User-Generated Content? 
 
