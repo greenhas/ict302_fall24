@@ -1,23 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-<<<<<<< HEAD
-	"sourceRoot": "/Users/leakemper/ict302_fall24",
-=======
-<<<<<<< HEAD
-	"sourceRoot": "/Users/ajhotko/ict302_fall24",
-=======
-<<<<<<< HEAD
-	"sourceRoot": "/Users/grantlewis/ict302_fall24",
-=======
-<<<<<<< HEAD
-	"sourceRoot": "/Users/chaunceylivingston/ict302_fall24",
-=======
-	"sourceRoot": "/Users/bryancoleman/ict302_fall24",
->>>>>>> b92b0ca0ec0d90f0a5711995e5f43c49d9c9f606
->>>>>>> 36a2582b4b2fcddfd50ccd5b608430123fa1c3ba
->>>>>>> 692da215b822e3338b6f032660a3e2e0cc84be72
->>>>>>> a070a680ba4a04d294a82e48247831ca567d4163
+	"sourceRoot": "/Users/nhinguyen/ict302_fall24",
 	"sources": [
 		"ananke/css/main.css"
 	],
