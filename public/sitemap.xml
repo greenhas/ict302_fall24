@@ -9,6 +9,7 @@
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>http://localhost:1313/posts/aggregation_coleman_bryan/</loc>
     <lastmod>2024-09-12T12:37:01-04:00</lastmod>
 =======
@@ -40,22 +41,22 @@
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-17T00:27:04-04:00</lastmod>
+=======
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-17T04:50:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-17T04:50:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_chaplin_omari/</loc>
+    <lastmod>2024-09-17T04:50:12+00:00</lastmod>
+>>>>>>> 2859c48341854530a841430a49e4b501ef595fe7
   </url><url>
     <loc>http://localhost:1313/posts/ugc_myers_albert/</loc>
     <lastmod>2024-09-17T00:27:04-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/lastname-first-post/</loc>
     <lastmod>2024-09-17T00:26:14-04:00</lastmod>
->>>>>>> 0dbcd7f565d86daf9e54f35efdb7fc462fb3020b
-  </url><url>
-    <loc>http://localhost:1313/posts/content_myers_albert/</loc>
-    <lastmod>2024-09-06T13:27:31-04:00</lastmod>
-=======
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-10T10:24:07-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-09-10T10:24:07-04:00</lastmod>
   </url><url>
 >>>>>>> 031ca43f2b4236e84c2e4e04ea2e186e2c41294f
     <loc>http://localhost:1313/posts/ugc_bryant_henry/</loc>
@@ -64,12 +65,15 @@
     <loc>http://localhost:1313/posts/ugc_chen_ricky/</loc>
     <lastmod>2024-09-10T10:23:27-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/posts/content_parsons_ben/</loc>
     <lastmod>2024-09-10T10:16:12-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/content_kemper_lea/</loc>
     <lastmod>2024-09-10T10:11:20-04:00</lastmod>
   </url><url>
+=======
+>>>>>>> 2859c48341854530a841430a49e4b501ef595fe7
     <loc>http://localhost:1313/posts/content_chaplin_omari/</loc>
     <lastmod>2024-09-10T04:50:12+00:00</lastmod>
   </url><url>
@@ -79,6 +83,7 @@
     <loc>http://localhost:1313/posts/content_lastname_firstname/</loc>
     <lastmod>2024-09-09T23:06:05-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/posts/content-rael-kapanga/</loc>
     <lastmod>2024-09-09T20:08:06-04:00</lastmod>
   </url><url>
@@ -96,6 +101,10 @@
   </url><url>
     <loc>http://localhost:1313/posts/content_hotko_aj/</loc>
     <lastmod>2024-09-08T17:47:53-04:00</lastmod>
+=======
+    <loc>http://localhost:1313/posts/content_donnelly_matthew/</loc>
+    <lastmod>2024-09-09T11:17:40-04:00</lastmod>
+>>>>>>> 2859c48341854530a841430a49e4b501ef595fe7
   </url><url>
     <loc>http://localhost:1313/posts/content_myers_albert/</loc>
     <lastmod>2024-09-06T13:27:31-04:00</lastmod>
