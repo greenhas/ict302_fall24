@@ -6,8 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <lastBuildDate>Mon, 09 Sep 2024 23:06:05 -0400</lastBuildDate>
+=======
     <lastBuildDate>Tue, 10 Sep 2024 10:24:07 -0400</lastBuildDate>
+>>>>>>> 0675aad933e72c4bc098c19ef113ed1eae8aa627
+=======
+    <lastBuildDate>Tue, 17 Sep 2024 00:27:04 -0400</lastBuildDate>
+>>>>>>> 0dbcd7f565d86daf9e54f35efdb7fc462fb3020b
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hayes McCoy: Define Content</title>
+      <link>http://localhost:1313/posts/content_mccoy_hayes/</link>
+      <pubDate>Thu, 05 Sep 2024 05:15:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_mccoy_hayes/</guid>
+      <description>&amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;What is Content To Me? Content is a term that can refer to a broad assortment of things&#xA;This can include&#xA;Text Visuals Audios Games Lessons And More! For me content can be defined as a piece of information, entertainment, or an experience that is created for the pupose to inform, entertain, or persuade, and this is consumed in a format that is either digital or physical.</description>
+    </item>
     <item>
       <title>Hayes McCoy: My First Post</title>
       <link>http://localhost:1313/posts/mccoy-first-post/</link>
@@ -16,6 +31,43 @@
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <title>Content Livingston Chauncey</title>
+      <link>http://localhost:1313/posts/content_lastname_firstname/</link>
+      <pubDate>Mon, 09 Sep 2024 23:06:05 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_lastname_firstname/</guid>
+      <description>What is Content? Formally &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media In my opinion content is various types of information or media shared on any type of platform. For example here is a website that has multiple types of content including an article and pictures.</description>
+    </item>
+    <item>
+      <title>content_donnelly_matthew</title>
+      <link>http://localhost:1313/posts/content_donnelly_matthew/</link>
+      <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_donnelly_matthew/</guid>
+      <description>What is Content? &amp;ldquo;Definition of Content&amp;rdquo; Content would be something that users create and is &amp;ldquo;intended for consumption by a human audience&amp;rdquo; (Barker, 2016)&#xA;My Definition would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.&#xA;Content that I regularly consume&#xA;If I ever feel like some of my photos are lacking any substance, I usually check out this website my link The reason that this website is content is that this is made for a human audiences, for creatives that are looking to find inspiration or try and recreate a visual shot.</description>
+=======
+      <title>UGC_myers_albert</title>
+      <link>http://localhost:1313/posts/ugc_myers_albert/</link>
+      <pubDate>Tue, 17 Sep 2024 00:27:04 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_myers_albert/</guid>
+      <description>What is &amp;ldquo;user-generated content&amp;rdquo; &amp;ldquo;User-generated content (UGC) is published information that an unpaid contributor provides to a website&amp;rdquo; (Yasar, 2022). Somebody puts out photo or video into the public domain that anhyone can use.&#xA;Social media posts are great examples of UGC. One video can be circulated to potentially multiple different accounts that then give the original person credit for the use of their post. These posts can give someone a potential platform to use.</description>
+    </item>
+    <item>
+      <title>Lastname First Post</title>
+      <link>http://localhost:1313/posts/lastname-first-post/</link>
+      <pubDate>Tue, 17 Sep 2024 00:26:14 -0400</pubDate>
+      <guid>http://localhost:1313/posts/lastname-first-post/</guid>
+      <description></description>
+>>>>>>> 0dbcd7f565d86daf9e54f35efdb7fc462fb3020b
+    </item>
+    <item>
+      <title>Content_Myers_Albert</title>
+      <link>http://localhost:1313/posts/content_myers_albert/</link>
+      <pubDate>Fri, 06 Sep 2024 13:27:31 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_myers_albert/</guid>
+      <description>What is &amp;ldquo;content Dash talks about the phrase user generated content and how the people who generated this conent did not like the way the phrase represented them. He also talks about how a lot of younger people today refer to themselves as content creators. (Richman, 2022)&#xA;In my own words I think content is any form of consumable visual element that someone makes for someone else to view.</description>
+<<<<<<< HEAD
+=======
       <title>UGC_bryant_henry</title>
       <link>http://localhost:1313/posts/ugc_bryant_henry/</link>
       <pubDate>Tue, 10 Sep 2024 10:24:07 -0400</pubDate>
@@ -28,6 +80,9 @@
       <pubDate>Tue, 10 Sep 2024 10:23:27 -0400</pubDate>
       <guid>http://localhost:1313/posts/ugc_chen_ricky/</guid>
       <description>What is User-Generated Content? According to Deane Barker, &amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;To my Understanding User generated content is something that is created by non professionals and usually shows the real/raw identity of something without getting paid.&#xA;Example An example of user generated content is reviews for a Amazon product. Here is an example -&amp;gt; Amazon Review</description>
+>>>>>>> 0675aad933e72c4bc098c19ef113ed1eae8aa627
+=======
+>>>>>>> 0dbcd7f565d86daf9e54f35efdb7fc462fb3020b
     </item>
     <item>
       <title>Content_coleman_bryan</title>
@@ -35,6 +90,13 @@
       <pubDate>Thu, 05 Sep 2024 11:21:14 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_coleman_bryan/</guid>
       <description>Content is information produced through editorial process and ultimately intended for human consumption via publication. In my own words, content is information available for either retrieval or engagement intended for users and people. One example of content that I consume regularly are golf youtube videos posted by Bryson DeChambeau. Here is my link This example illustrates the concept of content as I, the user, engage with the information, the video of Bryson golfing and giving tips as he plays, and by watching it I consume it, and the videos are edited before they are posted.</description>
+    </item>
+    <item>
+      <title>Content_nguyen_nhi</title>
+      <link>http://localhost:1313/posts/content_nguyen_nhi/</link>
+      <pubDate>Thu, 05 Sep 2024 11:18:41 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_nguyen_nhi/</guid>
+      <description>What is Content? The definition of this concept definition that I&amp;rsquo;ve chosen is &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;In other words, the explanation of this concept is Content is information or ideas shared in different formats like text, images, videos, or audio. It can be found on websites, social media, blogs, and more, and is created to inform, entertain, or engage an audience.</description>
     </item>
     <item>
       <title>Content_chen_ricky</title>
@@ -65,11 +127,18 @@
       <description>italian&#xA;bold text&#xA;strike through&#xA;My Instagram&#xA;example blockquoate&#xA;testign again</description>
     </item>
     <item>
+      <title>Define content (Ahmad)</title>
+      <link>http://localhost:1313/posts/content_amjad_ahmad/</link>
+      <pubDate>Thu, 05 Sep 2024 09:59:49 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_amjad_ahmad/</guid>
+      <description>Definition: &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;From slide:&#xA;ICT 302: Content Management Systems 3 September 2024 Dr. Spencer Greenhalgh&#xA;Something you consume, not like food, but like entertainment for example&#xA;Animation: https://en.wikipedia.org/wiki/Animation&#xA;I&amp;rsquo;m a huge fan of animation (I wish I did an art / animation major instead) and animation could be considered an example as it goes through a lot of editorial processes like storyboarding for example, and</description>
+    </item>
+    <item>
       <title>Livingston First Post</title>
       <link>http://localhost:1313/posts/livingston-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
       <guid>http://localhost:1313/posts/livingston-first-post/</guid>
-      <description>Test Header italic text strikethrough Test information TEST test&#xA;click here</description>
+      <description>Test Header italic text strikethrough Test information TEST test&#xA;[click here](https://www.youtube.com</description>
     </item>
     <item>
       <title>Nguyen First Post</title>
@@ -83,7 +152,7 @@
       <link>http://localhost:1313/posts/coleman-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/coleman-first-post/</guid>
-      <description>I am very excited for football to start. I think the chiefs will win.</description>
+      <description>I am very excited for football to start.&#xA;I think the chiefs will win.</description>
     </item>
     <item>
       <title>Hotko First Post</title>
@@ -91,6 +160,13 @@
       <pubDate>Thu, 05 Sep 2024 09:54:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/hotko-first-post/</guid>
       <description>text text error&#xA;test&#xA;test no line skip&#xA;skip&#xA;my link</description>
+    </item>
+    <item>
+      <title>Class Blog #1</title>
+      <link>http://localhost:1313/posts/content_young_sim/</link>
+      <pubDate>Thu, 05 Sep 2024 09:52:58 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_young_sim/</guid>
+      <description>Content is &amp;ldquo;&amp;hellip; information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media. To me, this means content that is produced by humans for human interaction.&#xA;Some content I regularly consume are YouTube videos(youtube.com). This aligns with the definitions because the videos are content that has been created by a human, edited, and then made for human consumption.</description>
     </item>
     <item>
       <title>Adhikari First Post</title>
