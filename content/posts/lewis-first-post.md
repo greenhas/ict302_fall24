@@ -1,5 +1,5 @@
 ---
-title: "Content Placeholder"
+title: "test post"
 _build:
   render: never
   list: never
