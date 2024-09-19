@@ -2,139 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50688/posts/content_mccoy_hayes/</loc>
+    <loc>http://localhost:1313/posts/content_mccoy_hayes/</loc>
     <lastmod>2024-09-05T05:15:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/mccoy-first-post/</loc>
+    <loc>http://localhost:1313/posts/mccoy-first-post/</loc>
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_harp_mauricio/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-19T15:39:43-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-19T15:39:43-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_hotko_aj/</loc>
+    <lastmod>2024-09-19T15:39:43-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_harp_mauricio/</loc>
+    <lastmod>2024-09-17T15:23:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_harp_mauricio/</loc>
     <lastmod>2024-09-17T10:58:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/</loc>
-    <lastmod>2024-09-17T10:58:35-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:50688/posts/</loc>
-    <lastmod>2024-09-17T10:58:35-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:50688/posts/aggregation_bryant_henry/</loc>
+    <loc>http://localhost:1313/posts/aggregation_bryant_henry/</loc>
     <lastmod>2024-09-17T10:53:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/aggregation_chen_ricky/</loc>
+    <loc>http://localhost:1313/posts/aggregation_chen_ricky/</loc>
     <lastmod>2024-09-17T10:51:44-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/aggregation_nguyen_nhi/</loc>
+    <loc>http://localhost:1313/posts/aggregation_nguyen_nhi/</loc>
     <lastmod>2024-09-17T10:26:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/ugc_chaplin_omari/</loc>
+    <loc>http://localhost:1313/posts/ugc_chaplin_omari/</loc>
     <lastmod>2024-09-17T04:50:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/ugc_myers_albert/</loc>
+    <loc>http://localhost:1313/posts/ugc_myers_albert/</loc>
     <lastmod>2024-09-17T00:27:04-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/aggregation_coleman_bryan/</loc>
+    <loc>http://localhost:1313/posts/aggregation_coleman_bryan/</loc>
     <lastmod>2024-09-12T12:37:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/ugc_coleman_bryan/</loc>
+    <loc>http://localhost:1313/posts/ugc_coleman_bryan/</loc>
     <lastmod>2024-09-11T10:28:17-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/ugc_nguyen_nhi/</loc>
+    <loc>http://localhost:1313/posts/ugc_nguyen_nhi/</loc>
     <lastmod>2024-09-10T10:26:39-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/ugc_bryant_henry/</loc>
+    <loc>http://localhost:1313/posts/ugc_bryant_henry/</loc>
     <lastmod>2024-09-10T10:24:07-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/ugc_chen_ricky/</loc>
+    <loc>http://localhost:1313/posts/ugc_chen_ricky/</loc>
     <lastmod>2024-09-10T10:23:27-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_parsons_ben/</loc>
+    <loc>http://localhost:1313/posts/content_parsons_ben/</loc>
     <lastmod>2024-09-10T10:16:12-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_kemper_lea/</loc>
+    <loc>http://localhost:1313/posts/content_kemper_lea/</loc>
     <lastmod>2024-09-10T10:11:20-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_chaplin_omari/</loc>
+    <loc>http://localhost:1313/posts/content_chaplin_omari/</loc>
     <lastmod>2024-09-10T04:50:12+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/chaplin-first-post/</loc>
+    <loc>http://localhost:1313/posts/chaplin-first-post/</loc>
     <lastmod>2024-09-09T23:43:59-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_lastname_firstname/</loc>
+    <loc>http://localhost:1313/posts/content_lastname_firstname/</loc>
     <lastmod>2024-09-09T23:06:05-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content-rael-kapanga/</loc>
+    <loc>http://localhost:1313/posts/content-rael-kapanga/</loc>
     <lastmod>2024-09-09T20:08:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/lastname-first-post/</loc>
-    <lastmod>2024-09-09T20:06:23-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:50688/posts/content_mason_avery/</loc>
+    <loc>http://localhost:1313/posts/content_mason_avery/</loc>
     <lastmod>2024-09-09T16:26:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/kapanga-first-post/</loc>
+    <loc>http://localhost:1313/posts/kapanga-first-post/</loc>
     <lastmod>2024-09-09T11:23:31-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/kapanga-rael-post/</loc>
+    <loc>http://localhost:1313/posts/kapanga-rael-post/</loc>
     <lastmod>2024-09-09T11:22:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_hotko_aj/</loc>
+    <loc>http://localhost:1313/posts/content_hotko_aj/</loc>
     <lastmod>2024-09-08T17:47:53-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_myers_albert/</loc>
+    <loc>http://localhost:1313/posts/content_myers_albert/</loc>
     <lastmod>2024-09-06T13:27:31-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_coleman_bryan/</loc>
+    <loc>http://localhost:1313/posts/content_coleman_bryan/</loc>
     <lastmod>2024-09-05T11:21:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_nguyen_nhi/</loc>
+    <loc>http://localhost:1313/posts/content_nguyen_nhi/</loc>
     <lastmod>2024-09-05T11:18:41-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_chen_ricky/</loc>
+    <loc>http://localhost:1313/posts/content_chen_ricky/</loc>
     <lastmod>2024-09-05T11:17:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_bryant_henry/</loc>
+    <loc>http://localhost:1313/posts/content_bryant_henry/</loc>
     <lastmod>2024-09-05T11:09:04-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/chen-first-post/</loc>
+    <loc>http://localhost:1313/posts/chen-first-post/</loc>
     <lastmod>2024-09-05T10:02:40-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_amjad_ahmad/</loc>
+    <loc>http://localhost:1313/posts/content_amjad_ahmad/</loc>
     <lastmod>2024-09-05T09:59:49-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/livingston-first-post/</loc>
+    <loc>http://localhost:1313/posts/livingston-first-post/</loc>
     <lastmod>2024-09-05T09:59:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/nguyen-first-post/</loc>
+    <loc>http://localhost:1313/posts/nguyen-first-post/</loc>
     <lastmod>2024-09-05T09:56:29-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/coleman-first-post/</loc>
+    <loc>http://localhost:1313/posts/coleman-first-post/</loc>
     <lastmod>2024-09-05T09:55:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/hotko-first-post/</loc>
+    <loc>http://localhost:1313/posts/hotko-first-post/</loc>
     <lastmod>2024-09-05T09:54:42-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/content_young_sim/</loc>
+    <loc>http://localhost:1313/posts/content_young_sim/</loc>
     <lastmod>2024-09-05T09:52:58-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/harp-first-post/</loc>
+    <loc>http://localhost:1313/posts/harp-first-post/</loc>
     <lastmod>2024-09-05T09:52:18-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/parsons-first-post/</loc>
+    <loc>http://localhost:1313/posts/parsons-first-post/</loc>
     <lastmod>2024-09-05T09:51:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/adhikari-first-post/</loc>
+    <loc>http://localhost:1313/posts/adhikari-first-post/</loc>
     <lastmod>2024-09-05T09:51:01-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/myers-first-post/</loc>
+    <loc>http://localhost:1313/posts/myers-first-post/</loc>
     <lastmod>2024-09-05T09:50:37-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/posts/bryant-first-post/</loc>
+    <loc>http://localhost:1313/posts/bryant-first-post/</loc>
     <lastmod>2024-09-05T09:49:58-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:50688/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:50688/pots/</loc>
+    <loc>http://localhost:1313/pots/</loc>
   </url><url>
-    <loc>http://localhost:50688/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
