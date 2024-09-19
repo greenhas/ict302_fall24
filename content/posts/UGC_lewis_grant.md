@@ -1,6 +1,6 @@
 +++
 title: "Generalizing Content"
-date: "2024-09-17"
+date: 2024-09-17T15:23:23-04:00
 draft: true
 +++
 
