@@ -1,11 +1,8 @@
----
-title: "What is Content"
-_build:
-  render: true
-  list: true
-  publishResources: true
-
----
++++
+title = "Content Meaning"
+date = "2024-09-19"
+draft = true
++++
 
 ++What is Content++
 
