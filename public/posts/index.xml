@@ -6,7 +6,11 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 10 Sep 2024 04:50:12 +0000</lastBuildDate>
+=======
     <lastBuildDate>Thu, 19 Sep 2024 23:09:07 -0400</lastBuildDate>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayes McCoy: Define Content</title>
@@ -65,6 +69,15 @@
       <description></description>
     </item>
     <item>
+<<<<<<< HEAD
+      <title>What is **Content**? - Omari</title>
+      <link>http://localhost:1313/posts/content_chaplin_omari/</link>
+      <pubDate>Tue, 10 Sep 2024 04:50:12 +0000</pubDate>
+      <guid>http://localhost:1313/posts/content_chaplin_omari/</guid>
+      <description>What is Content? According to the slides and Deane Barker, content is created by editorial process and intended for consumption by a human audience. To me, content is anything we humans create and put onto the internet. Anything from blogposts, to videos, to music, to images: all of it is content!&#xA;An Example One example of content in action is this awesome video by Claire Saffitz. In this video, she demonstrates one of her recipes from her book.</description>
+    </item>
+    <item>
+=======
       <title>UGC_bryant_henry</title>
       <link>http://localhost:1313/posts/ugc_bryant_henry/</link>
       <pubDate>Tue, 10 Sep 2024 10:24:07 -0400</pubDate>
@@ -86,32 +99,63 @@
       <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;According to the slides and &lt;em&gt;Deane Barker&lt;/em&gt;, content is created by editorial process and intended for consumption by a human audience.&#xA;To me, content is anything we humans create and put onto the internet. Anything from blogposts, to videos, to music, to images: all of it is content!&lt;/p&gt;&#xA;&lt;h2 id=&#34;an-example&#34;&gt;An Example&lt;/h2&gt;&#xA;&lt;p&gt;One example of &lt;em&gt;content&lt;/em&gt; in action is &lt;a href=&#34;https://www.youtube.com/watch?v=JlzmsTiOJnU&amp;amp;pp=ygUdY2xhaXJlIHNhZmZpdHogY2lubmFtb24gcm9sbHM%3D&#34;&gt;this awesome video&lt;/a&gt; by Claire Saffitz. In this video, she demonstrates one of her recipes from her book. This content is &lt;strong&gt;created by her&lt;/strong&gt; and is &lt;strong&gt;intended for us to consume&lt;/strong&gt;. In this instance, it is meant to entertain and inform us about cooking!&lt;/p&gt;</description>
     </item>
     <item>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
       <title>Chaplin First Post</title>
       <link>http://localhost:1313/posts/chaplin-first-post/</link>
       <pubDate>Mon, 09 Sep 2024 23:43:59 -0400</pubDate>
       <guid>http://localhost:1313/posts/chaplin-first-post/</guid>
+<<<<<<< HEAD
+      <description>Introduction Hello! I&amp;rsquo;m Omari and this is my first post! My favorite website is Google!</description>
+=======
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Omari&lt;/strong&gt; and this is my &lt;em&gt;first&lt;/em&gt; post! My favorite website is &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt;!&lt;/p&gt;</description>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     </item>
     <item>
       <title>Content Livingston Chauncey</title>
       <link>http://localhost:1313/posts/content_lastname_firstname/</link>
       <pubDate>Mon, 09 Sep 2024 23:06:05 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_lastname_firstname/</guid>
+<<<<<<< HEAD
+      <description>What is Content? Formally &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media In my opinion content is various types of information or media shared on any type of platform. For example here is a website that has multiple types of content including an article and pictures.</description>
+    </item>
+    <item>
+      <title>Content_mason_avery</title>
+      <link>http://localhost:1313/posts/content_mason_avery/</link>
+      <pubDate>Mon, 09 Sep 2024 16:26:16 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_mason_avery/</guid>
+      <description>“Content is information produced through editorial process and ultimately intended for human consumption via publication.” Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;I understand this concept as the creation of something with humans as the consumers. Videos, movies, podcasts, interviews, books and journals are some examples. Authors write books with the hopes that someone consumes them, i.e. reads their work. A chef creates a dish that he hopes customers will enjoy etc.</description>
+=======
       <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;Formally &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;&lt;em&gt;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&lt;/em&gt;&#xA;In my opinion content is various types of information or media shared on any type of platform. For example &lt;a href=&#34;https://www.google.com/imgres?q=camaro%20zl1&amp;amp;imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2F2024-chevrolet-camaro-zl1-collectors-edition-647e05de95705.jpg&amp;amp;imgrefurl=https%3A%2F%2Fwww.caranddriver.com%2Fchevrolet%2Fcamaro-zl1&amp;amp;docid=tgcg5TloakjEwM&amp;amp;tbnid=sQ-ppBFeGNAQJM&amp;amp;vet=12ahUKEwiPzLHJtLeIAxXHrYkEHeUEB8MQM3oECBoQAA..i&amp;amp;w=5000&amp;amp;h=3329&amp;amp;hcb=2&amp;amp;ved=2ahUKEwiPzLHJtLeIAxXHrYkEHeUEB8MQM3oECBoQAA&#34;&gt;here&lt;/a&gt; is a website that has multiple types of content including an article and pictures.&lt;/p&gt;</description>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     </item>
     <item>
       <title>content_donnelly_matthew</title>
       <link>http://localhost:1313/posts/content_donnelly_matthew/</link>
       <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_donnelly_matthew/</guid>
+<<<<<<< HEAD
+      <description>What is Content? &amp;ldquo;Definition of Content&amp;rdquo; Content would be something that users create and is &amp;ldquo;intended for consumption by a human audience&amp;rdquo; (Barker, 2016)&#xA;My Definition would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.&#xA;Content that I regularly consume&#xA;If I ever feel like some of my photos are lacking any substance, I usually check out this website my link The reason that this website is content is that this is made for a human audiences, for creatives that are looking to find inspiration or try and recreate a visual shot.</description>
+    </item>
+    <item>
+      <title>Content_Hotko_AJ</title>
+      <link>http://localhost:1313/posts/content_hotko_aj/</link>
+      <pubDate>Sun, 08 Sep 2024 17:47:53 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_hotko_aj/</guid>
+      <description>Content as defined by Deane Barker, “Content is information produced through editorial process and ultimately intended for human consumption via publication.” Barker, D.( 2016). My definition of content if fairly simple, anything that humans consume that is created by humans. Some examples of content would be websites, movies, and even YouTube videos. A movie is an example of content because it was created by humans and intended for human consumption.</description>
+=======
       <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Definition of Content&amp;rdquo;&#xA;&lt;strong&gt;Content&lt;/strong&gt; would be something that users create and is &amp;ldquo;intended for consumption by a human audience&amp;rdquo; (Barker, 2016)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;My Definition&lt;/strong&gt; would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt; that I regularly &lt;em&gt;consume&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;If I ever feel like some of my photos are lacking any substance, I usually check out this website &lt;a href=&#34;https://eyecannndy.com/&#34;&gt;my link&lt;/a&gt;&#xA;The reason that this website is &lt;strong&gt;content&lt;/strong&gt; is that this is made for a human audiences, for creatives that are looking to find inspiration or try and recreate a visual shot.&lt;/p&gt;</description>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     </item>
     <item>
       <title>Content_Myers_Albert</title>
       <link>http://localhost:1313/posts/content_myers_albert/</link>
       <pubDate>Fri, 06 Sep 2024 13:27:31 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_myers_albert/</guid>
+<<<<<<< HEAD
+      <description>What is &amp;ldquo;content Dash talks about the phrase user generated content and how the people who generated this conent did not like the way the phrase represented them. He also talks about how a lot of younger people today refer to themselves as content creators. (Richman, 2022)&#xA;In my own words I think content is any form of consumable visual element that someone makes for someone else to view.</description>
+=======
       <description>&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;what-is-content&#34;&gt;&lt;strong&gt;What is&lt;/strong&gt; &lt;em&gt;&amp;ldquo;content&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Dash talks about the phrase user generated content and how the people who generated this conent did not like the way the phrase represented them. He also talks about how a lot of younger people today refer to themselves as content creators. (Richman, 2022)&lt;/p&gt;&#xA;&lt;p&gt;In my own words I think content is any form of consumable visual element that someone makes for someone else to view.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;content-example&#34;&gt;&lt;strong&gt;Content Example&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Streaming is a great example of why people call themselves comntent creators. I have a &lt;a href=&#34;https://www.twitch.tv/xirrelevxnt&#34;&gt;twitch channel&lt;/a&gt; where I produce content whenever I stream.&lt;/p&gt;</description>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     </item>
     <item>
       <title>Content_coleman_bryan</title>
@@ -128,6 +172,13 @@
       <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;The definition of this concept definition that I&amp;rsquo;ve chosen is &lt;em&gt;&amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;p&gt;In other words, the explanation of this concept is &lt;em&gt;Content is information or ideas shared in different formats like text, images, videos, or audio. It can be found on websites, social media, blogs, and more, and is created to inform, entertain, or engage an audience.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Content_nguyen_nhi</title>
+      <link>http://localhost:1313/posts/content_nguyen_nhi/</link>
+      <pubDate>Thu, 05 Sep 2024 11:18:41 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_nguyen_nhi/</guid>
+      <description>What is Content? The definition of this concept definition that I&amp;rsquo;ve chosen is &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;In other words, the explanation of this concept is Content is information or ideas shared in different formats like text, images, videos, or audio. It can be found on websites, social media, blogs, and more, and is created to inform, entertain, or engage an audience.</description>
+    </item>
+    <item>
       <title>Content_chen_ricky</title>
       <link>http://localhost:1313/posts/content_chen_ricky/</link>
       <pubDate>Thu, 05 Sep 2024 11:17:40 -0400</pubDate>
@@ -140,13 +191,6 @@
       <pubDate>Thu, 05 Sep 2024 11:09:04 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_bryant_henry/</guid>
       <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;According to Deane Barker in &lt;em&gt;Web Content Management&lt;/em&gt;, content can be defined as information that was &amp;ldquo;produced through editorial process and ultimately intended for human consumption&amp;rdquo; (Barker, 2016).&lt;/p&gt;&#xA;&lt;p&gt;In other words, this means that content is something that an individual put effort into creating and that was designed and created for another individual to interact with in a meaningful way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;content-example&#34;&gt;Content Example&lt;/h2&gt;&#xA;&lt;p&gt;An example of content that I consume would be a YouTube video. I watch YouTube every day and I&amp;rsquo;ve seen many different videos on the platform. For the purposes of this, I&amp;rsquo;ll use the videos from one of my favorite YouTube channels, &lt;a href=&#34;https://www.youtube.com/@veritasium&#34;&gt;Veritasium&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Donnelly First Post</title>
-      <link>http://localhost:1313/posts/donnelly-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 10:08:45 -0400</pubDate>
-      <guid>http://localhost:1313/posts/donnelly-first-post/</guid>
-      <description></description>
     </item>
     <item>
       <title>Chen First Post</title>
@@ -163,11 +207,19 @@
       <description>&lt;p&gt;Definition: &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;p&gt;From slide:&lt;/p&gt;&#xA;&lt;p&gt;ICT 302: Content Management Systems&#xA;3 September 2024&#xA;Dr. Spencer Greenhalgh&lt;/p&gt;&#xA;&lt;p&gt;Something you consume, not like food, but like entertainment for example&lt;/p&gt;&#xA;&lt;p&gt;Animation: &lt;a href=&#34;https://en.wikipedia.org/wiki/Animation&#34;&gt;https://en.wikipedia.org/wiki/Animation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a huge fan of animation (I wish I did an art / animation major instead) and animation could be considered an example as it goes through a lot of editorial processes like storyboarding for example, and&lt;/p&gt;</description>
     </item>
     <item>
+<<<<<<< HEAD
+      <title>Define content (Ahmad)</title>
+      <link>http://localhost:1313/posts/content_amjad_ahmad/</link>
+      <pubDate>Thu, 05 Sep 2024 09:59:49 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_amjad_ahmad/</guid>
+      <description>Definition: &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;From slide:&#xA;ICT 302: Content Management Systems 3 September 2024 Dr. Spencer Greenhalgh&#xA;Something you consume, not like food, but like entertainment for example&#xA;Animation: https://en.wikipedia.org/wiki/Animation&#xA;I&amp;rsquo;m a huge fan of animation (I wish I did an art / animation major instead) and animation could be considered an example as it goes through a lot of editorial processes like storyboarding for example, and</description>
+=======
       <title>Livingston First Post</title>
       <link>http://localhost:1313/posts/livingston-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
       <guid>http://localhost:1313/posts/livingston-first-post/</guid>
       <description>&lt;h2 id=&#34;test-header&#34;&gt;Test Header&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;italic text&lt;/em&gt;&#xA;&lt;del&gt;strikethrough&lt;/del&gt;&#xA;Test information &lt;em&gt;TEST&lt;/em&gt; test&lt;/p&gt;&#xA;&lt;p&gt;[click here](&lt;a href=&#34;https://www.youtube.com&#34;&gt;https://www.youtube.com&lt;/a&gt;&lt;/p&gt;</description>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     </item>
     <item>
       <title>Nguyen First Post</title>
@@ -181,7 +233,11 @@
       <link>http://localhost:1313/posts/coleman-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/coleman-first-post/</guid>
+<<<<<<< HEAD
+      <description>I am very excited for football to start.&#xA;I think the chiefs will win.</description>
+=======
       <description>&lt;p&gt;I am very excited for football to start.&lt;/p&gt;&#xA;&lt;p&gt;I think the &lt;strong&gt;chiefs&lt;/strong&gt; will win.&lt;/p&gt;</description>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     </item>
     <item>
       <title>Hotko First Post</title>
