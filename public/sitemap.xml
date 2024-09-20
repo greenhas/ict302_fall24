@@ -51,6 +51,7 @@
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>http://localhost:1313/content_hotko_aj/</loc>
     <lastmod>2024-09-08T17:47:53-04:00</lastmod>
   </url><url>
@@ -66,19 +67,56 @@
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-10T04:50:12+00:00</lastmod>
+=======
+    <loc>http://localhost:1313/posts/ugc_ilunga_victoire/</loc>
+    <lastmod>2024-09-19T23:09:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-19T23:09:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-19T23:09:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_ilunga_victoire_post/</loc>
+    <lastmod>2024-09-19T10:19:24-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_harp_mauricio/</loc>
+    <lastmod>2024-09-17T10:58:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_chaplin_omari/</loc>
+    <lastmod>2024-09-17T04:50:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_myers_albert/</loc>
+    <lastmod>2024-09-17T00:27:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/lastname-first-post/</loc>
+    <lastmod>2024-09-17T00:26:14-04:00</lastmod>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
   </url><url>
     <loc>http://localhost:1313/posts/content_chaplin_omari/</loc>
     <lastmod>2024-09-10T04:50:12+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>http://localhost:1313/posts/ugc_chen_ricky/</loc>
+    <lastmod>2024-09-10T10:23:27-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_chaplin_omari/</loc>
+    <lastmod>2024-09-10T04:50:12+00:00</lastmod>
+  </url><url>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     <loc>http://localhost:1313/posts/chaplin-first-post/</loc>
     <lastmod>2024-09-09T23:43:59-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/content_lastname_firstname/</loc>
     <lastmod>2024-09-09T23:06:05-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/posts/content_mason_avery/</loc>
     <lastmod>2024-09-09T16:26:16-04:00</lastmod>
   </url><url>
+=======
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
     <loc>http://localhost:1313/posts/content_donnelly_matthew/</loc>
     <lastmod>2024-09-09T11:17:40-04:00</lastmod>
   </url><url>
@@ -121,8 +159,13 @@
     <loc>http://localhost:1313/posts/content_young_sim/</loc>
     <lastmod>2024-09-05T09:52:58-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/posts/parsons-first-post/</loc>
     <lastmod>2024-09-05T09:51:35-04:00</lastmod>
+=======
+    <loc>http://localhost:1313/posts/harp-first-post/</loc>
+    <lastmod>2024-09-05T09:52:18-04:00</lastmod>
+>>>>>>> 668fcc8b06580fe65b71a040b164a5c492ca5731
   </url><url>
     <loc>http://localhost:1313/posts/adhikari-first-post/</loc>
     <lastmod>2024-09-05T09:51:01-04:00</lastmod>

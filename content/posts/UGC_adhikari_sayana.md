@@ -15,6 +15,6 @@ UGC stands for User-Generated Content. It includes photos, videos, post that are
 **Example**
 
 For example of UGC we can take one of any social media out there. Instagram is one of them as we consume the content of photos, videos through that app which are made by us regular people.
-[my link](https://www.instagram.com/p/DAEAoZkg6BF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) I found this post when I was going through my instagram explore page. This is one of great example of UGC as it includes both photos and videos for audience to view. 
+[my link](https://www.instagram.com/p/DAEAoZkg6BF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) The provided link is what I found this post when I was going through my instagram explore page. This is one of great example of UGC as it includes both photos and videos for audience to view. 
 
 
