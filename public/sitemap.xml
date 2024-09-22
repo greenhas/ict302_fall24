@@ -14,6 +14,48 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-22T17:44:47-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/presentation_coleman_bryan/</loc>
+    <lastmod>2024-09-21T10:05:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_ilunga_victoire/</loc>
+    <lastmod>2024-09-19T23:09:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_adhikari_sayana/</loc>
+    <lastmod>2024-09-19T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_adhikari_sayana/</loc>
+    <lastmod>2024-09-19T14:03:34-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_ilunga_victoire_post/</loc>
+    <lastmod>2024-09-19T10:19:24-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_lewis_grant/</loc>
+    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_lewis_grant/</loc>
+    <lastmod>2024-09-17T15:23:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_harp_mauricio/</loc>
+    <lastmod>2024-09-17T15:23:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_harp_mauricio/</loc>
+    <lastmod>2024-09-17T10:58:35-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/aggregation_bryant_henry/</loc>
+    <lastmod>2024-09-17T10:53:07-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/aggregation_chen_ricky/</loc>
+    <lastmod>2024-09-17T10:51:44-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/aggregation_nguyen_nhi/</loc>
+    <lastmod>2024-09-17T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_chaplin_omari/</loc>
+    <lastmod>2024-09-17T04:50:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ugc_myers_albert/</loc>
+    <lastmod>2024-09-17T00:27:04-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/ugc_mason_avery/</loc>
     <lastmod>2024-09-16T16:36:09-04:00</lastmod>
   </url><url>
@@ -52,9 +94,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/content-rael-kapanga/</loc>
     <lastmod>2024-09-09T20:08:06-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/lastname-first-post/</loc>
-    <lastmod>2024-09-09T20:06:23-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/content_mason_avery/</loc>
     <lastmod>2024-09-09T16:26:16-04:00</lastmod>
@@ -104,6 +143,9 @@
     <loc>http://localhost:1313/posts/content_young_sim/</loc>
     <lastmod>2024-09-05T09:52:58-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/harp-first-post/</loc>
+    <lastmod>2024-09-05T09:52:18-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/parsons-first-post/</loc>
     <lastmod>2024-09-05T09:51:35-04:00</lastmod>
   </url><url>
@@ -123,8 +165,6 @@
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pots/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
