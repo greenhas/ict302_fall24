@@ -5,12 +5,6 @@
     <loc>http://localhost:1313/posts/ugc_mccoy_hayes/</loc>
     <lastmod>2024-09-16T20:05:58-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/content_mccoy_hayes/</loc>
-    <lastmod>2024-09-05T05:15:42-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/mccoy-first-post/</loc>
-    <lastmod>2024-09-03T09:26:42-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/aggregation_mccoy_hayes/</loc>
     <lastmod>2024-09-22T17:44:47-04:00</lastmod>
   </url><url>
@@ -121,6 +115,12 @@
   </url><url>
     <loc>http://localhost:1313/posts/bryant-first-post/</loc>
     <lastmod>2024-09-05T09:49:58-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_mccoy_hayes/</loc>
+    <lastmod>2024-09-05T05:15:42-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mccoy-first-post/</loc>
+    <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
