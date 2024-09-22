@@ -6,7 +6,7 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 20:05:58 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 17:44:47 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayes McCoy: User-Generated Content</title>
@@ -28,6 +28,13 @@
       <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title>Aggregation_mccoy_hayes</title>
+      <link>http://localhost:1313/posts/aggregation_mccoy_hayes/</link>
+      <pubDate>Sun, 22 Sep 2024 17:44:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aggregation_mccoy_hayes/</guid>
+      <description>&amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;What is Content Aggregation To Me? Content aggregation is how content is organized or layed out so that it can be viewed and navigated by users.&#xA;Examples? An example that comes to mind for me is BuzzFeed&#xA;Here is the link to their site https://www.buzzfeed.com/!&#xA;I used to spend a decent amount of time scrolling through their site to find fun quizzes and articles and how they categorize their website made this easy for me to find a lot of different content related to things I wanted to find.</description>
     </item>
     <item>
       <title>UGC_mason_avery</title>
