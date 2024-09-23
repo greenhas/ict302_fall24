@@ -6,224 +6,371 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2024 23:09:07 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 17:44:47 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hayes McCoy: Define Content</title>
-      <link>http://localhost:1313/posts/content_mccoy_hayes/</link>
-      <pubDate>Thu, 05 Sep 2024 05:15:42 -0400</pubDate>
-      <guid>http://localhost:1313/posts/content_mccoy_hayes/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;&amp;ldquo;Content is information produced through editorial process and ultimately intended&#xA;for human consumption via publication.&amp;rdquo;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-is-content-to-me&#34;&gt;What is Content To Me?&lt;/h2&gt;&#xA;&lt;p&gt;Content is a term that can refer to a broad assortment of things&lt;/p&gt;&#xA;&lt;p&gt;This can include&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Text&lt;/li&gt;&#xA;&lt;li&gt;Visuals&lt;/li&gt;&#xA;&lt;li&gt;Audios&lt;/li&gt;&#xA;&lt;li&gt;Games&lt;/li&gt;&#xA;&lt;li&gt;Lessons&lt;/li&gt;&#xA;&lt;li&gt;And More!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For me content can be defined as a piece of information, entertainment, or&#xA;an experience that is created for the pupose to inform, entertain, or persuade,&#xA;and this is consumed in a format that is either digital or physical.&lt;/p&gt;</description>
+      <title>Aggregation_mccoy_hayes</title>
+      <link>http://localhost:1313/posts/aggregation_mccoy_hayes/</link>
+      <pubDate>Sun, 22 Sep 2024 17:44:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aggregation_mccoy_hayes/</guid>
+      <description>&amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;What is Content Aggregation To Me? Content aggregation is how content is organized or laid out so that it can be viewed and navigated by users.&#xA;Examples? An example that comes to mind for me is BuzzFeed.&#xA;Here is the link to their site: https://www.buzzfeed.com/!&#xA;I used to spend a decent amount of time scrolling through their site to find fun quizzes and articles, and how they categorize their website made it easy to find a lot of different content related to things I was looking for.</description>
     </item>
     <item>
-      <title>Hayes McCoy: My First Post</title>
-      <link>http://localhost:1313/posts/mccoy-first-post/</link>
-      <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
-      <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
-      <description>&lt;h2 id=&#34;test&#34;&gt;&lt;del&gt;Test&lt;/del&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://makewithhugo.com/markdown-basics/&#34;&gt;Test Link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Test&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Test&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Test&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Test&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Test 1&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Test 2&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Test 3&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test 1&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test 2&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test 3&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test 4&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test 5&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test 6&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Test&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Test 1&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Test 2&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Test 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;This is a Test footnote&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/test.jpg&#34; alt=&#34;my alt text test&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;test-1&#34;&gt;Test&lt;/h1&gt;&#xA;&lt;h3 id=&#34;test-2&#34;&gt;&lt;em&gt;Test&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Test Test&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;Test footnote.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+      <title>Presentation_coleman_bryan</title>
+      <link>http://localhost:1313/posts/presentation_coleman_bryan/</link>
+      <pubDate>Sat, 21 Sep 2024 10:05:25 -0400</pubDate>
+      <guid>http://localhost:1313/posts/presentation_coleman_bryan/</guid>
+      <description>Presentation refers to the visual elements of a piece of content that are displayed on various medias and devices to provide a specific experience for the user. The source for my definition can be found here. In my own words, presentation refers to the various aspects designed to help display content to the user. This can be achieved through both visual and information elements. One example of this concept of presentation is a YouTube video by Bryson DeChambeau.</description>
     </item>
     <item>
-      <title>defining user-generated content</title>
+      <title>UGC_Ilunga_victoire</title>
       <link>http://localhost:1313/posts/ugc_ilunga_victoire/</link>
       <pubDate>Thu, 19 Sep 2024 23:09:07 -0400</pubDate>
       <guid>http://localhost:1313/posts/ugc_ilunga_victoire/</guid>
-      <description>&lt;h2 id=&#34;definition-of-user-generated-content&#34;&gt;Definition of User-Generated Content&lt;/h2&gt;&#xA;&lt;p&gt;I would define User-generated content as content made by regular users or customers that is usually shared on social media or other platforms. According to the article &amp;ldquo;A Straightforward Approach to User Generated Content that Connects,&amp;rdquo; user content is is original, brand-specific content created by customers (at no cost to you) and published on social media or other channels (Oladipo, 2022).&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: A popular platform where UGC thrives is Instagram. Users create and post photos or videos, share stories, and engage with others through comments and likes. &lt;a href=&#34;https://www.instagram.com/&#34;&gt;Instagram&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Definition of User-Generated Content I would define User-generated content as content made by regular users or customers that is usually shared on social media or other platforms. According to the article &amp;ldquo;A Straightforward Approach to User Generated Content that Connects,&amp;rdquo; user content is is original, brand-specific content created by customers (at no cost to you) and published on social media or other channels (Oladipo, 2022).&#xA;Example: A popular platform where UGC thrives is Instagram.</description>
+    </item>
+    <item>
+      <title>UGC_adhikari_sayana</title>
+      <link>http://localhost:1313/posts/ugc_adhikari_sayana/</link>
+      <pubDate>Thu, 19 Sep 2024 14:23:32 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_adhikari_sayana/</guid>
+      <description>What is UGC?&#xA;User-generated content (UGC) is published information that an unpaid contributor provides to a website. The information might be a photo, video, blog or discussion forum post, poll response or comment made through a social media website (Kinza Yasar, 2022). UGC can include: Text,Photos,Videos,Audio,Reviews,Podcasts,Blog posts,Testimonials,Software, like video game mods.&#xA;In my own words&#xA;UGC stands for User-Generated Content. It includes photos, videos, post that are created by regular people post and not the companies on social media.</description>
+    </item>
+    <item>
+      <title>Content_adhikari_sayana</title>
+      <link>http://localhost:1313/posts/content_adhikari_sayana/</link>
+      <pubDate>Thu, 19 Sep 2024 14:03:34 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_adhikari_sayana/</guid>
+      <description>Whai is Content?&#xA;Content is a type of information that is made to engage, inform, or entertain the audience. Content can be in various formats such as text, images, videos, audio and any type of interactive elements.&#xA;In my own words&#xA;In my opinion content is something that we consume through digital platform. Watching some content and consuming entertainment plus some valuable information is a plus point cause you are not wasting your time but doing something mindful.</description>
     </item>
     <item>
       <title>content_Ilunga_Victoire.md</title>
       <link>http://localhost:1313/posts/content_ilunga_victoire_post/</link>
       <pubDate>Thu, 19 Sep 2024 10:19:24 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_ilunga_victoire_post/</guid>
-      <description>&lt;h1 id=&#34;defining-content&#34;&gt;Defining Content&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt; refers to information or experiences meant to inform or engage an audience (author: Merriam Webster dictionnary).&lt;/p&gt;&#xA;&lt;p&gt;In simpler terms, content is anything shared with others to communicate, be it a blog post, social media update, video, or podcast.&lt;/p&gt;&#xA;&lt;h2 id=&#34;example-of-content&#34;&gt;Example of Content&lt;/h2&gt;&#xA;&lt;p&gt;One example of content I consume is &lt;a href=&#34;https://www.uky.edu/canvas/&#34;&gt;Canvas&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>Defining Content Content refers to information or experiences meant to inform or engage an audience (author: Merriam Webster dictionnary).&#xA;In simpler terms, content is anything shared with others to communicate, be it a blog post, social media update, video, or podcast.&#xA;Example of Content One example of content I consume is Canvas.</description>
+    </item>
+    <item>
+      <title>Content Meaning</title>
+      <link>http://localhost:1313/posts/content_lewis_grant/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/content_lewis_grant/</guid>
+      <description>What is Content&#xA;From what I have read and learned, content is visual or auditory information that can be used to share information or knowledge. The slides from week two from Baker are &amp;ldquo;intended for consumption by a human audience.&amp;rdquo; I think of this as meaning data that has not been sculpted or formatted is not necessarily considered content but data. However, when curated, it becomes content or information that people can interact with.</description>
+    </item>
+    <item>
+      <title>Generalizing Content</title>
+      <link>http://localhost:1313/posts/ugc_lewis_grant/</link>
+      <pubDate>Tue, 17 Sep 2024 15:23:23 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_lewis_grant/</guid>
+      <description>##User Generated Content&#xA;In the past week, we have discussed user-generated content and its meaning. User-generated content or media created by a human. In the Podcast Episode: Wordle and the Web We Need a Podcast on EFF, the hosts talk about the meaning and what they feel by it. One of the hosts says it was crazy that people now refer to media or art, such as music, as content and sometimes not as its correct form, even when it comes from the heart.</description>
+    </item>
+    <item>
+      <title>UGC_harp_mauricio</title>
+      <link>http://localhost:1313/posts/ugc_harp_mauricio/</link>
+      <pubDate>Tue, 17 Sep 2024 15:23:23 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_harp_mauricio/</guid>
+      <description>Definition of UGC User-generated content refers to &amp;ldquo;content generated by non-editors, usually from the public side of the website&amp;rdquo; (Source: user-generated content and CMS extensions slide 14, Week 3). In my own words I think UGC is content made by everyday users, like posts and reviews shared on platforms. Real-life Example: Reddit Reddit is a prime example of UGC. Users submit posts, links, and discussions across different communities. For instance, in r/technology , users can share and discuss tech news, showing how the platform relies on user-generated content.</description>
     </item>
     <item>
       <title>Content_harp_mauricio</title>
       <link>http://localhost:1313/posts/content_harp_mauricio/</link>
       <pubDate>Tue, 17 Sep 2024 10:58:35 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_harp_mauricio/</guid>
-      <description></description>
+      <description>Definition of Content: Content is information created through a report for humans to see through publication. It is organized and tailored to convey a message, provide entertainment, or share knowledge (Source: Slide 3, Week 2 Lecture, &amp;ldquo;slides on content, content, and mission, and content models&amp;rdquo;).&#xA;In My Own Words: I think content is any information that someone produces and refines to share with others. It’s engaging or informative, often reflecting the creator&amp;rsquo;s perspective.</description>
+    </item>
+    <item>
+      <title>aggregation_bryant_henry</title>
+      <link>http://localhost:1313/posts/aggregation_bryant_henry/</link>
+      <pubDate>Tue, 17 Sep 2024 10:53:07 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aggregation_bryant_henry/</guid>
+      <description>What is Content Aggregation? In Web Content Management, author Deane Barker defines content aggregation as &amp;ldquo;an intentional grouping of content for purposes of organization or presentation&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that content aggregation is the way that content is displayed on a website in order for users to view said content via either the organization of the website or the terms that the user chooses to see. Content aggregation is simply the way that the content is displayed with other content on websites.</description>
+    </item>
+    <item>
+      <title>Aggregation_chen_ricky</title>
+      <link>http://localhost:1313/posts/aggregation_chen_ricky/</link>
+      <pubDate>Tue, 17 Sep 2024 10:51:44 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aggregation_chen_ricky/</guid>
+      <description>What is Content Aggregation? According to Deane Barker, &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;To my Understanding Content Aggregation is a specific way to organize content to show to the public.&#xA;Example An example of content aggregation is news pages. Here is an example -&amp;gt; Google News&#xA;This is example of content aggregation. Currently the page is the same for evveryone, in the public.</description>
+    </item>
+    <item>
+      <title>aggregation_nguyen_nhi</title>
+      <link>http://localhost:1313/posts/aggregation_nguyen_nhi/</link>
+      <pubDate>Tue, 17 Sep 2024 10:26:39 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aggregation_nguyen_nhi/</guid>
+      <description>User-generated Content The definition of this concept is &amp;ldquo;An intentional grouping of content for purposes of organization or presentation.&amp;rdquo; (Barker, 2016)&#xA;Deane Barker, Web Content Management glossary&#xA;In other words, the explanation for this concept is &amp;ldquo;The content aggregation gathers content based on certain criteria, such as a topic or keyword, making it easier for users to discover relevant content without manually searching for it.&amp;rdquo;&#xA;Example One example I use is Pintrest.</description>
     </item>
     <item>
       <title>What is **User-Generated Content**? - Omari</title>
       <link>http://localhost:1313/posts/ugc_chaplin_omari/</link>
       <pubDate>Tue, 17 Sep 2024 04:50:12 +0000</pubDate>
       <guid>http://localhost:1313/posts/ugc_chaplin_omari/</guid>
-      <description>&lt;h2 id=&#34;what-is-user-generated-content&#34;&gt;What is User-Generated Content?&lt;/h2&gt;&#xA;&lt;p&gt;According to the slides and &lt;em&gt;Deane Barker&lt;/em&gt;, user-generated content is content generated by non-editors, and usually from the public side of the website.&#xA;An example of user-generated content would be a simple Instagram post of a selfie. The user generated and posted it with the intention for people to see.&lt;/p&gt;&#xA;&lt;h2 id=&#34;an-example&#34;&gt;An Example&lt;/h2&gt;&#xA;&lt;p&gt;One example of &lt;em&gt;user-generated content&lt;/em&gt; in action is &lt;a href=&#34;https://www.youtube.com/watch?v=pQQ8OXnklrY&amp;amp;pp=ygUGY2xhaXJl&#34;&gt;another awesome video&lt;/a&gt; by Claire Saffitz.&lt;/p&gt;</description>
+      <description>What is User-Generated Content? According to the slides and Deane Barker, user-generated content is content generated by non-editors, and usually from the public side of the website. An example of user-generated content would be a simple Instagram post of a selfie. The user generated and posted it with the intention for people to see.&#xA;An Example One example of user-generated content in action is another awesome video by Claire Saffitz.</description>
     </item>
     <item>
       <title>UGC_myers_albert</title>
       <link>http://localhost:1313/posts/ugc_myers_albert/</link>
       <pubDate>Tue, 17 Sep 2024 00:27:04 -0400</pubDate>
       <guid>http://localhost:1313/posts/ugc_myers_albert/</guid>
-      <description>&lt;h2 id=&#34;what-is-user-generated-content&#34;&gt;&lt;strong&gt;What is&lt;/strong&gt; &lt;em&gt;&amp;ldquo;user-generated content&lt;/em&gt;&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;User-generated content (UGC) is published information that an unpaid contributor provides to a website&amp;rdquo; (Yasar, 2022). Somebody puts out photo or video into the public domain that anhyone can use.&lt;/p&gt;&#xA;&lt;p&gt;Social media posts are great examples of UGC. One video can be circulated to potentially multiple different accounts that then give the original person credit for the use of their post. These posts can give someone a potential platform to use.&lt;/p&gt;</description>
+      <description>What is &amp;ldquo;user-generated content&amp;rdquo; &amp;ldquo;User-generated content (UGC) is published information that an unpaid contributor provides to a website&amp;rdquo; (Yasar, 2022). Somebody puts out photo or video into the public domain that anhyone can use.&#xA;Social media posts are great examples of UGC. One video can be circulated to potentially multiple different accounts that then give the original person credit for the use of their post. These posts can give someone a potential platform to use.</description>
     </item>
     <item>
-      <title>Lastname First Post</title>
-      <link>http://localhost:1313/posts/lastname-first-post/</link>
-      <pubDate>Tue, 17 Sep 2024 00:26:14 -0400</pubDate>
-      <guid>http://localhost:1313/posts/lastname-first-post/</guid>
-      <description></description>
+      <title>Hayes McCoy: User-Generated Content</title>
+      <link>http://localhost:1313/posts/ugc_mccoy_hayes/</link>
+      <pubDate>Mon, 16 Sep 2024 20:05:58 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_mccoy_hayes/</guid>
+      <description>&amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;What is User-Generated Content to Me? To me, user-generated content is content that is published on a website by users of the website.&#xA;What is an Example of This? The first example that comes to my mind when I hear user-generated content is Wikipedia. Here is the link to their website: https://www.</description>
+    </item>
+    <item>
+      <title>UGC_mason_avery</title>
+      <link>http://localhost:1313/posts/ugc_mason_avery/</link>
+      <pubDate>Mon, 16 Sep 2024 16:36:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_mason_avery/</guid>
+      <description>User generated content &amp;ldquo;Content generated by non-editors, usually from the public side of the website&amp;rdquo;&#xA;Barker, D. (n.d.). User-generated content. Deane Barker. https://deanebarker.net/tech/glossary/user-generated-content/&#xA;To me User generated content are things in which users of a particular platform post/create.&#xA;Sources of content I regularly consume are that of Twitter, Reddit and various internet forums. In these platforms users are creating posts and actively contributing to discussions and or creating content themselves.</description>
+    </item>
+    <item>
+      <title>Defining User-Generated Content</title>
+      <link>http://localhost:1313/posts/ugc_livingston_chauncey/</link>
+      <pubDate>Mon, 16 Sep 2024 16:33:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_livingston_chauncey/</guid>
+      <description>What Even Is User-Generated Content? When speaking about content on the Internet, it is almost impossible not to mention user-generated content. There are millions of new pieces of content on the internet every day, and they don&amp;rsquo;t just appear out of thin air, they are fueled&#x9;by people like me and you. UGC was referred to as &amp;ldquo;Content generated by non-editors, usually from the public side of the website&amp;rdquo; by Deane Barker.</description>
+    </item>
+    <item>
+      <title>Aggregation_coleman_bryan</title>
+      <link>http://localhost:1313/posts/aggregation_coleman_bryan/</link>
+      <pubDate>Thu, 12 Sep 2024 12:37:01 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aggregation_coleman_bryan/</guid>
+      <description>Content aggregation can be defined as the process of collecting and showcasing related content from a plethora of sources in one singular place. I got this definition from this website. In my own words, content aggregation is the topic of gathering and collecting content, information, or data for the user from outside sources and displaying it all together on a singular website or platform. A great example of this topic is Google News.</description>
+    </item>
+    <item>
+      <title>UGC_coleman_bryan</title>
+      <link>http://localhost:1313/posts/ugc_coleman_bryan/</link>
+      <pubDate>Wed, 11 Sep 2024 10:28:17 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_coleman_bryan/</guid>
+      <description>User-generated content is content generated by non-editors, usually from the public side of the website. I got this definition from the class sides, which can be found here. In my own words, user-generated content is any published type of information or media where a contributor or user provides that information as opposed to an editor. One example I have for user-generated content is that I always read or look at customer reviews before I purchase anything online, such as from Amazon.</description>
+    </item>
+    <item>
+      <title>UGC_nguyen_nhi</title>
+      <link>http://localhost:1313/posts/ugc_nguyen_nhi/</link>
+      <pubDate>Tue, 10 Sep 2024 10:26:39 -0400</pubDate>
+      <guid>http://localhost:1313/posts/ugc_nguyen_nhi/</guid>
+      <description>User-generated Content The definition of this concept is &amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;In other words, the explanation for this concept is &amp;ldquo;User-generated content are the contents that are created and shared by users. This can include social media posts, blog articles, product reviews, and more.&amp;rdquo;&#xA;Example NikkieTutorials YouTube NikkieTutorials is a popular beauty YouTuber who creates and shares makeup tutorials, product reviews, and other beauty-related content.</description>
     </item>
     <item>
       <title>UGC_bryant_henry</title>
       <link>http://localhost:1313/posts/ugc_bryant_henry/</link>
       <pubDate>Tue, 10 Sep 2024 10:24:07 -0400</pubDate>
       <guid>http://localhost:1313/posts/ugc_bryant_henry/</guid>
-      <description>&lt;h2 id=&#34;what-is-user-generated-content&#34;&gt;What is User-Generated Content?&lt;/h2&gt;&#xA;&lt;p&gt;In &lt;em&gt;Web Content Management&lt;/em&gt;, author Deane Barker defines user-generated content as content (see last post for definition) that was &amp;ldquo;generated by non-editors, usually from the public side of the website&amp;rdquo; (Barker, 2016).&lt;/p&gt;&#xA;&lt;p&gt;In other words, this means that user-generated content is something that someone who visits or uses a website uploads to the website for other users to view and interact with, without going into the backend of the website to edit the raw code powering it.&lt;/p&gt;</description>
+      <description>What is User-Generated Content? In Web Content Management, author Deane Barker defines user-generated content as content (see last post for definition) that was &amp;ldquo;generated by non-editors, usually from the public side of the website&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that user-generated content is something that someone who visits or uses a website uploads to the website for other users to view and interact with, without going into the backend of the website to edit the raw code powering it.</description>
     </item>
     <item>
       <title>UGC_chen_ricky</title>
       <link>http://localhost:1313/posts/ugc_chen_ricky/</link>
       <pubDate>Tue, 10 Sep 2024 10:23:27 -0400</pubDate>
       <guid>http://localhost:1313/posts/ugc_chen_ricky/</guid>
-      <description>&lt;h2 id=&#34;what-is-user-generated-content&#34;&gt;What is User-Generated Content?&lt;/h2&gt;&#xA;&lt;p&gt;According to Deane Barker, &amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Barker, D.(2016). &lt;a href=&#34;https://deanebarker.net/tech/glossary/user-generated-content/&#34;&gt;Web Content Management&lt;/a&gt;. O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;h2 id=&#34;to-my-understanding&#34;&gt;To my Understanding&lt;/h2&gt;&#xA;&lt;p&gt;User generated content is something that is created by non professionals and usually shows the real/raw identity of something without getting paid.&lt;/p&gt;&#xA;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;&#xA;&lt;p&gt;An example of user generated content is reviews for a Amazon product. Here is an example -&amp;gt;&#xA;&lt;a href=&#34;https://www.amazon.com/gp/customer-reviews/R3T29DPZDMA2FX/ref=cm_cr_getr_d_rvw_ttl?ie=UTF8&amp;amp;ASIN=B0BQ37B73B&#34;&gt;Amazon Review&lt;/a&gt;&lt;/p&gt;</description>
+      <description>What is User-Generated Content? According to Deane Barker, &amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;To my Understanding User generated content is something that is created by non professionals and usually shows the real/raw identity of something without getting paid.&#xA;Example An example of user generated content is reviews for a Amazon product. Here is an example -&amp;gt; Amazon Review</description>
+    </item>
+    <item>
+      <title>Content definition by Ben</title>
+      <link>http://localhost:1313/posts/content_parsons_ben/</link>
+      <pubDate>Tue, 10 Sep 2024 10:16:12 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_parsons_ben/</guid>
+      <description>According to Dr. Barker, &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media.&#xA;For me, I believe that content is something that is meant to entertain other people, inform people, and or help people. It is also something that is created by humans for humans.&#xA;An example of a piece of content is a how to youtube video This ties to my definition because this video is a video that is made by a person for someone to learn something new.</description>
+    </item>
+    <item>
+      <title>Content_kemper_lea</title>
+      <link>http://localhost:1313/posts/content_kemper_lea/</link>
+      <pubDate>Tue, 10 Sep 2024 10:11:20 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_kemper_lea/</guid>
+      <description>##What is Content?&#xA;Content is created in an editorial process and designed for human consumption. In the editorial process, content is often influenced by the creators&amp;rsquo; vision, voice, and guidelines of the platform or organization, in order to convey a certain message. I post content for the Tattoo parlor I work for. I use Instagram, Facebook, and our website to distribute pictures, videos, and announcements. To keep up to date with trends I regularly consume content from other tattoo artist posts.</description>
     </item>
     <item>
       <title>What is **Content**? - Omari</title>
       <link>http://localhost:1313/posts/content_chaplin_omari/</link>
       <pubDate>Tue, 10 Sep 2024 04:50:12 +0000</pubDate>
       <guid>http://localhost:1313/posts/content_chaplin_omari/</guid>
-      <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;According to the slides and &lt;em&gt;Deane Barker&lt;/em&gt;, content is created by editorial process and intended for consumption by a human audience.&#xA;To me, content is anything we humans create and put onto the internet. Anything from blogposts, to videos, to music, to images: all of it is content!&lt;/p&gt;&#xA;&lt;h2 id=&#34;an-example&#34;&gt;An Example&lt;/h2&gt;&#xA;&lt;p&gt;One example of &lt;em&gt;content&lt;/em&gt; in action is &lt;a href=&#34;https://www.youtube.com/watch?v=JlzmsTiOJnU&amp;amp;pp=ygUdY2xhaXJlIHNhZmZpdHogY2lubmFtb24gcm9sbHM%3D&#34;&gt;this awesome video&lt;/a&gt; by Claire Saffitz. In this video, she demonstrates one of her recipes from her book. This content is &lt;strong&gt;created by her&lt;/strong&gt; and is &lt;strong&gt;intended for us to consume&lt;/strong&gt;. In this instance, it is meant to entertain and inform us about cooking!&lt;/p&gt;</description>
+      <description>What is Content? According to the slides and Deane Barker, content is created by editorial process and intended for consumption by a human audience. To me, content is anything we humans create and put onto the internet. Anything from blogposts, to videos, to music, to images: all of it is content!&#xA;An Example One example of content in action is this awesome video by Claire Saffitz. In this video, she demonstrates one of her recipes from her book.</description>
     </item>
     <item>
       <title>Chaplin First Post</title>
       <link>http://localhost:1313/posts/chaplin-first-post/</link>
       <pubDate>Mon, 09 Sep 2024 23:43:59 -0400</pubDate>
       <guid>http://localhost:1313/posts/chaplin-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello! I&amp;rsquo;m &lt;strong&gt;Omari&lt;/strong&gt; and this is my &lt;em&gt;first&lt;/em&gt; post! My favorite website is &lt;a href=&#34;https://google.com/&#34;&gt;Google&lt;/a&gt;!&lt;/p&gt;</description>
+      <description>Introduction Hello! I&amp;rsquo;m Omari and this is my first post! My favorite website is Google!</description>
     </item>
     <item>
       <title>Content Livingston Chauncey</title>
-      <link>http://localhost:1313/posts/content_lastname_firstname/</link>
+      <link>http://localhost:1313/posts/content_livingston_chauncey/</link>
       <pubDate>Mon, 09 Sep 2024 23:06:05 -0400</pubDate>
-      <guid>http://localhost:1313/posts/content_lastname_firstname/</guid>
-      <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;Formally &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;&lt;em&gt;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&lt;/em&gt;&#xA;In my opinion content is various types of information or media shared on any type of platform. For example &lt;a href=&#34;https://www.google.com/imgres?q=camaro%20zl1&amp;amp;imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2F2024-chevrolet-camaro-zl1-collectors-edition-647e05de95705.jpg&amp;amp;imgrefurl=https%3A%2F%2Fwww.caranddriver.com%2Fchevrolet%2Fcamaro-zl1&amp;amp;docid=tgcg5TloakjEwM&amp;amp;tbnid=sQ-ppBFeGNAQJM&amp;amp;vet=12ahUKEwiPzLHJtLeIAxXHrYkEHeUEB8MQM3oECBoQAA..i&amp;amp;w=5000&amp;amp;h=3329&amp;amp;hcb=2&amp;amp;ved=2ahUKEwiPzLHJtLeIAxXHrYkEHeUEB8MQM3oECBoQAA&#34;&gt;here&lt;/a&gt; is a website that has multiple types of content including an article and pictures.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/content_livingston_chauncey/</guid>
+      <description>What is Content? Formally &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media In my opinion content is various types of information or media shared on any type of platform. For example here is a website that has multiple types of content including an article and pictures.</description>
     </item>
     <item>
-      <title>content_donnelly_matthew</title>
-      <link>http://localhost:1313/posts/content_donnelly_matthew/</link>
-      <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
-      <guid>http://localhost:1313/posts/content_donnelly_matthew/</guid>
-      <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Definition of Content&amp;rdquo;&#xA;&lt;strong&gt;Content&lt;/strong&gt; would be something that users create and is &amp;ldquo;intended for consumption by a human audience&amp;rdquo; (Barker, 2016)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;My Definition&lt;/strong&gt; would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt; that I regularly &lt;em&gt;consume&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;If I ever feel like some of my photos are lacking any substance, I usually check out this website &lt;a href=&#34;https://eyecannndy.com/&#34;&gt;my link&lt;/a&gt;&#xA;The reason that this website is &lt;strong&gt;content&lt;/strong&gt; is that this is made for a human audiences, for creatives that are looking to find inspiration or try and recreate a visual shot.&lt;/p&gt;</description>
+      <title>Content Rael Kapanga</title>
+      <link>http://localhost:1313/posts/content-rael-kapanga/</link>
+      <pubDate>Mon, 09 Sep 2024 20:08:06 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content-rael-kapanga/</guid>
+      <description>definition: content is every type of information on the internet made uploaded by human for the purpose to be consume by human.</description>
+    </item>
+    <item>
+      <title>Content_mason_avery</title>
+      <link>http://localhost:1313/posts/content_mason_avery/</link>
+      <pubDate>Mon, 09 Sep 2024 16:26:16 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_mason_avery/</guid>
+      <description>“Content is information produced through editorial process and ultimately intended for human consumption via publication.” Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;I understand this concept as the creation of something with humans as the consumers. Videos, movies, podcasts, interviews, books and journals are some examples. Authors write books with the hopes that someone consumes them, i.e. reads their work. A chef creates a dish that he hopes customers will enjoy etc.</description>
+    </item>
+    <item>
+      <title>Kapanga First Post</title>
+      <link>http://localhost:1313/posts/kapanga-first-post/</link>
+      <pubDate>Mon, 09 Sep 2024 11:23:31 -0400</pubDate>
+      <guid>http://localhost:1313/posts/kapanga-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kapanga Rael Post</title>
+      <link>http://localhost:1313/posts/kapanga-rael-post/</link>
+      <pubDate>Mon, 09 Sep 2024 11:22:35 -0400</pubDate>
+      <guid>http://localhost:1313/posts/kapanga-rael-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content_Hotko_AJ</title>
+      <link>http://localhost:1313/posts/content_hotko_aj/</link>
+      <pubDate>Sun, 08 Sep 2024 17:47:53 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_hotko_aj/</guid>
+      <description>Content as defined by Deane Barker, “Content is information produced through editorial process and ultimately intended for human consumption via publication.” Barker, D.( 2016). My definition of content if fairly simple, anything that humans consume that is created by humans. Some examples of content would be websites, movies, and even YouTube videos. A movie is an example of content because it was created by humans and intended for human consumption.</description>
     </item>
     <item>
       <title>Content_Myers_Albert</title>
       <link>http://localhost:1313/posts/content_myers_albert/</link>
       <pubDate>Fri, 06 Sep 2024 13:27:31 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_myers_albert/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;what-is-content&#34;&gt;&lt;strong&gt;What is&lt;/strong&gt; &lt;em&gt;&amp;ldquo;content&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Dash talks about the phrase user generated content and how the people who generated this conent did not like the way the phrase represented them. He also talks about how a lot of younger people today refer to themselves as content creators. (Richman, 2022)&lt;/p&gt;&#xA;&lt;p&gt;In my own words I think content is any form of consumable visual element that someone makes for someone else to view.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h2 id=&#34;content-example&#34;&gt;&lt;strong&gt;Content Example&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Streaming is a great example of why people call themselves comntent creators. I have a &lt;a href=&#34;https://www.twitch.tv/xirrelevxnt&#34;&gt;twitch channel&lt;/a&gt; where I produce content whenever I stream.&lt;/p&gt;</description>
+      <description>What is &amp;ldquo;content Dash talks about the phrase user generated content and how the people who generated this conent did not like the way the phrase represented them. He also talks about how a lot of younger people today refer to themselves as content creators. (Richman, 2022)&#xA;In my own words I think content is any form of consumable visual element that someone makes for someone else to view.</description>
     </item>
     <item>
       <title>Content_coleman_bryan</title>
       <link>http://localhost:1313/posts/content_coleman_bryan/</link>
       <pubDate>Thu, 05 Sep 2024 11:21:14 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_coleman_bryan/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt; is information produced through editorial process and ultimately intended for human consumption via publication. In my own words, content is information available for either retrieval or engagement intended for users and people.&#xA;One example of content that I consume regularly are golf youtube videos posted by Bryson DeChambeau. &lt;a href=&#34;https://youtu.be/1Rc37QkkbGg?si=H0Ub7dX0r2hTp8z5&#34;&gt;Here is my link&lt;/a&gt;&#xA;This example illustrates the concept of content as I, the user, engage with the information, the video of Bryson golfing and giving tips as he plays, and by watching it I consume it, and the videos are edited before they are posted.&lt;/p&gt;</description>
+      <description>Content is information produced through editorial process and ultimately intended for human consumption via publication. In my own words, content is information available for either retrieval or engagement intended for users and people. One example of content that I consume regularly are golf youtube videos posted by Bryson DeChambeau. Here is my link This example illustrates the concept of content as I, the user, engage with the information, the video of Bryson golfing and giving tips as he plays, and by watching it I consume it, and the videos are edited before they are posted.</description>
     </item>
     <item>
       <title>Content_nguyen_nhi</title>
       <link>http://localhost:1313/posts/content_nguyen_nhi/</link>
       <pubDate>Thu, 05 Sep 2024 11:18:41 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_nguyen_nhi/</guid>
-      <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;The definition of this concept definition that I&amp;rsquo;ve chosen is &lt;em&gt;&amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;p&gt;In other words, the explanation of this concept is &lt;em&gt;Content is information or ideas shared in different formats like text, images, videos, or audio. It can be found on websites, social media, blogs, and more, and is created to inform, entertain, or engage an audience.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+      <description>What is Content? The definition of this concept definition that I&amp;rsquo;ve chosen is &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;In other words, the explanation of this concept is Content is information or ideas shared in different formats like text, images, videos, or audio. It can be found on websites, social media, blogs, and more, and is created to inform, entertain, or engage an audience.</description>
     </item>
     <item>
       <title>Content_chen_ricky</title>
       <link>http://localhost:1313/posts/content_chen_ricky/</link>
       <pubDate>Thu, 05 Sep 2024 11:17:40 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_chen_ricky/</guid>
-      <description>&lt;h2 id=&#34;content-definiton&#34;&gt;Content Definiton&lt;/h2&gt;&#xA;&lt;p&gt;According to Deane Barker, &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Barker, D.(2016). &lt;a href=&#34;https://deanebarker.net/books/squirrel/the-basics/&#34;&gt;Web Content Management&lt;/a&gt;. O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;In My Own Words&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;To my understanding, content is something that takes time and money, made by human for human.&lt;/p&gt;&#xA;&lt;h2 id=&#34;content-example&#34;&gt;Content Example&lt;/h2&gt;&#xA;&lt;p&gt;An exmaple of content is Online Courses. It is something that take money and time to create, made by humans for humans. I am currently taking real estate online courses, the content inside are pages of paragraphs, pictures, and there is a human speaking every word.&#xA;&lt;a href=&#34;https://learn.colibrirealestate.com/&#34;&gt;Colibri Real Estate&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Content Definiton According to Deane Barker, &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;In My Own Words&#xA;To my understanding, content is something that takes time and money, made by human for human.&#xA;Content Example An exmaple of content is Online Courses. It is something that take money and time to create, made by humans for humans.</description>
     </item>
     <item>
       <title>Content_bryant_henry</title>
       <link>http://localhost:1313/posts/content_bryant_henry/</link>
       <pubDate>Thu, 05 Sep 2024 11:09:04 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_bryant_henry/</guid>
-      <description>&lt;h2 id=&#34;what-is-content&#34;&gt;What is Content?&lt;/h2&gt;&#xA;&lt;p&gt;According to Deane Barker in &lt;em&gt;Web Content Management&lt;/em&gt;, content can be defined as information that was &amp;ldquo;produced through editorial process and ultimately intended for human consumption&amp;rdquo; (Barker, 2016).&lt;/p&gt;&#xA;&lt;p&gt;In other words, this means that content is something that an individual put effort into creating and that was designed and created for another individual to interact with in a meaningful way.&lt;/p&gt;&#xA;&lt;h2 id=&#34;content-example&#34;&gt;Content Example&lt;/h2&gt;&#xA;&lt;p&gt;An example of content that I consume would be a YouTube video. I watch YouTube every day and I&amp;rsquo;ve seen many different videos on the platform. For the purposes of this, I&amp;rsquo;ll use the videos from one of my favorite YouTube channels, &lt;a href=&#34;https://www.youtube.com/@veritasium&#34;&gt;Veritasium&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Donnelly First Post</title>
-      <link>http://localhost:1313/posts/donnelly-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 10:08:45 -0400</pubDate>
-      <guid>http://localhost:1313/posts/donnelly-first-post/</guid>
-      <description></description>
+      <description>What is Content? According to Deane Barker in Web Content Management, content can be defined as information that was &amp;ldquo;produced through editorial process and ultimately intended for human consumption&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that content is something that an individual put effort into creating and that was designed and created for another individual to interact with in a meaningful way.&#xA;Content Example An example of content that I consume would be a YouTube video.</description>
     </item>
     <item>
       <title>Chen First Post</title>
       <link>http://localhost:1313/posts/chen-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 10:02:40 -0400</pubDate>
       <guid>http://localhost:1313/posts/chen-first-post/</guid>
-      <description>&lt;p&gt;&lt;em&gt;italian&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/rickychenrc10/&#34;&gt;My Instagram&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;example blockquoate&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/BoxingGang.JPG&#34; alt=&#34;boxing squad&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;testign again&lt;/p&gt;</description>
+      <description>italian&#xA;bold text&#xA;strike through&#xA;My Instagram&#xA;example blockquoate&#xA;testign again</description>
     </item>
     <item>
       <title>Define content (Ahmad)</title>
       <link>http://localhost:1313/posts/content_amjad_ahmad/</link>
       <pubDate>Thu, 05 Sep 2024 09:59:49 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_amjad_ahmad/</guid>
-      <description>&lt;p&gt;Definition: &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&lt;/p&gt;&#xA;&lt;p&gt;From slide:&lt;/p&gt;&#xA;&lt;p&gt;ICT 302: Content Management Systems&#xA;3 September 2024&#xA;Dr. Spencer Greenhalgh&lt;/p&gt;&#xA;&lt;p&gt;Something you consume, not like food, but like entertainment for example&lt;/p&gt;&#xA;&lt;p&gt;Animation: &lt;a href=&#34;https://en.wikipedia.org/wiki/Animation&#34;&gt;https://en.wikipedia.org/wiki/Animation&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a huge fan of animation (I wish I did an art / animation major instead) and animation could be considered an example as it goes through a lot of editorial processes like storyboarding for example, and&lt;/p&gt;</description>
+      <description>Definition: &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;From slide:&#xA;ICT 302: Content Management Systems 3 September 2024 Dr. Spencer Greenhalgh&#xA;Something you consume, not like food, but like entertainment for example&#xA;Animation: https://en.wikipedia.org/wiki/Animation&#xA;I&amp;rsquo;m a huge fan of animation (I wish I did an art / animation major instead) and animation could be considered an example as it goes through a lot of editorial processes like storyboarding for example, and</description>
     </item>
     <item>
       <title>Livingston First Post</title>
       <link>http://localhost:1313/posts/livingston-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
       <guid>http://localhost:1313/posts/livingston-first-post/</guid>
-      <description>&lt;h2 id=&#34;test-header&#34;&gt;Test Header&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;italic text&lt;/em&gt;&#xA;&lt;del&gt;strikethrough&lt;/del&gt;&#xA;Test information &lt;em&gt;TEST&lt;/em&gt; test&lt;/p&gt;&#xA;&lt;p&gt;[click here](&lt;a href=&#34;https://www.youtube.com&#34;&gt;https://www.youtube.com&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Test Header italic text strikethrough Test information TEST test&#xA;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD click here [click here](https://www.youtube.com&#xA;f7e33f0b2dff66b1e5a833aabeb3e83970faac45</description>
     </item>
     <item>
       <title>Nguyen First Post</title>
       <link>http://localhost:1313/posts/nguyen-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:56:29 -0400</pubDate>
       <guid>http://localhost:1313/posts/nguyen-first-post/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;This is my first post&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This is the second line&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;This is another line&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://makewithhugo.com/&#34;&gt;my link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;example blockquote&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/nhi.jpg&#34; alt=&#34;my alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;this-is-another-text&#34;&gt;This is another text&lt;/h2&gt;&#xA;&lt;hr&gt;</description>
+      <description>This is my first post&#xA;This is the second line&#xA;This is another line&#xA;my link&#xA;example blockquote&#xA;This is another text </description>
     </item>
     <item>
       <title>Coleman First Post</title>
       <link>http://localhost:1313/posts/coleman-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/coleman-first-post/</guid>
-      <description>&lt;p&gt;I am very excited for football to start.&lt;/p&gt;&#xA;&lt;p&gt;I think the &lt;strong&gt;chiefs&lt;/strong&gt; will win.&lt;/p&gt;</description>
+      <description>I am very excited for football to start.&#xA;I think the chiefs will win.</description>
     </item>
     <item>
       <title>Hotko First Post</title>
       <link>http://localhost:1313/posts/hotko-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:54:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/hotko-first-post/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;text&lt;/strong&gt; &lt;em&gt;text&lt;/em&gt; &lt;del&gt;error&lt;/del&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;test&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;test no line skip&lt;/p&gt;&#xA;&lt;p&gt;skip&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://makewithhugo.com/&#34;&gt;my link&lt;/a&gt;&lt;/p&gt;</description>
+      <description>text text error&#xA;test&#xA;test no line skip&#xA;skip&#xA;my link</description>
     </item>
     <item>
       <title>Class Blog #1</title>
       <link>http://localhost:1313/posts/content_young_sim/</link>
       <pubDate>Thu, 05 Sep 2024 09:52:58 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_young_sim/</guid>
-      <description>&lt;p&gt;Content is &amp;ldquo;&amp;hellip; information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media. To me, this means content that is produced by humans for human interaction.&lt;/p&gt;&#xA;&lt;p&gt;Some content I regularly consume are YouTube videos(youtube.com). This aligns with the definitions because the videos are content that has been created by a human, edited, and then made for human consumption.&lt;/p&gt;</description>
+      <description>Content is &amp;ldquo;&amp;hellip; information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media. To me, this means content that is produced by humans for human interaction.&#xA;Some content I regularly consume are YouTube videos(youtube.com). This aligns with the definitions because the videos are content that has been created by a human, edited, and then made for human consumption.</description>
     </item>
     <item>
       <title>Harp First Post</title>
       <link>http://localhost:1313/posts/harp-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:52:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/harp-first-post/</guid>
-      <description>&lt;h2 id=&#34;water-is-good-for-people&#34;&gt;Water is good for people&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;DOG&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>Water is good for people DOG</description>
+    </item>
+    <item>
+      <title>Parsons First Post</title>
+      <link>http://localhost:1313/posts/parsons-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:51:35 -0400</pubDate>
+      <guid>http://localhost:1313/posts/parsons-first-post/</guid>
+      <description>Hi my name is Ben. Here is my HTML website:&#xA;My Favorite Band</description>
     </item>
     <item>
       <title>Adhikari First Post</title>
       <link>http://localhost:1313/posts/adhikari-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:51:01 -0400</pubDate>
       <guid>http://localhost:1313/posts/adhikari-first-post/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Intro&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;My name is Sayana Adhikari and I am a Junior maojoring in ICT at the &lt;em&gt;University of Kentucky&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;[my link] (&lt;a href=&#34;https://youtu.be/fBB4MaBybyg?si=kcz3ATvo-Ci1qzbK&#34;&gt;https://youtu.be/fBB4MaBybyg?si=kcz3ATvo-Ci1qzbK&lt;/a&gt;) is my favorite song at the moment.&lt;/p&gt;</description>
+      <description>Intro&#xA;My name is Sayana Adhikari and I am a Junior maojoring in ICT at the University of Kentucky.&#xA;[my link] (https://youtu.be/fBB4MaBybyg?si=kcz3ATvo-Ci1qzbK) is my favorite song at the moment.</description>
     </item>
     <item>
       <title>Myers First Post</title>
       <link>http://localhost:1313/posts/myers-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:50:37 -0400</pubDate>
       <guid>http://localhost:1313/posts/myers-first-post/</guid>
-      <description>&lt;h1 id=&#34;testing&#34;&gt;&lt;em&gt;Testing&lt;/em&gt;&lt;/h1&gt;&#xA;&lt;p&gt;This is a brand new start&lt;/p&gt;&#xA;&lt;p&gt;Lets see if this works.&lt;/p&gt;&#xA;&lt;h2 id=&#34;lets-gooooooooooo&#34;&gt;&lt;strong&gt;LETS GOOOOOOOOOOO&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Also go check this out &lt;a href=&#34;https://www.twitch.tv/xirrelevxnt&#34;&gt;my link&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Testing This is a brand new start&#xA;Lets see if this works.&#xA;LETS GOOOOOOOOOOO Also go check this out my link</description>
     </item>
     <item>
       <title>Bryant First Post</title>
       <link>http://localhost:1313/posts/bryant-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:49:58 -0400</pubDate>
       <guid>http://localhost:1313/posts/bryant-first-post/</guid>
-      <description>&lt;h3 id=&#34;this-is-a-test-post&#34;&gt;This is a test post.&lt;/h3&gt;&#xA;&lt;p&gt;This is only a &lt;em&gt;test&lt;/em&gt; and nothing that I type here matters.&lt;/p&gt;&#xA;&lt;p&gt;Markdown is pretty cool. It&amp;rsquo;s taking some getting used to, but it seems to be a little simpler to use than HTML.&lt;/p&gt;&#xA;&lt;p&gt;Test test test &lt;strong&gt;12345&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is a test of the &lt;a href=&#34;https://youtu.be/dQw4w9WgXcQ?si=48ck8bncUCTUHC9E&#34;&gt;link function&lt;/a&gt; using markdown editing. Pretty cool!&lt;/p&gt;&#xA;&lt;p&gt;&lt;del&gt;The quick brown fox jumped over the lazy dog.&lt;/del&gt;&lt;/p&gt;&#xA;&lt;p&gt;Test again&lt;/p&gt;</description>
+      <description>This is a test post. This is only a test and nothing that I type here matters.&#xA;Markdown is pretty cool. It&amp;rsquo;s taking some getting used to, but it seems to be a little simpler to use than HTML.&#xA;Test test test 12345&#xA;This is a test of the link function using markdown editing. Pretty cool!&#xA;The quick brown fox jumped over the lazy dog.&#xA;Test again</description>
+    </item>
+    <item>
+      <title>Hayes McCoy: Define Content</title>
+      <link>http://localhost:1313/posts/content_mccoy_hayes/</link>
+      <pubDate>Thu, 05 Sep 2024 05:15:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/content_mccoy_hayes/</guid>
+      <description>&amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;What is Content To Me? Content is a term that can refer to a broad assortment of things&#xA;This can include&#xA;Text Visuals Audios Games Lessons And More! For me content can be defined as a piece of information, entertainment, or an experience that is created for the pupose to inform, entertain, or persuade, and this is consumed in a format that is either digital or physical.</description>
+    </item>
+    <item>
+      <title>Hayes McCoy: My First Post</title>
+      <link>http://localhost:1313/posts/mccoy-first-post/</link>
+      <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
+      <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>
 </rss>

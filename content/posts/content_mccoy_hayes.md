@@ -2,7 +2,6 @@
 title = 'Hayes McCoy: Define Content'
 date = 2024-09-05T05:15:42-04:00
 draft = false
-weight = 10
 [params]
 	author = 'Hayes McCoy'
 +++
