@@ -6,7 +6,7 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2024 10:58:35 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 10:52:17 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayes McCoy: Define Content</title>
@@ -21,6 +21,13 @@
       <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title>presentation_bryant_henry</title>
+      <link>http://localhost:1313/posts/presentation_bryant_henry/</link>
+      <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
+      <guid>http://localhost:1313/posts/presentation_bryant_henry/</guid>
+      <description>What is Presentation? In Examining the Separation Between Presentation and Content, author Deane Barker defines presentation as &amp;ldquo;the use of colors, fonts, etc.&amp;rdquo; on a website that changes the way the content looks (Barker, 2013).&#xA;In other words, this means that presentation is the way that the content looks when a user visits a website. The presentation can include the font that the content is set in, the size of the font, the color of the background, and many other general visual attributes of the website.</description>
     </item>
     <item>
       <title>Content_harp_mauricio</title>
@@ -189,6 +196,13 @@
       <pubDate>Thu, 05 Sep 2024 09:52:58 -0400</pubDate>
       <guid>http://localhost:1313/posts/content_young_sim/</guid>
       <description>Content is &amp;ldquo;&amp;hellip; information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media. To me, this means content that is produced by humans for human interaction.&#xA;Some content I regularly consume are YouTube videos(youtube.com). This aligns with the definitions because the videos are content that has been created by a human, edited, and then made for human consumption.</description>
+    </item>
+    <item>
+      <title>Harp First Post</title>
+      <link>http://localhost:1313/posts/harp-first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:52:18 -0400</pubDate>
+      <guid>http://localhost:1313/posts/harp-first-post/</guid>
+      <description>Water is good for people DOG</description>
     </item>
     <item>
       <title>Adhikari First Post</title>
