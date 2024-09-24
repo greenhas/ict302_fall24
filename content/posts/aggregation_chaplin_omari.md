@@ -3,8 +3,6 @@ title = 'Content Aggregation - Omari'
 author: Omari Chaplin
 date = 2024-09-24T04:50:12Z
 draft = false
-categories: [assignments]
-tags: [Omari,content_aggregation,tags]
 +++
 ## What is "content aggregation"?
 
