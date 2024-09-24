@@ -6,7 +6,7 @@ draft = false
 +++
 ## What is Content Aggregation?
 To me, content aggregation is simple; it's just the organization of content. Deane Barker -someone who knows a lot more than me- describes it as
-*An intentional grouping of content for organization or presentation.*
+*"An intentional grouping of content for organization or presentation."*
 A straightforward definition, but content aggregation can get somewhat complex.
 
 ## How is it used?
