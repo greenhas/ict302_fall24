@@ -8,10 +8,10 @@ draft = false
 
 Essentialy the execution of how you show content (Ex. Formatting)
 
-Forums[1](https://en.wikipedia.org/wiki/Internet_forum)
+Forums [1](https://en.wikipedia.org/wiki/Internet_forum)
 
 A forum is usually formatted into main pages (Normally on the top) and when you click one, will show a list of sub forums / pages to make it easy to browse
 
 Take GameFAQs for example
 
-[hi](https://gamefaqs.gamespot.com/)
+[hi] (https://gamefaqs.gamespot.com/)
