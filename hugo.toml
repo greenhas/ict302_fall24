@@ -1,4 +1,4 @@
 baseURL = 'https://exquisite-custard-016b0a.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Bad'
+theme = 'hugo-theme-terminal-4.0.6'
