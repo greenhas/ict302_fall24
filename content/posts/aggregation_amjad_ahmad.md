@@ -1,6 +1,6 @@
 +++
 title = 'Define content aggregation (Ahmad)'
-date = 2024-09-23
+date = 2024-09-23T09:59:49-04:00
 draft = false
 +++
 “An intentional grouping of content for the purposes of organization or presentation” Barker, D. (2016). Web Content Management. O’Reilly Media
