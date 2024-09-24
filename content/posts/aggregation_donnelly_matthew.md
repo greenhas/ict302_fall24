@@ -1,7 +1,7 @@
 +++
 title = 'Aggregation_donnelly_matthew'
 date = 2024-09-23T21:34:00-04:00
-draft = true
+draft = false
 +++
 ##Defining "Content Aggregation" 
 
