@@ -1,7 +1,7 @@
 +++
 title = 'Aggregation_lewis_grant'
 date = 2024-09-24T05:36:19-04:00
-draft = false
+draft = true
 +++
 
 Content aggregation is "An intentional grouping of content for the purposes of organization or presentation" Deane Barker, Web Content Management glossary.
