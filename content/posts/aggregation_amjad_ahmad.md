@@ -6,7 +6,7 @@ draft = false
 
 “An intentional grouping of content for the purposes of organization or presentation” Barker, D. (2016). Web Content Management. O’Reilly Media
 
-Essentialy the execution of how you show content (Ex. Formatting_
+Essentialy the execution of how you show content (Ex. Formatting)
 
 Forums <a href='Link'https://en.wikipedia.org/wiki/Internet_forum</a>
 
