@@ -6,7 +6,7 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Sep 2024 16:36:09 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:16:16 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hayes McCoy: Define Content</title>
@@ -21,6 +21,13 @@
       <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
       <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title>Defining Content Aggregation</title>
+      <link>http://localhost:1313/posts/aggregation_livingston_chauncey/</link>
+      <pubDate>Mon, 23 Sep 2024 21:16:16 -0400</pubDate>
+      <guid>http://localhost:1313/posts/aggregation_livingston_chauncey/</guid>
+      <description>What is Content Aggregation? To me, content aggregation is simple; it&amp;rsquo;s just the organization of content. Deane Barker -someone who knows a lot more than me- describes it as An intentional grouping of content for organization or presentation. A straightforward definition, but content aggregation can get somewhat complex.&#xA;How is it used? One of the more common examples of content aggregation is organizing things into categories or using tags. On platforms like Instagram, people can add hashtags that go with their posts to add them to other libraries of similar content.</description>
     </item>
     <item>
       <title>UGC_mason_avery</title>
