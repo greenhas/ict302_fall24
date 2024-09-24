@@ -5,8 +5,10 @@ date = 2024-09-22T04:50:12
 draft = false
 categories: [assignments]
 tags: [Omari,content_aggregation,tags]
+date = 2024-09-22T04:50:12
+draft = false
 +++
-## *What is "content aggregation"?
+## What is "content aggregation"?
 
 According to the slides and *Deane Barker*, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.
 
