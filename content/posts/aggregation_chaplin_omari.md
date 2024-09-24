@@ -1,10 +1,9 @@
 +++
 title = 'Content Aggregation - Omari'
-[params]
-  author = 'Omari Chaplin'
 date = 2024-09-23T22:30:00-04:00
 draft = false
 +++
+
 ## What is "content aggregation"?
 
 According to the slides and *Deane Barker*, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.
