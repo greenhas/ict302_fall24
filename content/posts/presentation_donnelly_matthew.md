@@ -1,15 +1,7 @@
 +++
 title = "Presentation_donnelly_matthew"
 date = "2024-09-25T13:24:37-04:00"
-author = "Matthew Donnelly"
-authorTwitter = "" #do not include @
-cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-readingTime = false
-hideComments = false
+draft=false
 +++
 
 ## Defining Presentation 
