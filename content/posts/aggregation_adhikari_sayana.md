@@ -1,6 +1,9 @@
 +++
 title = 'Aggregation_adhikari_sayana'
 date = 2024-09-20T19:36:25-04:00
+author= "Sayana Adhikari"
+categories= "definition"
+tags=["content aggregation"]
 draft = false
 +++
 **What is 'content aggregation'?**
