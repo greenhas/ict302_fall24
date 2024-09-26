@@ -7,6 +7,8 @@ categories = ["documentation"]
 tags = ["example","content aggregation"]
 +++
 
+All code needs to be added to the *front matter* at the beginning of the post–that is, between the two sets of `+++` before you get to the "main content" of the post.
+
 ## author
 
 Add yourself as `author` to all of your posts with the following code:
