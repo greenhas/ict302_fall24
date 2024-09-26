@@ -6,7 +6,62 @@
     <description>Recent content on Bad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 11:01:18 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2024 08:48:20 -0400</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aggregation documentation</title>
+      <link>//localhost:1313/aggregation_documentation/</link>
+      <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
+      
+      <guid>//localhost:1313/aggregation_documentation/</guid>
+      <description>&lt;p&gt;All code needs to be added to the &lt;em&gt;front matter&lt;/em&gt; at the beginning of the post–that is, between the two sets of &lt;code&gt;+++&lt;/code&gt; before you get to the &amp;ldquo;main content&amp;rdquo; of the post.&lt;/p&gt;
+&lt;h2 id=&#34;author&#34;&gt;author&lt;/h2&gt;
+&lt;p&gt;Add yourself as &lt;code&gt;author&lt;/code&gt; to all of your posts with the following code:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;author = &amp;quot;your name here&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Your name needs to be consistent across all posts for this to work properly!&lt;/p&gt;</description>
+      <content>&lt;p&gt;All code needs to be added to the &lt;em&gt;front matter&lt;/em&gt; at the beginning of the post–that is, between the two sets of &lt;code&gt;+++&lt;/code&gt; before you get to the &amp;ldquo;main content&amp;rdquo; of the post.&lt;/p&gt;
+&lt;h2 id=&#34;author&#34;&gt;author&lt;/h2&gt;
+&lt;p&gt;Add yourself as &lt;code&gt;author&lt;/code&gt; to all of your posts with the following code:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;author = &amp;quot;your name here&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Your name needs to be consistent across all posts for this to work properly!&lt;/p&gt;
+&lt;h2 id=&#34;categories&#34;&gt;categories&lt;/h2&gt;
+&lt;p&gt;We will use categories to sort posts by assignment type. You can use the following code to do so:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;categories = [&amp;quot;assignment type here&amp;quot;]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;You should replace &lt;code&gt;assignment type here&lt;/code&gt; with one of the following, making sure to pay attention to typos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;content definition&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;UGC definition&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;aggregation definition&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;presentation definition&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;management definition&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;CMS definition&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tags&#34;&gt;tags&lt;/h2&gt;
+&lt;p&gt;We will use tags as a more freeform way of describing what different posts contain in terms of content. You can use the following code to do so:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tags = [&amp;quot;tag 1 here&amp;quot;,&amp;quot;tag 2 here&amp;quot;,&amp;quot;tag 3 here&amp;quot;]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;What tags you use are up to you, but think about what might be helpful for someone who wants to see what we&amp;rsquo;re writing about!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Presentation_donnelly_matthew</title>
+      <link>//localhost:1313/posts/presentation_donnelly_matthew/</link>
+      <pubDate>Wed, 25 Sep 2024 13:24:37 -0400</pubDate>
+      
+      <guid>//localhost:1313/posts/presentation_donnelly_matthew/</guid>
+      <description>&lt;h2 id=&#34;defining-presentation&#34;&gt;Defining Presentation&lt;/h2&gt;
+&lt;p&gt;Dean Barker gave a great definition of presentation, he said that presentation is, &amp;ldquo;The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.&amp;rdquo; (Barker, 2013).&lt;/p&gt;
+&lt;h2 id=&#34;in-my-own-words&#34;&gt;In my own &lt;em&gt;words&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Presentation is how you view something in it&amp;rsquo;s simpliest form. It is how you see a website, and how easiliy or hard you can navigate through it. Considering what kind of presentation is best for your audiance is extremely important, as it could either make quality of life better or frustrating for users to naviagte and view.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;defining-presentation&#34;&gt;Defining Presentation&lt;/h2&gt;
+&lt;p&gt;Dean Barker gave a great definition of presentation, he said that presentation is, &amp;ldquo;The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.&amp;rdquo; (Barker, 2013).&lt;/p&gt;
+&lt;h2 id=&#34;in-my-own-words&#34;&gt;In my own &lt;em&gt;words&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Presentation is how you view something in it&amp;rsquo;s simpliest form. It is how you see a website, and how easiliy or hard you can navigate through it. Considering what kind of presentation is best for your audiance is extremely important, as it could either make quality of life better or frustrating for users to naviagte and view.&lt;/p&gt;
+&lt;h2 id=&#34;presentation-examples&#34;&gt;Presentation examples&lt;/h2&gt;
+&lt;p&gt;I have adobe express in mind. Adobe express lets users create instagram stories, has website templates, and much more. These are some of the templates on &lt;a href=&#34;https://new.express.adobe.com/new?width=1080&amp;amp;height=1920&amp;amp;unit=px&amp;amp;taskID=instagram-story&amp;amp;pixelsPerInch=96&amp;amp;aspectRatioLock=true&amp;amp;pageCount=1&amp;amp;category=templates&amp;amp;assetCollection=urn%3Aaaid%3Asc%3AVA6C2%3A4a4fcb01-4152-46ef-9b85-4adf3024d1fd&#34;&gt;Adobe Express&lt;/a&gt; . There are over 13,000 templates to choice from for instagram stories, varying from basketball, music, etc.&lt;/p&gt;
+&lt;p&gt;Being able to choose from so many options is important for social media creators, and there is basically something for everyone. If there was just one template for everybody to use, it would be boring and a lot of the times just wouldn&amp;rsquo;t make sense for some stories.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Aggregation_Ilunga_Victoire</title>
       <link>//localhost:1313/posts/aggregation_ilunga_victoire/</link>
@@ -185,17 +240,17 @@
       <pubDate>Mon, 23 Sep 2024 21:34:00 -0400</pubDate>
       
       <guid>//localhost:1313/posts/aggregation_donnelly_matthew/</guid>
-      <description>&lt;p&gt;##Defining &amp;ldquo;Content Aggregation&amp;rdquo;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;defining-content-aggregation&#34;&gt;Defining &amp;ldquo;Content Aggregation&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;In Deane Barker&amp;rsquo;s words, content aggregation is, &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo; (Barker).&lt;/p&gt;
-&lt;p&gt;##In my own words&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;in-my-own-words&#34;&gt;In my own words&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I would say that it really just makes it easier to find specific things on websites, since it uses grouping and organization.&lt;/p&gt;
-&lt;p&gt;##Examples?&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples?&lt;/h2&gt;
 &lt;p&gt;First thing that comes to mind is Reddit. Reddit&amp;rsquo;s home page is super simple and is easy to navigate for new users, &lt;a href=&#34;https://www.reddit.com/&#34;&gt;Reddit Home Page&lt;/a&gt; . If you are using reddit on the computer, on the left side there are topics that you can browse through. If you are interested in movies/tv you can just click on this topic ( which is a great example of content aggregation ).&lt;/p&gt;</description>
-      <content>&lt;p&gt;##Defining &amp;ldquo;Content Aggregation&amp;rdquo;&lt;/p&gt;
+      <content>&lt;h2 id=&#34;defining-content-aggregation&#34;&gt;Defining &amp;ldquo;Content Aggregation&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;In Deane Barker&amp;rsquo;s words, content aggregation is, &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo; (Barker).&lt;/p&gt;
-&lt;p&gt;##In my own words&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;in-my-own-words&#34;&gt;In my own words&amp;hellip;&lt;/h2&gt;
 &lt;p&gt;I would say that it really just makes it easier to find specific things on websites, since it uses grouping and organization.&lt;/p&gt;
-&lt;p&gt;##Examples?&lt;/p&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples?&lt;/h2&gt;
 &lt;p&gt;First thing that comes to mind is Reddit. Reddit&amp;rsquo;s home page is super simple and is easy to navigate for new users, &lt;a href=&#34;https://www.reddit.com/&#34;&gt;Reddit Home Page&lt;/a&gt; . If you are using reddit on the computer, on the left side there are topics that you can browse through. If you are interested in movies/tv you can just click on this topic ( which is a great example of content aggregation ).&lt;/p&gt;
 </content>
     </item>
@@ -652,13 +707,13 @@ An example of user-generated content would be a simple Instagram post of a selfi
       <pubDate>Mon, 16 Sep 2024 23:18:45 -0400</pubDate>
       
       <guid>//localhost:1313/posts/ugc_donnelly_matthew/</guid>
-      <description>&lt;p&gt;##Defining &amp;ldquo;user generated content&amp;rdquo;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;defining-user-generated-content&#34;&gt;Defining &amp;ldquo;user generated content&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;User generated content is typically &amp;ldquo;generated by non-editors, usually from the public side of the website&amp;rdquo; (Barker). UCG is extremely broad, really anything that anybody posts/replies to can be considered for this; however, to me I would say that it is content created by users, for others to view.&lt;/p&gt;
-&lt;p&gt;##Examples of UCG&lt;/p&gt;
+&lt;h2 id=&#34;examples-of-ucg&#34;&gt;Examples of UCG&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/photography/comments/2l9z1y/setting_up_a_home_darkroom_difficult/&#34;&gt;Reddit Post&lt;/a&gt; This is a simple example of UCG. Even though this post is about 10 years old, this user was asking questions on how to set up a darkroom. I use reddit all of the time if I need inspiration or just have any questions. But there are many other websites that you can find UCG on.&lt;/p&gt;</description>
-      <content>&lt;p&gt;##Defining &amp;ldquo;user generated content&amp;rdquo;&lt;/p&gt;
+      <content>&lt;h2 id=&#34;defining-user-generated-content&#34;&gt;Defining &amp;ldquo;user generated content&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;User generated content is typically &amp;ldquo;generated by non-editors, usually from the public side of the website&amp;rdquo; (Barker). UCG is extremely broad, really anything that anybody posts/replies to can be considered for this; however, to me I would say that it is content created by users, for others to view.&lt;/p&gt;
-&lt;p&gt;##Examples of UCG&lt;/p&gt;
+&lt;h2 id=&#34;examples-of-ucg&#34;&gt;Examples of UCG&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/photography/comments/2l9z1y/setting_up_a_home_darkroom_difficult/&#34;&gt;Reddit Post&lt;/a&gt; This is a simple example of UCG. Even though this post is about 10 years old, this user was asking questions on how to set up a darkroom. I use reddit all of the time if I need inspiration or just have any questions. But there are many other websites that you can find UCG on.&lt;/p&gt;
 </content>
     </item>

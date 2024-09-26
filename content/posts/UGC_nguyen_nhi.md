@@ -1,6 +1,10 @@
 +++
 title = 'UGC_nguyen_nhi'
 date = 2024-09-10T10:26:39-04:00
+author = "Nhi Nguyen"
+categories = [''documentation"]
+tags = ["example", "UGC","User-generated Content"]
+
 draft = false
 +++
 ### User-generated Content
