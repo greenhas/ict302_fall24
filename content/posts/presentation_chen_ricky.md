@@ -4,7 +4,7 @@ date = 2024-09-24T10:51:28-04:00
 draft = false
 author = "Ricky Chen"
 tags = ["Deane Barker","Shopify"]
-categories = ["Presentation"]
+categories = ["presentation definition"]
 +++
 
 ## What is Presentation?
