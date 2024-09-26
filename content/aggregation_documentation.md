@@ -1,7 +1,6 @@
 +++
 title = 'aggregation documentation'
 date = 2024-09-26T08:48:20-04:00
-draft = false
 author = "Dr. Greenhalgh"
 categories = ["documentation"]
 tags = ["example","content aggregation"]
@@ -31,6 +30,7 @@ You should replace `assignment type here` with one of the following, making sure
 * `presentation definition`
 * `management definition`
 * `CMS definition`
+* `work report`
 
 ## tags
 
