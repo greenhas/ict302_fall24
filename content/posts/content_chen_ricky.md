@@ -9,7 +9,7 @@ draft = false
 
 According to Deane Barker, "Content is information produced through editorial process and ultimately intended for human consumption via publication." 
 
-Barker, D.(2016). [Web Content Management](https://uk.instructure.com/courses/2097675/modules/items/27491899). O'Reilly Media
+Barker, D.(2016). [Web Content Management](https://deanebarker.net/books/squirrel/the-basics/). O'Reilly Media
 
 
 **In My Own Words**
@@ -25,4 +25,4 @@ An exmaple of content is Online Courses. It is something that take money and tim
 [Colibri Real Estate](https://learn.colibrirealestate.com/)
 
 
-The example of online courses, it is made by licensed instructors, using an actual study book given by the state, which cost money to buy, and it takes time to create all 36 chapters into a webpage. After the webpage is published it can be bought/rented by another human to learn and prepare for the real estate license exam. Online courses takes money and time, through an "editorial process" and used by another human.
+The example of online courses, it is made by licensed instructors, using an actual study book given by the state, which cost money to buy, and it takes time to create all 70 chapters into a webpage. After the webpage is published it can be bought/rented by another human to learn and prepare for the real estate license exam. Online courses takes money and time, through an "editorial process" and used by another human.
