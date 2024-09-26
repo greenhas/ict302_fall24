@@ -2,6 +2,9 @@
 title = 'UGC_chen_ricky'
 date = 2024-09-10T10:23:27-04:00
 draft = false
+author = "Ricky Chen"
+tags = ["Deane Barker","Amazon"]
+categories = ["User Generated Content"]
 +++
 
 
