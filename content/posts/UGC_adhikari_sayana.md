@@ -3,7 +3,7 @@ title = 'UGC_adhikari_sayana'
 date = 2024-09-19T14:23:32-04:00
 author= "Sayana Adhikari"
 categories= "definition"
-tags=["UGC"]
+tags=["UGC"] 
 draft = false
 +++
 **What is UGC?**
