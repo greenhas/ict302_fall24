@@ -2,6 +2,9 @@
 title = 'Define content (Ahmad)'
 date = 2024-09-05T09:59:49-04:00
 draft = false
+author = "Ahmad"
+categories = ["documentation"]
+tags = ["content"]
 +++
 Definition: "Content is information produced through editorial process and ultimately intended for human consumption via publication."
 
