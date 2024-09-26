@@ -1,9 +1,11 @@
 +++
-title = 'Content Aggregation - Omari'
-date = 2024-09-23T22:30:00-04:00
+title = '"Content Aggregation" - Omari'
+author = "Omari Chaplin"
+date = 2024-09-24T04:50:12Z
+categories = ["content aggregation"]
+tags = ["content aggregation","Omari","photography","assignments","Reddit","WellYes"]
 draft = false
 +++
-
 ## What is "content aggregation"?
 
 According to the slides and *Deane Barker*, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.
