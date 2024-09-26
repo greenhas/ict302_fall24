@@ -1,6 +1,9 @@
 +++
 title = 'Content_adhikari_sayana'
 date = 2024-09-19T14:03:34-04:00
+author= "Sayana Adhikari"
+categories= "definition"
+tags=["content"] 
 draft = false
 +++
 **Whai is Content?**
