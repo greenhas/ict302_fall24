@@ -1,6 +1,9 @@
 +++
 title = "Presentation_donnelly_matthew"
 date = "2024-09-25T13:24:37-04:00"
+author = "Matthew Donnelly"
+categories = ["presentation definition"]
+tags = ["adobe"]
 draft=false
 +++
 
