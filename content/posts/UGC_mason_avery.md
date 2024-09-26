@@ -1,6 +1,9 @@
 +++
 title = 'UGC_mason_avery'
 date = 2024-09-16T16:36:09-04:00
+author = "Avery Mason"
+categories = ["UGC definition"]
+tags = ["reddit"]
 draft = false
 +++
 
