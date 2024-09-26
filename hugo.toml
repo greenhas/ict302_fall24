@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'ICT 302 Fall 24'
-theme = 'ananke'
+theme = 'Mainroad-master'
 
 [taxonomies]
 	category = 'categories'
