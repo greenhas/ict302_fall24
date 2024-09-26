@@ -2,3 +2,18 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Bad'
 theme = 'terminal'
+
+[taxonomies]
+	category = 'categories'
+	tag = 'tags'
+	author = 'author'
+	
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Aggregation Documentation'
+    pageRef = '/aggregation_documentation'
+    weight = 20
