@@ -1,4 +1,19 @@
-baseURL = 'https://exquisite-custard-016b0a.netlify.app'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'Bad'
-theme = 'hugo-theme-terminal-4.0.6'
+title = 'ICT 302 Fall 24'
+theme = 'Mainroad-master'
+
+[taxonomies]
+	category = 'categories'
+	tag = 'tags'
+	author = 'author'
+	
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Aggregation Documentation'
+    pageRef = '/aggregation_documentation'
+    weight = 20
