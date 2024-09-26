@@ -3,7 +3,7 @@ title = 'aggregation_nguyen_nhi'
 date = 2024-09-17T10:26:39-04:00
 author = "Nhi Nguyen"
 categories = [''documentation"]
-tags = ["example", "content aggregation"]
+tags = ["example","content aggregation"]
 draft = false
 +++
 ### User-generated Content
