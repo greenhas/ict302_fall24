@@ -1,6 +1,9 @@
 +++
 title = 'presentation_nguyen_nhi'
 date = 2024-09-24T10:26:39-04:00
+author = "Nhi Nguyen"
+categories = [''documentation"]
+tags = ["example", "presentation"]
 draft = false
 +++
 ### Presentation
