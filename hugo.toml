@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'Bad'
+title = 'ICT 302 Fall 24'
 theme = 'terminal'
 
 [taxonomies]
