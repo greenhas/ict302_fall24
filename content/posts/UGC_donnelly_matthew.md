@@ -1,6 +1,9 @@
 +++
 title = 'UGC_donnelly_matthew'
 date = 2024-09-16T23:18:45-04:00
+author = "Matthew Donnelly"
+categories = ["UGC definition"]
+tags = ["reddit"]
 draft = false
 +++
 ## Defining "user generated content" 
