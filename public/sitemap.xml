@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-24T10:52:17-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-24T10:52:17-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/presentation_bryant_henry/</loc>
+    <lastmod>2024-09-24T10:52:17-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/presentation_chen_ricky/</loc>
+    <lastmod>2024-09-24T10:51:28-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/presentation_nguyen_nhi/</loc>
+    <lastmod>2024-09-24T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/aggregation_lewis_grant/</loc>
+    <lastmod>2024-09-24T05:36:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/aggregation_chaplin_omari/</loc>
+=======
     <loc>//localhost:1313/posts/aggregation_ilunga_victoire/</loc>
     <lastmod>2024-09-24T11:01:18-04:00</lastmod>
   </url><url>
@@ -30,6 +51,7 @@
     <lastmod>2024-09-24T05:36:19-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/aggregation_chaplin_omari/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
     <lastmod>2024-09-23T22:30:00-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/aggregation_mason_avery/</loc>
@@ -101,7 +123,11 @@
     <loc>//localhost:1313/posts/ugc_myers_albert/</loc>
     <lastmod>2024-09-17T00:27:04-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/ugc_donnelly_matthew/</loc>
+=======
     <loc>//localhost:1313/posts/ugc_donnelly_matthew/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
     <lastmod>2024-09-16T23:18:45-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/ugc_mccoy_hayes/</loc>
@@ -116,7 +142,11 @@
     <loc>//localhost:1313/posts/ugc_amjad_ahmad/</loc>
     <lastmod>2024-09-16T09:59:49-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/aggregation_coleman_bryan/</loc>
+=======
     <loc>//localhost:1313/posts/aggregation_coleman_bryan/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
     <lastmod>2024-09-12T12:37:01-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/ugc_coleman_bryan/</loc>
@@ -143,16 +173,27 @@
     <loc>//localhost:1313/posts/chaplin-first-post/</loc>
     <lastmod>2024-09-09T23:43:59-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/content_livingston_chauncey/</loc>
+=======
     <loc>//localhost:1313/posts/content_livingston_chauncey/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
     <lastmod>2024-09-09T23:06:05-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/content-rael-kapanga/</loc>
     <lastmod>2024-09-09T20:08:06-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/lastname-first-post/</loc>
+    <lastmod>2024-09-09T20:06:23-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_mason_avery/</loc>
+=======
     <loc>//localhost:1313/posts/lastname-first-post/</loc>
     <lastmod>2024-09-09T20:06:23-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/content_mason_avery/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
     <lastmod>2024-09-09T16:26:16-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/kapanga-first-post/</loc>
@@ -161,10 +202,17 @@
     <loc>//localhost:1313/posts/kapanga-rael-post/</loc>
     <lastmod>2024-09-09T11:22:35-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/content_kirkpatrick_sam/</loc>
+    <lastmod>2024-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/content_hotko_aj/</loc>
+=======
     <loc>//localhost:1313/posts/content_kirkpatrick_sam/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/content_hotko_aj/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
     <lastmod>2024-09-08T17:47:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/content_myers_albert/</loc>
@@ -218,7 +266,11 @@
     <loc>//localhost:1313/posts/bryant-first-post/</loc>
     <lastmod>2024-09-05T09:49:58-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/posts/content_mccoy_hayes/</loc>
+=======
     <loc>//localhost:1313/posts/content_mccoy_hayes/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
     <lastmod>2024-09-05T05:15:42-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/mccoy-first-post/</loc>
@@ -228,6 +280,10 @@
   </url><url>
     <loc>//localhost:1313/post/</loc>
   </url><url>
+<<<<<<< HEAD
+    <loc>http://localhost:1313/tags/</loc>
+=======
     <loc>//localhost:1313/tags/</loc>
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
   </url>
 </urlset>

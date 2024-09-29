@@ -5,6 +5,10 @@
     <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Bad</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
+    <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
     <language>en-us</language><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
   </channel>
 </rss>
