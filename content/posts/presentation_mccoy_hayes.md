@@ -6,11 +6,11 @@ draft = false
 [params]
 	author = 'Hayes McCoy'
 	
+	categories = ['presentation definition']
+	
 	show_reading_time = true
 
 	tags = ['presentation', 'mccoy', 'hayes']
-
-	text_color = 'blue'
 
 +++
 

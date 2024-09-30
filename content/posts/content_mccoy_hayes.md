@@ -5,9 +5,9 @@ draft = false
 [params]
 	author = 'Hayes McCoy'
 	
-tags = ['content aggregation', 'mccoy', 'hayes']
+	tags = ['content aggregation', 'mccoy', 'hayes']
 
-
+	categories = ["content definition"]
 +++
 
 ---

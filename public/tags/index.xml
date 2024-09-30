@@ -30,7 +30,7 @@
       <description></description>
     </item>
     <item>
-      <title>Mccoy</title>
+      <title>McCoy</title>
       <link>//localhost:1313/tags/mccoy/</link>
       <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
       <guid>//localhost:1313/tags/mccoy/</guid>
@@ -153,6 +153,13 @@
       <link>//localhost:1313/tags/real-estate/</link>
       <pubDate>Thu, 05 Sep 2024 11:17:40 -0400</pubDate>
       <guid>//localhost:1313/tags/real-estate/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/tags/first-post/</link>
+      <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
+      <guid>//localhost:1313/tags/first-post/</guid>
       <description></description>
     </item>
   </channel>
