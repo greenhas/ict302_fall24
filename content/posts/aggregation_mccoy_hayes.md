@@ -5,7 +5,12 @@ draft = false
 
 [params]
 	author = 'Hayes McCoy'
-	keywords = ['content aggregation', 'mccoy', 'hayes']
+	
+	show_reading_time = true
+
+tags = ['content aggregation', 'mccoy', 'hayes']
+
+	text_color = 'green'
 
 +++
 
