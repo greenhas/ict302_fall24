@@ -2,7 +2,7 @@
 title = 'Aggregation_Hotko_AJ'
 date = 2024-09-23T21:07:47-04:00
 author = "AJ Hotko"
-categories = ["aggregation definition']
+categories = ["aggregation definition"]
 tags = ["Instagram"]
 draft = false
 +++
