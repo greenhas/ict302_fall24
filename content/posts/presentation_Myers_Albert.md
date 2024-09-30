@@ -1,9 +1,9 @@
 +++
-title = 'Aggregation_Myers_Albert'
+title = 'Presentation_Myers_Albert'
 date = 2024-09-30T12:47:55-04:00
 draft = false
 author = Albert Myers
-categories = ["documentation"]
+categories = ["presentation definition"]
 tags = ["Canvas", "presentation"]
 +++
 > ## **What is** *"Presentation"*
