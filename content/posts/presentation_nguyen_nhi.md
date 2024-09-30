@@ -3,8 +3,7 @@ title = 'presentation_nguyen_nhi'
 date = 2024-09-24T10:26:39-04:00
 author = "Nhi Nguyen"
 categories = [''documentation"]
-tags = ["example", "presentation"]
-draft = false
+tags = ["example","presentation"]
 +++
 ### Presentation
 The definition of this concept is *"Content from its aesthetic surroundings, so the 'presentation' is the use of colors, fonts, etc."* (Barker, 2016)
