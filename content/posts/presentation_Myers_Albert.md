@@ -1,7 +1,7 @@
 +++
 title = 'Presentation_Myers_Albert'
 date = 2024-09-30T12:47:55-04:00
-author = Albert Myers
+author = 'Albert Myers'
 categories = ["presentation"]
 tags = ["Canvas", "presentation"]
 draft = false

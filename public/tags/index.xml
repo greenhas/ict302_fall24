@@ -1,52 +1,159 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on ICT 302 Fall 24</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Sep 2024 17:44:47 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 12:47:55 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hayes</title>
-      <link>http://localhost:1313/tags/hayes/</link>
-      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>http://localhost:1313/tags/hayes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mccoy</title>
-      <link>http://localhost:1313/tags/mccoy/</link>
-      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>http://localhost:1313/tags/mccoy/</guid>
+      <title>Canvas</title>
+      <link>//localhost:1313/tags/canvas/</link>
+      <pubDate>Mon, 30 Sep 2024 12:47:55 -0400</pubDate>
+      <guid>//localhost:1313/tags/canvas/</guid>
       <description></description>
     </item>
     <item>
       <title>Presentation</title>
-      <link>http://localhost:1313/tags/presentation/</link>
+      <link>//localhost:1313/tags/presentation/</link>
+      <pubDate>Mon, 30 Sep 2024 12:47:55 -0400</pubDate>
+      <guid>//localhost:1313/tags/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hayes</title>
+      <link>//localhost:1313/tags/hayes/</link>
       <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>http://localhost:1313/tags/presentation/</guid>
+      <guid>//localhost:1313/tags/hayes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mccoy</title>
+      <link>//localhost:1313/tags/mccoy/</link>
+      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
+      <guid>//localhost:1313/tags/mccoy/</guid>
       <description></description>
     </item>
     <item>
       <title>Content Aggregation</title>
-      <link>http://localhost:1313/tags/content-aggregation/</link>
-      <pubDate>Sun, 22 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>http://localhost:1313/tags/content-aggregation/</guid>
+      <link>//localhost:1313/tags/content-aggregation/</link>
+      <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
+      <guid>//localhost:1313/tags/content-aggregation/</guid>
       <description></description>
     </item>
-=======
-    <title>Tags on Bad</title>
-    <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on Bad</description>
-    <generator>Hugo -- gohugo.io</generator>
-<<<<<<< HEAD
-    <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <language>en-us</language><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> c5f91e405bb641950466e76784b6bbc1814bef7a
->>>>>>> b98402fa4b30b3db701669a540f09465a6479dec
+    <item>
+      <title>Example</title>
+      <link>//localhost:1313/tags/example/</link>
+      <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
+      <guid>//localhost:1313/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adobe</title>
+      <link>//localhost:1313/tags/adobe/</link>
+      <pubDate>Wed, 25 Sep 2024 13:24:37 -0400</pubDate>
+      <guid>//localhost:1313/tags/adobe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deane Barker</title>
+      <link>//localhost:1313/tags/deane-barker/</link>
+      <pubDate>Tue, 24 Sep 2024 10:51:28 -0400</pubDate>
+      <guid>//localhost:1313/tags/deane-barker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shopify</title>
+      <link>//localhost:1313/tags/shopify/</link>
+      <pubDate>Tue, 24 Sep 2024 10:51:28 -0400</pubDate>
+      <guid>//localhost:1313/tags/shopify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reddit</title>
+      <link>//localhost:1313/tags/reddit/</link>
+      <pubDate>Mon, 23 Sep 2024 21:34:00 -0400</pubDate>
+      <guid>//localhost:1313/tags/reddit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Instagram</title>
+      <link>//localhost:1313/tags/instagram/</link>
+      <pubDate>Mon, 23 Sep 2024 21:07:47 -0400</pubDate>
+      <guid>//localhost:1313/tags/instagram/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>YouTube</title>
+      <link>//localhost:1313/tags/youtube/</link>
+      <pubDate>Mon, 23 Sep 2024 16:08:32 -0400</pubDate>
+      <guid>//localhost:1313/tags/youtube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiktok</title>
+      <link>//localhost:1313/tags/tiktok/</link>
+      <pubDate>Mon, 23 Sep 2024 12:13:27 -0400</pubDate>
+      <guid>//localhost:1313/tags/tiktok/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UGC</title>
+      <link>//localhost:1313/tags/ugc/</link>
+      <pubDate>Thu, 19 Sep 2024 14:23:32 -0400</pubDate>
+      <guid>//localhost:1313/tags/ugc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>//localhost:1313/tags/content/</link>
+      <pubDate>Thu, 19 Sep 2024 14:03:34 -0400</pubDate>
+      <guid>//localhost:1313/tags/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>//localhost:1313/tags/google/</link>
+      <pubDate>Tue, 17 Sep 2024 10:51:44 -0400</pubDate>
+      <guid>//localhost:1313/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>//localhost:1313/tags/news/</link>
+      <pubDate>Tue, 17 Sep 2024 10:51:44 -0400</pubDate>
+      <guid>//localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amazon</title>
+      <link>//localhost:1313/tags/amazon/</link>
+      <pubDate>Tue, 10 Sep 2024 10:23:27 -0400</pubDate>
+      <guid>//localhost:1313/tags/amazon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>//localhost:1313/tags/photography/</link>
+      <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>//localhost:1313/tags/photography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Colibri</title>
+      <link>//localhost:1313/tags/colibri/</link>
+      <pubDate>Thu, 05 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>//localhost:1313/tags/colibri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real Estate</title>
+      <link>//localhost:1313/tags/real-estate/</link>
+      <pubDate>Thu, 05 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>//localhost:1313/tags/real-estate/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
