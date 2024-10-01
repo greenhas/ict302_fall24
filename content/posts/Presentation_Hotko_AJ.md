@@ -2,7 +2,7 @@
 title = 'Presentation_Hotko_AJ'
 date = 2024-10-01T10:43:03-04:00
 author = "AJ Hotko"
-Categories -["Presentation definition"]
+Categories = ["Presentation definition"]
 draft = false
 +++
 ## Presentation Defined 
