@@ -1,6 +1,9 @@
 +++
 title = 'Content_nguyen_nhi'
 date = 2024-09-05T11:18:41-04:00
+author = "Nhi Nguyen"
+categories = ["documentation"]
+tags = ["example", "content"]
 draft = false
 +++
 ## What is Content?
