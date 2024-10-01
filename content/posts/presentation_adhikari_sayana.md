@@ -7,6 +7,7 @@ categories= "definition"
 tags=["presentation"]
 +++
 **What is Presentation?**
+
 Presentation is the general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered. (Deane Barker, Web Content Management glossary)
 
 **In my words**
