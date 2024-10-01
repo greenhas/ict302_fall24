@@ -4,6 +4,10 @@ date = 2024-09-05T05:15:42-04:00
 draft = false
 [params]
 	author = 'Hayes McCoy'
+	
+	tags = ['content aggregation', 'mccoy', 'hayes']
+
+	categories = ["content definition"]
 +++
 
 ---

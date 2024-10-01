@@ -28,6 +28,7 @@ You should replace `assignment type here` with one of the following, making sure
 * `UGC definition`
 * `aggregation definition`
 * `presentation definition`
+* `workflow proposal`
 * `management definition`
 * `CMS definition`
 * `work report`

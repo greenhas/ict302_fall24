@@ -1,8 +1,9 @@
 +++
 title = 'Aggregation_harp_mauricio'
 date = 2024-09-23T16:08:32-04:00
-draft = true
+draft = false
 author = "Mauricio Harp"
+categories = "content aggregation"
 tags = ["youtube"]
 +++
 **Definition**: Content aggregation intentionally groups content for organization or presentation" (Barker, 2024).
