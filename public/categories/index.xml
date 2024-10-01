@@ -1,10 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Bad</title>
+    <title>Categories on ICT 302 Fall 24</title>
     <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on Bad</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Categories on ICT 302 Fall 24</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2024 12:47:55 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation</title>
+      <link>//localhost:1313/categories/presentation/</link>
+      <pubDate>Mon, 30 Sep 2024 12:47:55 -0400</pubDate>
+      <guid>//localhost:1313/categories/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation Definition</title>
+      <link>//localhost:1313/categories/presentation-definition/</link>
+      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
+      <guid>//localhost:1313/categories/presentation-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>//localhost:1313/categories/documentation/</link>
+      <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
+      <guid>//localhost:1313/categories/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aggregation Definition</title>
+      <link>//localhost:1313/categories/aggregation-definition/</link>
+      <pubDate>Mon, 23 Sep 2024 21:34:00 -0400</pubDate>
+      <guid>//localhost:1313/categories/aggregation-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Aggregation</title>
+      <link>//localhost:1313/categories/content-aggregation/</link>
+      <pubDate>Mon, 23 Sep 2024 16:08:32 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-aggregation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definition</title>
+      <link>//localhost:1313/categories/definition/</link>
+      <pubDate>Fri, 20 Sep 2024 19:36:25 -0400</pubDate>
+      <guid>//localhost:1313/categories/definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UGC Definition</title>
+      <link>//localhost:1313/categories/ugc-definition/</link>
+      <pubDate>Mon, 16 Sep 2024 23:18:45 -0400</pubDate>
+      <guid>//localhost:1313/categories/ugc-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Definition</title>
+      <link>//localhost:1313/categories/content-definition/</link>
+      <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-definition/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
