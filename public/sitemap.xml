@@ -2,11 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/author/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/hayes/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/hayes-mccoy/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-10-01T04:10:52-04:00</lastmod>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mccoy/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-10-01T04:10:52-04:00</lastmod>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/workflow/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/workflow-proposal/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/workflow_mccoy_hayes/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_lewis_grant/</loc>
     <lastmod>2024-10-01T04:10:52-04:00</lastmod>
@@ -14,13 +41,7 @@
     <loc>//localhost:1313/posts/presentation_parsons_ben/</loc>
     <lastmod>2024-10-01T00:46:08-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/</loc>
-    <lastmod>2024-10-01T00:09:25-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/author/avery-mason/</loc>
-    <lastmod>2024-10-01T00:09:25-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-10-01T00:09:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/presentation/</loc>
@@ -30,9 +51,6 @@
     <lastmod>2024-10-01T00:09:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_mason_avery/</loc>
-    <lastmod>2024-10-01T00:09:25-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-10-01T00:09:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/youtube/</loc>
@@ -85,15 +103,6 @@
   </url><url>
     <loc>//localhost:1313/posts/presentation_amjad_ahmad/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/hayes/</loc>
-    <lastmod>2024-09-28T17:44:47-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/hayes-mccoy/</loc>
-    <lastmod>2024-09-28T17:44:47-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mccoy/</loc>
-    <lastmod>2024-09-28T17:44:47-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/presentation-definition/</loc>
     <lastmod>2024-09-28T17:44:47-04:00</lastmod>

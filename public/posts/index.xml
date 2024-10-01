@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 04:10:52 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow_mccoy_hayes</title>
+      <link>//localhost:1313/posts/workflow_mccoy_hayes/</link>
+      <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_mccoy_hayes/</guid>
+      <description>Phases a Task Should Pass Through Before any piece of content gets published it should be throughly gone over until it is determined complete. Below is an idea of my on how we could structure these phases.&#xA;Planning Phase We need to define our goals. We need to get input from our peers and client We need to see what we have to work with overview what is already there.</description>
+    </item>
     <item>
       <title>Presentation_lewis_grant</title>
       <link>//localhost:1313/posts/presentation_lewis_grant/</link>
