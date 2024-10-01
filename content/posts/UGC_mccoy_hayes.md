@@ -5,6 +5,12 @@ draft = false
 
 [params]
 	author = 'Hayes McCoy'
+	
+	tags = ["Hayes", "McCoy", "UGC"]
+	
+	categories = ["UGC definition"]
+	
+	
 +++
 
 ---

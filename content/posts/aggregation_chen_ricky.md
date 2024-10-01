@@ -2,6 +2,9 @@
 title = 'Aggregation_chen_ricky'
 date = 2024-09-17T10:51:44-04:00
 draft = false
+author = "Ricky Chen"
+tags = ["Deane Barker","Google","News"]
+categories = ["aggregation definition"]
 +++
 
 
