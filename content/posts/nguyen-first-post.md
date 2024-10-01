@@ -2,7 +2,7 @@
 title = 'Nguyen First Post'
 date = 2024-09-05T09:56:29-04:00
 author = "Nhi Nguyen"
-categories = [''documentation"]
+categories = ["documentation"]
 tags = ["example", "first post"]
 
 draft = false
