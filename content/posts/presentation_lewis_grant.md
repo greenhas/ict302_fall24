@@ -1,7 +1,7 @@
 +++
 title = 'Presentation_lewis_grant'
 date = 2024-10-01T04:10:52-04:00
-draft = true
+draft = false
 +++
 
 "Content is the raw data, while presentation is how it's shown." -Mauricio Harp.
