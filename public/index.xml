@@ -6,7 +6,6 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 01 Oct 2024 12:16:55 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -15,9 +14,28 @@
       <pubDate>Tue, 01 Oct 2024 12:16:55 -0400</pubDate>
       <guid>//localhost:1313/posts/workflow_chen_ricky/</guid>
       <description>Phases to Pass Through First, identify the problem/goal, know the what is the final goal of this task&#xA;Second, braindstorm ideas and assigning the right person for this specific task&#xA;Third, drafts should be made including the different ideas in he brainstorm&#xA;Fourth, an editor/publisher should review the final draft to make edits, suggestion, etc&#xA;Finally, post into the site after majorities&amp;rsquo;s approval&#xA;Roles Roles will be important to increase the effiency of the workflow.</description>
-=======
-    <lastBuildDate>Tue, 01 Oct 2024 04:10:52 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    </item>
+    <item>
+      <title>Presentation_harp_mauricio</title>
+      <link>//localhost:1313/posts/presentation_harp_mauricio/</link>
+      <pubDate>Tue, 01 Oct 2024 11:07:09 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_harp_mauricio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>workflow_bryant_henry</title>
+      <link>//localhost:1313/posts/workflow_bryant_henry/</link>
+      <pubDate>Tue, 01 Oct 2024 10:42:55 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_bryant_henry/</guid>
+      <description>Different Phases There are several different phases that a task should pass through before it is marked complete. First, the task should be brainstormed; we should actually think about what we want to work on with the site. The brainstorming step would also include assigning someone to work on the post. Next, once the task has been brainstormed, we need to actually draft the task - we need to fix the site in whatever way we brainstormed about.</description>
+    </item>
+    <item>
+      <title>workflow_nguyen_nhi</title>
+      <link>//localhost:1313/posts/workflow_nguyen_nhi/</link>
+      <pubDate>Tue, 01 Oct 2024 10:26:39 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_nguyen_nhi/</guid>
+      <description>Different phases Idea phase &amp;ldquo;Brainstorming where everyone can suggest ideas.&amp;rdquo;&#xA;Planning phase &amp;ldquo;Deciding on deadlines, roles, plan.&amp;rdquo;&#xA;Creation phase &amp;ldquo;Content is written and designed based on the plan.&amp;rdquo;&#xA;Review Phase &amp;ldquo;Checking for errors, suggestions, and feedbacks.&amp;rdquo;&#xA;Approval Phase &amp;ldquo;Getting approval from editor.&amp;rdquo;&#xA;Completion Phase &amp;ldquo;The work is published.&amp;rdquo;&#xA;Different roles Project manager &amp;ldquo;Ensuring the team is on track.&amp;rdquo;&#xA;Content creator &amp;ldquo;Writing, designing, creating the content based on the requirements.&amp;rdquo;&#xA;Editor &amp;ldquo;Reviewing the works and making sure everything meets the goals&amp;rdquo;</description>
+    </item>
     <item>
       <title>Presentation_lewis_grant</title>
       <link>//localhost:1313/posts/presentation_lewis_grant/</link>
@@ -80,7 +98,6 @@
       <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
       <guid>//localhost:1313/posts/presentation_mccoy_hayes/</guid>
       <description>&amp;ldquo;The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;What is Presentation To Me? To me, presentation is how content is displayed. It is what you see when you go to a webpage or an application, and it is anything with a graphical user interface.</description>
->>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     </item>
     <item>
       <title>aggregation documentation</title>
@@ -88,8 +105,6 @@
       <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
       <guid>//localhost:1313/aggregation_documentation/</guid>
       <description>All code needs to be added to the front matter at the beginning of the post–that is, between the two sets of +++ before you get to the &amp;ldquo;main content&amp;rdquo; of the post.&#xA;author Add yourself as author to all of your posts with the following code:&#xA;author = &amp;quot;your name here&amp;quot;&#xA;Your name needs to be consistent across all posts for this to work properly!&#xA;categories We will use categories to sort posts by assignment type.</description>
-<<<<<<< HEAD
-=======
     </item>
     <item>
       <title>&#34;Content Aggregation&#34; - Omari</title>
@@ -97,7 +112,6 @@
       <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
       <guid>//localhost:1313/posts/aggregation_chaplin_omari/</guid>
       <description>What is &amp;ldquo;content aggregation&amp;rdquo;? According to the slides and Deane Barker, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.&#xA;Personally, I would describe content aggregation as using specific classifying aspects of content, and using them to group similar things together.&#xA;An Example When I think of content aggregation, I think about Reddit! One of my favorite subreddits aggregates specific flairs, and each post that falls under it is organized under them.</description>
->>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     </item>
     <item>
       <title>Presentation_donnelly_matthew</title>
@@ -141,8 +155,6 @@
       <guid>//localhost:1313/posts/presentation_chen_ricky/</guid>
       <description>What is Presentation? According to Deane Barker, &amp;ldquo;Content from its aesthetic surrounding, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo;&#xA;Barker, D.(2016). Presentation. O&amp;rsquo;Reilly Media&#xA;To my Understanding Presentation is how content is show. Regardless how presentation has changed, the content will still be the same.&#xA;Example An example of presentation is themes for Shopify. Here is an example -&amp;gt; Shopify Theme&#xA;This is example of presentation. Shopify is a platform that lets entrepreneur sell things online.</description>
     </item>
-<<<<<<< HEAD
-=======
     <item>
       <title>presentation_nguyen_nhi</title>
       <link>//localhost:1313/posts/presentation_nguyen_nhi/</link>
@@ -150,7 +162,6 @@
       <guid>//localhost:1313/posts/presentation_nguyen_nhi/</guid>
       <description>Presentation The definition of this concept is &amp;ldquo;Content from its aesthetic surroundings, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo; (Barker, 2016)&#xA;In other words, the explanation for this concept is &amp;ldquo;The presentation refers to how content is visually framed and displayed but the content remains the same.&amp;rdquo;&#xA;Example One example I use is Instagram’s dark mode. Instagram allows users to change between a light mode and a dark mode, where the background switches to black, and fonts and icons adjust to maintain visibility.</description>
     </item>
->>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>Aggregation_lewis_grant</title>
       <link>//localhost:1313/posts/aggregation_lewis_grant/</link>
@@ -158,16 +169,6 @@
       <guid>//localhost:1313/posts/aggregation_lewis_grant/</guid>
       <description>Content aggregation is &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo; Deane Barker, Web Content Management glossary.&#xA;This means to me what tools or ways we can organize information, such as adding tags to files, dates, or names. A real-life case of this is when I use Lightroom for photography. Lightroom allows the user to organize their photos by metadata and other methods, such as keywords, ratings, titles that can be created, and folders to separate groups of folders.</description>
     </item>
-<<<<<<< HEAD
-    <item>
-      <title>Content Aggregation - Omari</title>
-      <link>//localhost:1313/posts/aggregation_chaplin_omari/</link>
-      <pubDate>Mon, 23 Sep 2024 22:30:00 -0400</pubDate>
-      <guid>//localhost:1313/posts/aggregation_chaplin_omari/</guid>
-      <description>What is &amp;ldquo;content aggregation&amp;rdquo;? According to the slides and Deane Barker, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.&#xA;Personally, I would describe content aggregation as using specific classifying aspects of content, and using them to group similar things together.&#xA;An Example When I think of content aggregation, I think about Reddit! One of my favorite subreddits aggregates specific flairs, and each post that falls under it is organized under them.</description>
-    </item>
-=======
->>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>Aggregation_mason_avery</title>
       <link>//localhost:1313/posts/aggregation_mason_avery/</link>
@@ -195,21 +196,12 @@
       <pubDate>Mon, 23 Sep 2024 21:07:47 -0400</pubDate>
       <guid>//localhost:1313/posts/aggregation_hotko_aj/</guid>
       <description>Content Aggregation Defined “an intentional grouping of content for the purposes of organizations or presentation” (Barker, 2016).&#xA;My Interpretation of Content Aggregation My interpretation of content aggregation is that It organizes content in a logical manner in which it is easier to consume&#xA;Example of Content Aggregation - Instagram A user can easily see content from creators in that they are following simply just by scrolling. On the bottom the screen the user has the options to make a post of their own, search for specific content, access an area in which they can see content posted by anyone even if they are not following them, and view their own profile.</description>
-<<<<<<< HEAD
     </item>
     <item>
       <title>Aggregation_harp_mauricio</title>
-      <link>//localhost:1313/post/aggregation_harp_mauricio/</link>
+      <link>//localhost:1313/posts/aggregation_harp_mauricio/</link>
       <pubDate>Mon, 23 Sep 2024 16:08:32 -0400</pubDate>
-      <guid>//localhost:1313/post/aggregation_harp_mauricio/</guid>
-      <description>Definition: Content aggregation intentionally groups content for organization or presentation&amp;quot; (Barker, 2024). Concept in Your Own Words: Content aggregation gathers and organizes different information into a single space. Real-Life Example - YouTube playlists let users group related videos.&#xA;How it shows Content Aggregation - It shows similar videos in one place and makes it easier for users to watch or search for them without searching for each video</description>
-=======
-    </item>
-    <item>
-      <title>Aggregation_harp_mauricio</title>
-      <link>//localhost:1313/post/aggregation_harp_mauricio/</link>
-      <pubDate>Mon, 23 Sep 2024 16:08:32 -0400</pubDate>
-      <guid>//localhost:1313/post/aggregation_harp_mauricio/</guid>
+      <guid>//localhost:1313/posts/aggregation_harp_mauricio/</guid>
       <description>Definition: Content aggregation intentionally groups content for organization or presentation&amp;quot; (Barker, 2024). Concept in Your Own Words: Content aggregation gathers and organizes different information into a single space. Real-Life Example - YouTube playlists let users group related videos.&#xA;How it shows Content Aggregation - It shows similar videos in one place and makes it easier for users to watch or search for them without searching for each video</description>
     </item>
     <item>
@@ -218,7 +210,6 @@
       <pubDate>Mon, 23 Sep 2024 12:13:27 -0400</pubDate>
       <guid>//localhost:1313/posts/aggregation_myers_albert/</guid>
       <description>What is &amp;ldquo;Content aggregation&amp;rdquo; Content agreegation is, &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo; (Deane Barker).&#xA;Content aggregation in my own words Makes it easier to find specific content on the sites UI.&#xA;Content aggregation on TikTok Tiktok for instance has a for you page (FYP) section and a following section. This gives the user the freedom to choose between fresh content from someone they don&amp;rsquo;t follow or to watch new relased content from someone they follow.</description>
->>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     </item>
     <item>
       <title>Define content aggregation (Ahmad)</title>
@@ -318,8 +309,6 @@
       <guid>//localhost:1313/posts/aggregation_chen_ricky/</guid>
       <description>What is Content Aggregation? According to Deane Barker, &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;To my Understanding Content Aggregation is a specific way to organize content to show to the public.&#xA;Example An example of content aggregation is news pages. Here is an example -&amp;gt; Google News&#xA;This is example of content aggregation. Currently the page is the same for evveryone, in the public.</description>
     </item>
-<<<<<<< HEAD
-=======
     <item>
       <title>aggregation_nguyen_nhi</title>
       <link>//localhost:1313/posts/aggregation_nguyen_nhi/</link>
@@ -327,7 +316,6 @@
       <guid>//localhost:1313/posts/aggregation_nguyen_nhi/</guid>
       <description>User-generated Content The definition of this concept is &amp;ldquo;An intentional grouping of content for purposes of organization or presentation.&amp;rdquo; (Barker, 2016)&#xA;Deane Barker, Web Content Management glossary&#xA;In other words, the explanation for this concept is &amp;ldquo;The content aggregation gathers content based on certain criteria, such as a topic or keyword, making it easier for users to discover relevant content without manually searching for it.&amp;rdquo;&#xA;Example One example I use is Pintrest.</description>
     </item>
->>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>What is **User-Generated Content**? - Omari</title>
       <link>//localhost:1313/posts/ugc_chaplin_omari/</link>
@@ -482,8 +470,6 @@
       <guid>//localhost:1313/posts/kapanga-rael-post/</guid>
       <description></description>
     </item>
-<<<<<<< HEAD
-=======
     <item>
       <title>content_donnelly_matthew</title>
       <link>//localhost:1313/posts/content_donnelly_matthew/</link>
@@ -491,7 +477,6 @@
       <guid>//localhost:1313/posts/content_donnelly_matthew/</guid>
       <description>What is Content? &amp;ldquo;Definition of Content&amp;rdquo; Content would be something that users create and is &amp;ldquo;intended for consumption by a human audience&amp;rdquo; (Barker, 2016)&#xA;My Definition would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.&#xA;Content that I regularly consume&#xA;If I ever feel like some of my photos are lacking any substance, I usually check out this website my link The reason that this website is content is that this is made for a human audiences, for creatives that are looking to find inspiration or try and recreate a visual shot.</description>
     </item>
->>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>Content class blog</title>
       <link>//localhost:1313/posts/content_kirkpatrick_sam/</link>
