@@ -1,7 +1,7 @@
 +++
 title = 'content_donnelly_matthew'
 date = 2024-09-09T11:17:40-04:00
-author = "Matthew Donnelly
+author = "Matthew Donnelly"
 categories = ["content definition"]
 tags = ["photography"]
 draft = false

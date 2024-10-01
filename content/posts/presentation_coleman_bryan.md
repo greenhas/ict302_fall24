@@ -2,6 +2,9 @@
 title = 'Presentation_coleman_bryan'
 date = 2024-09-21T10:05:25-04:00
 draft = false
+author = "Bryan Coleman"
+categories = ["presentation definition"]
+tags = ["YouTube"]
 +++
 **Presentation** refers to the visual elements of a piece of content that are displayed on various medias and devices to provide a specific experience for the user. The source for my definition can be found [here](https://www.sciencedirect.com/topics/computer-science/presentation-content#:~:text=Presentation%20content%20refers%20to%20the,provide%20a%20consistent%20user%20experience.).
 In my own words, presentation refers to the various aspects designed to help display content to the user. This can be achieved through both visual and information elements. 
