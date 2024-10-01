@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ICT 302 Fall 24</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on ICT 302 Fall 24</description>
+    <title>Categories on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -78,5 +79,8 @@
       <guid>//localhost:1313/categories/first-post/</guid>
       <description></description>
     </item>
+=======
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 6764c4aa44db13c791f4f72b49d03ed1d21ebdc3
   </channel>
 </rss>
