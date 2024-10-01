@@ -15,7 +15,8 @@ Presentation refers to how information is displayed or shown. It's about the loo
 
 **Example**
 
-[NewsArticle](https://www.nytimes.com/2024/09/30/us/asheville-hurricane-helene-damage.html)
+[News Article](https://www.nytimes.com/2024/09/30/us/asheville-hurricane-helene-damage.html)
+
 An example of presentation would be a news article. The content is the text, images, and videos in the article, but the presentation is how that content appears: the size and style of the headlines, the placement of images, the background color of the webpage, and whether the text is left-aligned or centered. The same article might have a different presentation on a mobile app, where the text is larger and the images are resized to fit the smaller screen.
 
 
