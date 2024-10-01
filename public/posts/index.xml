@@ -6,6 +6,7 @@
     <description>Recent content in Posts on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Mon, 30 Sep 2024 12:47:55 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -78,6 +79,19 @@
       <guid>//localhost:1313/posts/presentation_nguyen_nhi/</guid>
       <description>Presentation The definition of this concept is &amp;ldquo;Content from its aesthetic surroundings, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo; (Barker, 2016)&#xA;In other words, the explanation for this concept is &amp;ldquo;The presentation refers to how content is visually framed and displayed but the content remains the same.&amp;rdquo;&#xA;Example One example I use is Instagram’s dark mode. Instagram allows users to change between a light mode and a dark mode, where the background switches to black, and fonts and icons adjust to maintain visibility.</description>
     </item>
+=======
+    <lastBuildDate>Mon, 30 Sep 2024 22:25:58 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation_Livingston_Chauncey</title>
+      <link>http://localhost:1313/posts/presentation_livingston_chauncey/</link>
+      <pubDate>Mon, 30 Sep 2024 22:25:58 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/presentation_livingston_chauncey/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+>>>>>>> Stashed changes
     <item>
       <title>Aggregation_lewis_grant</title>
       <link>//localhost:1313/posts/aggregation_lewis_grant/</link>

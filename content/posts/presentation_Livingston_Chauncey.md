@@ -2,13 +2,7 @@
 title = "Defining Presentation"
 date = "2024-09-30T22:25:58-04:00"
 author = "Chauncey Livingston"
-cover = ""
 tags = ["presentation","Apple"]
-keywords = ["", ""]
-description = ""
-showFullContent = true
-readingTime = false
-hideComments = false
 draft = false
 +++
 ## What is Presentation and what does it look like?

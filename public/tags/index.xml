@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< Updated upstream
     <title>Tags on ICT 302 Fall 24</title>
     <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on ICT 302 Fall 24</description>
@@ -169,5 +170,23 @@
       <guid>//localhost:1313/tags/first-post/</guid>
       <description></description>
     </item>
+=======
+    <title>Tags on Bad</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Bad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Sep 2024 22:25:58 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation</title>
+      <link>http://localhost:1313/tags/presentation/</link>
+      <pubDate>Mon, 30 Sep 2024 22:25:58 -0400</pubDate>
+      
+      <guid>http://localhost:1313/tags/presentation/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+>>>>>>> Stashed changes
   </channel>
 </rss>
