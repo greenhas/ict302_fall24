@@ -4,6 +4,10 @@ date = 2024-09-03T09:26:42-04:00
 draft = false
 [params]
 	author = 'Hayes McCoy'
+	
+	tags = ["Hayes", "McCoy", "First Post"]
+	
+	
 +++
 
 ## ~Test~

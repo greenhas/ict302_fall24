@@ -2,9 +2,9 @@
 title = 'Aggregation_Myers_Albert'
 date = 2024-09-23T12:13:27-04:00
 draft = false
-author = Albert Myers
+author = "Albert Myers"
 categories = ["documentation"]
-tags = ["Tiktok", "content aggregation"]
+tags = ["Tiktok","content aggregation"]
 +++
 > ## **What is** *"Content aggregation"*
 

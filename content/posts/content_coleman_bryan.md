@@ -1,6 +1,8 @@
 +++
 title = 'Content_coleman_bryan'
 date = 2024-09-05T11:21:14-04:00
+author = "Bryan Coleman"
+categories = ["content definition"]
 draft = false
 +++
 **Content** is information produced through editorial process and ultimately intended for human consumption via publication. In my own words, content is information available for either retrieval or engagement intended for users and people.
