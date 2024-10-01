@@ -6,6 +6,7 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 01 Oct 2024 12:16:55 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +15,72 @@
       <pubDate>Tue, 01 Oct 2024 12:16:55 -0400</pubDate>
       <guid>//localhost:1313/posts/workflow_chen_ricky/</guid>
       <description>Phases to Pass Through First, identify the problem/goal, know the what is the final goal of this task&#xA;Second, braindstorm ideas and assigning the right person for this specific task&#xA;Third, drafts should be made including the different ideas in he brainstorm&#xA;Fourth, an editor/publisher should review the final draft to make edits, suggestion, etc&#xA;Finally, post into the site after majorities&amp;rsquo;s approval&#xA;Roles Roles will be important to increase the effiency of the workflow.</description>
+=======
+    <lastBuildDate>Tue, 01 Oct 2024 04:10:52 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation_lewis_grant</title>
+      <link>//localhost:1313/posts/presentation_lewis_grant/</link>
+      <pubDate>Tue, 01 Oct 2024 04:10:52 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_lewis_grant/</guid>
+      <description>&amp;ldquo;Content is the raw data, while presentation is how it&amp;rsquo;s shown.&amp;rdquo; -Mauricio Harp. For me, the quote by Mauricio Harp best explains what a presentation is. I would also say it can be how information is represented, such as charts or visuals, as well as text, in an easy way to communicate an idea.&#xA;One instance for me is the news app on my phone. Of course, writers could post articles without formatting.</description>
+    </item>
+    <item>
+      <title>Presentation_parsons_ben</title>
+      <link>//localhost:1313/posts/presentation_parsons_ben/</link>
+      <pubDate>Tue, 01 Oct 2024 00:46:08 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_parsons_ben/</guid>
+      <description>According to Deane Barker Presentation is, &amp;ldquo;&amp;ldquo;The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.&amp;rdquo;&amp;rdquo;&amp;quot;&#xA;To me, presentation is something where content is organized together to share information about something at once.&#xA;An example of presention is this link of a presentation I was apart of.&#xA;This is relevant to my definition because it is a way to share different types of information and content at the same time in a certain format.</description>
+    </item>
+    <item>
+      <title>Presentation Avery M</title>
+      <link>//localhost:1313/posts/presentation_mason_avery/</link>
+      <pubDate>Tue, 01 Oct 2024 00:09:25 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_mason_avery/</guid>
+      <description>Presentation &amp;ldquo;content is the raw data, while presentation is how it&amp;rsquo;s shown&amp;rdquo; Mauricio Harp&#xA;What is presentation to me in regards to content To myself, like Mauricio points out, presentation is the visuals of content. The way the content is portrayed and how its viewed. I think of it like taking a picture. For example, I could take a picture of my physical computer monitor using my cellphone but visually the image will be distorted and unclear compared to a screenshot.</description>
+    </item>
+    <item>
+      <title>Defining Presentation</title>
+      <link>//localhost:1313/posts/presentation_livingston_chauncey/</link>
+      <pubDate>Mon, 30 Sep 2024 22:25:58 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_livingston_chauncey/</guid>
+      <description>What is Presentation and what does it look like? Usually associated with content, but the two of them work hand in hand. Content is the information that is being communicated, and presentation is how it is displayed. A recent example of this is found within Apple&amp;rsquo;s new ios 18 where users can now use a dark mode on their home screens. This new feature alters the look of your apps and home screen, but all of the data and information you are seeing is the same.</description>
+    </item>
+    <item>
+      <title>Presentation_adhikari_sayana</title>
+      <link>//localhost:1313/posts/presentation_adhikari_sayana/</link>
+      <pubDate>Mon, 30 Sep 2024 19:51:12 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_adhikari_sayana/</guid>
+      <description>What is Presentation?&#xA;Presentation is the general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered. (Deane Barker, Web Content Management glossary)&#xA;In my words&#xA;Presentation refers to how information is displayed or shown. It&amp;rsquo;s about the look of the content, such as the layout, fonts, colors, and style. It determines how users see and interact with the material, but it doesn&amp;rsquo;t change the actual content itself.</description>
+    </item>
+    <item>
+      <title>Presentation_Myers_Albert</title>
+      <link>//localhost:1313/posts/presentation_myers_albert/</link>
+      <pubDate>Mon, 30 Sep 2024 12:47:55 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_myers_albert/</guid>
+      <description>What is &amp;ldquo;Presentation&amp;rdquo; &amp;ldquo;Content is the raw data, while presentation is how it&amp;rsquo;s shown&amp;rdquo; (Mauricio Harp).&#xA;Presentation in my own words Good preseentation can make the content you want to produce stand out among other version of similar content. It also needs to be aimed toward the consumer not just the people producing the content&#xA;Presentation in Canvas Canvas has a great presentation as it is aimed toward college students.</description>
+    </item>
+    <item>
+      <title>Presentation - Omari</title>
+      <link>//localhost:1313/posts/presentation_chaplin_omari/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presentation_chaplin_omari/</guid>
+      <description>Presentation is specificaly the the visual elements of a piece of content that are displayed on devices and other channels to provide a specific experience for the user, according to Barker.&#xA;To me, I find presentation to be the aspect that you want the user to actually see, and usually removing itself from the code and back end as much as possible&#xA;One example of presentation is on UK&amp;rsquo;s website. What we see here is the actual content of the page presented in a way that looks cohesive and visually appealing!</description>
+    </item>
+    <item>
+      <title>Presentation (Ahmad)</title>
+      <link>//localhost:1313/posts/presentation_amjad_ahmad/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presentation_amjad_ahmad/</guid>
+      <description>“The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.” (Barker, 2013).&#xA;You could say it&amp;rsquo;s the aesthetic of something, like how someone shows themselves to others by how they dress, theie maneruisms, etc.&#xA;KDE Themes&#xA;I&amp;rsquo;ll use Linux (KDE to be exact) as an example, as you&amp;rsquo;re given different themes and one of them can change the general look of the desktop which can affect things like spacing</description>
+    </item>
+    <item>
+      <title>Presentation_mccoy_hayes</title>
+      <link>//localhost:1313/posts/presentation_mccoy_hayes/</link>
+      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_mccoy_hayes/</guid>
+      <description>&amp;ldquo;The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;What is Presentation To Me? To me, presentation is how content is displayed. It is what you see when you go to a webpage or an application, and it is anything with a graphical user interface.</description>
+>>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     </item>
     <item>
       <title>aggregation documentation</title>
@@ -21,6 +88,16 @@
       <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
       <guid>//localhost:1313/aggregation_documentation/</guid>
       <description>All code needs to be added to the front matter at the beginning of the post–that is, between the two sets of +++ before you get to the &amp;ldquo;main content&amp;rdquo; of the post.&#xA;author Add yourself as author to all of your posts with the following code:&#xA;author = &amp;quot;your name here&amp;quot;&#xA;Your name needs to be consistent across all posts for this to work properly!&#xA;categories We will use categories to sort posts by assignment type.</description>
+<<<<<<< HEAD
+=======
+    </item>
+    <item>
+      <title>&#34;Content Aggregation&#34; - Omari</title>
+      <link>//localhost:1313/posts/aggregation_chaplin_omari/</link>
+      <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
+      <guid>//localhost:1313/posts/aggregation_chaplin_omari/</guid>
+      <description>What is &amp;ldquo;content aggregation&amp;rdquo;? According to the slides and Deane Barker, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.&#xA;Personally, I would describe content aggregation as using specific classifying aspects of content, and using them to group similar things together.&#xA;An Example When I think of content aggregation, I think about Reddit! One of my favorite subreddits aggregates specific flairs, and each post that falls under it is organized under them.</description>
+>>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     </item>
     <item>
       <title>Presentation_donnelly_matthew</title>
@@ -64,6 +141,16 @@
       <guid>//localhost:1313/posts/presentation_chen_ricky/</guid>
       <description>What is Presentation? According to Deane Barker, &amp;ldquo;Content from its aesthetic surrounding, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo;&#xA;Barker, D.(2016). Presentation. O&amp;rsquo;Reilly Media&#xA;To my Understanding Presentation is how content is show. Regardless how presentation has changed, the content will still be the same.&#xA;Example An example of presentation is themes for Shopify. Here is an example -&amp;gt; Shopify Theme&#xA;This is example of presentation. Shopify is a platform that lets entrepreneur sell things online.</description>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>presentation_nguyen_nhi</title>
+      <link>//localhost:1313/posts/presentation_nguyen_nhi/</link>
+      <pubDate>Tue, 24 Sep 2024 10:26:39 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_nguyen_nhi/</guid>
+      <description>Presentation The definition of this concept is &amp;ldquo;Content from its aesthetic surroundings, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo; (Barker, 2016)&#xA;In other words, the explanation for this concept is &amp;ldquo;The presentation refers to how content is visually framed and displayed but the content remains the same.&amp;rdquo;&#xA;Example One example I use is Instagram’s dark mode. Instagram allows users to change between a light mode and a dark mode, where the background switches to black, and fonts and icons adjust to maintain visibility.</description>
+    </item>
+>>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>Aggregation_lewis_grant</title>
       <link>//localhost:1313/posts/aggregation_lewis_grant/</link>
@@ -71,6 +158,7 @@
       <guid>//localhost:1313/posts/aggregation_lewis_grant/</guid>
       <description>Content aggregation is &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo; Deane Barker, Web Content Management glossary.&#xA;This means to me what tools or ways we can organize information, such as adding tags to files, dates, or names. A real-life case of this is when I use Lightroom for photography. Lightroom allows the user to organize their photos by metadata and other methods, such as keywords, ratings, titles that can be created, and folders to separate groups of folders.</description>
     </item>
+<<<<<<< HEAD
     <item>
       <title>Content Aggregation - Omari</title>
       <link>//localhost:1313/posts/aggregation_chaplin_omari/</link>
@@ -78,6 +166,8 @@
       <guid>//localhost:1313/posts/aggregation_chaplin_omari/</guid>
       <description>What is &amp;ldquo;content aggregation&amp;rdquo;? According to the slides and Deane Barker, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.&#xA;Personally, I would describe content aggregation as using specific classifying aspects of content, and using them to group similar things together.&#xA;An Example When I think of content aggregation, I think about Reddit! One of my favorite subreddits aggregates specific flairs, and each post that falls under it is organized under them.</description>
     </item>
+=======
+>>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>Aggregation_mason_avery</title>
       <link>//localhost:1313/posts/aggregation_mason_avery/</link>
@@ -105,6 +195,7 @@
       <pubDate>Mon, 23 Sep 2024 21:07:47 -0400</pubDate>
       <guid>//localhost:1313/posts/aggregation_hotko_aj/</guid>
       <description>Content Aggregation Defined “an intentional grouping of content for the purposes of organizations or presentation” (Barker, 2016).&#xA;My Interpretation of Content Aggregation My interpretation of content aggregation is that It organizes content in a logical manner in which it is easier to consume&#xA;Example of Content Aggregation - Instagram A user can easily see content from creators in that they are following simply just by scrolling. On the bottom the screen the user has the options to make a post of their own, search for specific content, access an area in which they can see content posted by anyone even if they are not following them, and view their own profile.</description>
+<<<<<<< HEAD
     </item>
     <item>
       <title>Aggregation_harp_mauricio</title>
@@ -112,6 +203,22 @@
       <pubDate>Mon, 23 Sep 2024 16:08:32 -0400</pubDate>
       <guid>//localhost:1313/post/aggregation_harp_mauricio/</guid>
       <description>Definition: Content aggregation intentionally groups content for organization or presentation&amp;quot; (Barker, 2024). Concept in Your Own Words: Content aggregation gathers and organizes different information into a single space. Real-Life Example - YouTube playlists let users group related videos.&#xA;How it shows Content Aggregation - It shows similar videos in one place and makes it easier for users to watch or search for them without searching for each video</description>
+=======
+    </item>
+    <item>
+      <title>Aggregation_harp_mauricio</title>
+      <link>//localhost:1313/post/aggregation_harp_mauricio/</link>
+      <pubDate>Mon, 23 Sep 2024 16:08:32 -0400</pubDate>
+      <guid>//localhost:1313/post/aggregation_harp_mauricio/</guid>
+      <description>Definition: Content aggregation intentionally groups content for organization or presentation&amp;quot; (Barker, 2024). Concept in Your Own Words: Content aggregation gathers and organizes different information into a single space. Real-Life Example - YouTube playlists let users group related videos.&#xA;How it shows Content Aggregation - It shows similar videos in one place and makes it easier for users to watch or search for them without searching for each video</description>
+    </item>
+    <item>
+      <title>Aggregation_Myers_Albert</title>
+      <link>//localhost:1313/posts/aggregation_myers_albert/</link>
+      <pubDate>Mon, 23 Sep 2024 12:13:27 -0400</pubDate>
+      <guid>//localhost:1313/posts/aggregation_myers_albert/</guid>
+      <description>What is &amp;ldquo;Content aggregation&amp;rdquo; Content agreegation is, &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo; (Deane Barker).&#xA;Content aggregation in my own words Makes it easier to find specific content on the sites UI.&#xA;Content aggregation on TikTok Tiktok for instance has a for you page (FYP) section and a following section. This gives the user the freedom to choose between fresh content from someone they don&amp;rsquo;t follow or to watch new relased content from someone they follow.</description>
+>>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     </item>
     <item>
       <title>Define content aggregation (Ahmad)</title>
@@ -211,6 +318,16 @@
       <guid>//localhost:1313/posts/aggregation_chen_ricky/</guid>
       <description>What is Content Aggregation? According to Deane Barker, &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;To my Understanding Content Aggregation is a specific way to organize content to show to the public.&#xA;Example An example of content aggregation is news pages. Here is an example -&amp;gt; Google News&#xA;This is example of content aggregation. Currently the page is the same for evveryone, in the public.</description>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>aggregation_nguyen_nhi</title>
+      <link>//localhost:1313/posts/aggregation_nguyen_nhi/</link>
+      <pubDate>Tue, 17 Sep 2024 10:26:39 -0400</pubDate>
+      <guid>//localhost:1313/posts/aggregation_nguyen_nhi/</guid>
+      <description>User-generated Content The definition of this concept is &amp;ldquo;An intentional grouping of content for purposes of organization or presentation.&amp;rdquo; (Barker, 2016)&#xA;Deane Barker, Web Content Management glossary&#xA;In other words, the explanation for this concept is &amp;ldquo;The content aggregation gathers content based on certain criteria, such as a topic or keyword, making it easier for users to discover relevant content without manually searching for it.&amp;rdquo;&#xA;Example One example I use is Pintrest.</description>
+    </item>
+>>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>What is **User-Generated Content**? - Omari</title>
       <link>//localhost:1313/posts/ugc_chaplin_omari/</link>
@@ -365,6 +482,16 @@
       <guid>//localhost:1313/posts/kapanga-rael-post/</guid>
       <description></description>
     </item>
+<<<<<<< HEAD
+=======
+    <item>
+      <title>content_donnelly_matthew</title>
+      <link>//localhost:1313/posts/content_donnelly_matthew/</link>
+      <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>//localhost:1313/posts/content_donnelly_matthew/</guid>
+      <description>What is Content? &amp;ldquo;Definition of Content&amp;rdquo; Content would be something that users create and is &amp;ldquo;intended for consumption by a human audience&amp;rdquo; (Barker, 2016)&#xA;My Definition would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.&#xA;Content that I regularly consume&#xA;If I ever feel like some of my photos are lacking any substance, I usually check out this website my link The reason that this website is content is that this is made for a human audiences, for creatives that are looking to find inspiration or try and recreate a visual shot.</description>
+    </item>
+>>>>>>> 4930b8dbfe959655e23e12150104a86bbe5c5b2f
     <item>
       <title>Content class blog</title>
       <link>//localhost:1313/posts/content_kirkpatrick_sam/</link>
