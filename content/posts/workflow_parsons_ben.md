@@ -4,6 +4,7 @@ date = 2024-10-02T15:13:06-04:00
 draft = False 
 Author = Ben Parsons
 categories = ["workflow proposal"]
+tags = ["workflow", "GMS project"]
 +++
 
 ## Workflow Phases
