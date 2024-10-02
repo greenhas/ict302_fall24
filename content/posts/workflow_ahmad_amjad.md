@@ -3,8 +3,8 @@ title = 'Workflow (Ahmad)'
 date = 2024-10-02
 draft = false
 author = "Ahmad"
-categories = ["workflow proposal"]
-tags = ["workflow"]
+categories = ["Workflow Proposal", "Documentation]
+tags = ["Workflow"]
 +++
 
 1, Determine goals
