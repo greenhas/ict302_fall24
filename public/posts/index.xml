@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ICT 302 Fall 24</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on ICT 302 Fall 24</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 12:47:55 -0400</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow_mccoy_hayes</title>
+      <link>//localhost:1313/posts/workflow_mccoy_hayes/</link>
+      <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_mccoy_hayes/</guid>
+      <description>Phases a Task Should Pass Through Before any piece of content gets published it should be throughly gone over until it is determined complete. Below is an idea of my on how we could structure these phases.&#xA;Planning Phase We need to define our goals. We need to get input from our peers and client We need to see what we have to work with overview what is already there.</description>
+    </item>
+    <item>
+      <title>Presentation_lewis_grant</title>
+      <link>//localhost:1313/posts/presentation_lewis_grant/</link>
+      <pubDate>Tue, 01 Oct 2024 04:10:52 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_lewis_grant/</guid>
+      <description>&amp;ldquo;Content is the raw data, while presentation is how it&amp;rsquo;s shown.&amp;rdquo; -Mauricio Harp. For me, the quote by Mauricio Harp best explains what a presentation is. I would also say it can be how information is represented, such as charts or visuals, as well as text, in an easy way to communicate an idea.&#xA;One instance for me is the news app on my phone. Of course, writers could post articles without formatting.</description>
+    </item>
+    <item>
+      <title>Presentation_parsons_ben</title>
+      <link>//localhost:1313/posts/presentation_parsons_ben/</link>
+      <pubDate>Tue, 01 Oct 2024 00:46:08 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_parsons_ben/</guid>
+      <description>According to Deane Barker Presentation is, &amp;ldquo;&amp;ldquo;The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.&amp;rdquo;&amp;rdquo;&amp;quot;&#xA;To me, presentation is something where content is organized together to share information about something at once.&#xA;An example of presention is this link of a presentation I was apart of.&#xA;This is relevant to my definition because it is a way to share different types of information and content at the same time in a certain format.</description>
+    </item>
+    <item>
+      <title>Presentation Avery M</title>
+      <link>//localhost:1313/posts/presentation_mason_avery/</link>
+      <pubDate>Tue, 01 Oct 2024 00:09:25 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_mason_avery/</guid>
+      <description>Presentation &amp;ldquo;content is the raw data, while presentation is how it&amp;rsquo;s shown&amp;rdquo; Mauricio Harp&#xA;What is presentation to me in regards to content To myself, like Mauricio points out, presentation is the visuals of content. The way the content is portrayed and how its viewed. I think of it like taking a picture. For example, I could take a picture of my physical computer monitor using my cellphone but visually the image will be distorted and unclear compared to a screenshot.</description>
+    </item>
+    <item>
+      <title>Defining Presentation</title>
+      <link>//localhost:1313/posts/presentation_livingston_chauncey/</link>
+      <pubDate>Mon, 30 Sep 2024 22:25:58 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_livingston_chauncey/</guid>
+      <description>What is Presentation and what does it look like? Usually associated with content, but the two of them work hand in hand. Content is the information that is being communicated, and presentation is how it is displayed. A recent example of this is found within Apple&amp;rsquo;s new ios 18 where users can now use a dark mode on their home screens. This new feature alters the look of your apps and home screen, but all of the data and information you are seeing is the same.</description>
+    </item>
+    <item>
+      <title>Presentation_adhikari_sayana</title>
+      <link>//localhost:1313/posts/presentation_adhikari_sayana/</link>
+      <pubDate>Mon, 30 Sep 2024 19:51:12 -0400</pubDate>
+      <guid>//localhost:1313/posts/presentation_adhikari_sayana/</guid>
+      <description>What is Presentation?&#xA;Presentation is the general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered. (Deane Barker, Web Content Management glossary)&#xA;In my words&#xA;Presentation refers to how information is displayed or shown. It&amp;rsquo;s about the look of the content, such as the layout, fonts, colors, and style. It determines how users see and interact with the material, but it doesn&amp;rsquo;t change the actual content itself.</description>
+    </item>
     <item>
       <title>Presentation_Myers_Albert</title>
       <link>//localhost:1313/posts/presentation_myers_albert/</link>
@@ -16,11 +59,32 @@
       <description>What is &amp;ldquo;Presentation&amp;rdquo; &amp;ldquo;Content is the raw data, while presentation is how it&amp;rsquo;s shown&amp;rdquo; (Mauricio Harp).&#xA;Presentation in my own words Good preseentation can make the content you want to produce stand out among other version of similar content. It also needs to be aimed toward the consumer not just the people producing the content&#xA;Presentation in Canvas Canvas has a great presentation as it is aimed toward college students.</description>
     </item>
     <item>
+      <title>Presentation - Omari</title>
+      <link>//localhost:1313/posts/presentation_chaplin_omari/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presentation_chaplin_omari/</guid>
+      <description>Presentation is specificaly the the visual elements of a piece of content that are displayed on devices and other channels to provide a specific experience for the user, according to Barker.&#xA;To me, I find presentation to be the aspect that you want the user to actually see, and usually removing itself from the code and back end as much as possible&#xA;One example of presentation is on UK&amp;rsquo;s website. What we see here is the actual content of the page presented in a way that looks cohesive and visually appealing!</description>
+    </item>
+    <item>
+      <title>Presentation (Ahmad)</title>
+      <link>//localhost:1313/posts/presentation_amjad_ahmad/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/presentation_amjad_ahmad/</guid>
+      <description>“The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.” (Barker, 2013).&#xA;You could say it&amp;rsquo;s the aesthetic of something, like how someone shows themselves to others by how they dress, theie maneruisms, etc.&#xA;KDE Themes&#xA;I&amp;rsquo;ll use Linux (KDE to be exact) as an example, as you&amp;rsquo;re given different themes and one of them can change the general look of the desktop which can affect things like spacing</description>
+    </item>
+    <item>
       <title>Presentation_mccoy_hayes</title>
       <link>//localhost:1313/posts/presentation_mccoy_hayes/</link>
       <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
       <guid>//localhost:1313/posts/presentation_mccoy_hayes/</guid>
       <description>&amp;ldquo;The general concept and processes around modifying content for display in a particular channel, usually through templating. A template applied to content will result in output which is then delivered.&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;What is Presentation To Me? To me, presentation is how content is displayed. It is what you see when you go to a webpage or an application, and it is anything with a graphical user interface.</description>
+    </item>
+    <item>
+      <title>&#34;Content Aggregation&#34; - Omari</title>
+      <link>//localhost:1313/posts/aggregation_chaplin_omari/</link>
+      <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
+      <guid>//localhost:1313/posts/aggregation_chaplin_omari/</guid>
+      <description>What is &amp;ldquo;content aggregation&amp;rdquo;? According to the slides and Deane Barker, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.&#xA;Personally, I would describe content aggregation as using specific classifying aspects of content, and using them to group similar things together.&#xA;An Example When I think of content aggregation, I think about Reddit! One of my favorite subreddits aggregates specific flairs, and each post that falls under it is organized under them.</description>
     </item>
     <item>
       <title>Presentation_donnelly_matthew</title>
@@ -77,13 +141,6 @@
       <pubDate>Tue, 24 Sep 2024 05:36:19 -0400</pubDate>
       <guid>//localhost:1313/posts/aggregation_lewis_grant/</guid>
       <description>Content aggregation is &amp;ldquo;An intentional grouping of content for the purposes of organization or presentation&amp;rdquo; Deane Barker, Web Content Management glossary.&#xA;This means to me what tools or ways we can organize information, such as adding tags to files, dates, or names. A real-life case of this is when I use Lightroom for photography. Lightroom allows the user to organize their photos by metadata and other methods, such as keywords, ratings, titles that can be created, and folders to separate groups of folders.</description>
-    </item>
-    <item>
-      <title>Content Aggregation - Omari</title>
-      <link>//localhost:1313/posts/aggregation_chaplin_omari/</link>
-      <pubDate>Mon, 23 Sep 2024 22:30:00 -0400</pubDate>
-      <guid>//localhost:1313/posts/aggregation_chaplin_omari/</guid>
-      <description>What is &amp;ldquo;content aggregation&amp;rdquo;? According to the slides and Deane Barker, content aggregation is a purposeful grouping of content for the purposes of organization or presentation.&#xA;Personally, I would describe content aggregation as using specific classifying aspects of content, and using them to group similar things together.&#xA;An Example When I think of content aggregation, I think about Reddit! One of my favorite subreddits aggregates specific flairs, and each post that falls under it is organized under them.</description>
     </item>
     <item>
       <title>Aggregation_mason_avery</title>
@@ -322,216 +379,149 @@
       <pubDate>Tue, 10 Sep 2024 10:11:20 -0400</pubDate>
       <guid>//localhost:1313/posts/content_kemper_lea/</guid>
       <description>##What is Content?&#xA;Content is created in an editorial process and designed for human consumption. In the editorial process, content is often influenced by the creators&amp;rsquo; vision, voice, and guidelines of the platform or organization, in order to convey a certain message. I post content for the Tattoo parlor I work for. I use Instagram, Facebook, and our website to distribute pictures, videos, and announcements. To keep up to date with trends I regularly consume content from other tattoo artist posts.</description>
+=======
+    <lastBuildDate>Tue, 10 Sep 2024 04:50:12 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hayes McCoy: My First Post</title>
+      <link>http://localhost:1313/posts/mccoy-first-post/</link>
+      <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
+      <guid>http://localhost:1313/posts/mccoy-first-post/</guid>
+      <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+>>>>>>> 6764c4aa44db13c791f4f72b49d03ed1d21ebdc3
     </item>
     <item>
       <title>What is **Content**? - Omari</title>
-      <link>//localhost:1313/posts/content_chaplin_omari/</link>
+      <link>http://localhost:1313/posts/content_chaplin_omari/</link>
       <pubDate>Tue, 10 Sep 2024 04:50:12 +0000</pubDate>
-      <guid>//localhost:1313/posts/content_chaplin_omari/</guid>
+      <guid>http://localhost:1313/posts/content_chaplin_omari/</guid>
       <description>What is Content? According to the slides and Deane Barker, content is created by editorial process and intended for consumption by a human audience. To me, content is anything we humans create and put onto the internet. Anything from blogposts, to videos, to music, to images: all of it is content!&#xA;An Example One example of content in action is this awesome video by Claire Saffitz. In this video, she demonstrates one of her recipes from her book.</description>
     </item>
     <item>
       <title>Chaplin First Post</title>
-      <link>//localhost:1313/posts/chaplin-first-post/</link>
+      <link>http://localhost:1313/posts/chaplin-first-post/</link>
       <pubDate>Mon, 09 Sep 2024 23:43:59 -0400</pubDate>
-      <guid>//localhost:1313/posts/chaplin-first-post/</guid>
+      <guid>http://localhost:1313/posts/chaplin-first-post/</guid>
       <description>Introduction Hello! I&amp;rsquo;m Omari and this is my first post! My favorite website is Google!</description>
     </item>
     <item>
       <title>Content Livingston Chauncey</title>
-      <link>//localhost:1313/posts/content_livingston_chauncey/</link>
+      <link>http://localhost:1313/posts/content_lastname_firstname/</link>
       <pubDate>Mon, 09 Sep 2024 23:06:05 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_livingston_chauncey/</guid>
+      <guid>http://localhost:1313/posts/content_lastname_firstname/</guid>
       <description>What is Content? Formally &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media In my opinion content is various types of information or media shared on any type of platform. For example here is a website that has multiple types of content including an article and pictures.</description>
     </item>
     <item>
-      <title>Content Rael Kapanga</title>
-      <link>//localhost:1313/posts/content-rael-kapanga/</link>
-      <pubDate>Mon, 09 Sep 2024 20:08:06 -0400</pubDate>
-      <guid>//localhost:1313/posts/content-rael-kapanga/</guid>
-      <description>definition: content is every type of information on the internet made uploaded by human for the purpose to be consume by human.</description>
-    </item>
-    <item>
-      <title>Lastname First Post</title>
-      <link>//localhost:1313/posts/lastname-first-post/</link>
-      <pubDate>Mon, 09 Sep 2024 20:06:23 -0400</pubDate>
-      <guid>//localhost:1313/posts/lastname-first-post/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Content_mason_avery</title>
-      <link>//localhost:1313/posts/content_mason_avery/</link>
+      <link>http://localhost:1313/posts/content_mason_avery/</link>
       <pubDate>Mon, 09 Sep 2024 16:26:16 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_mason_avery/</guid>
+      <guid>http://localhost:1313/posts/content_mason_avery/</guid>
       <description>“Content is information produced through editorial process and ultimately intended for human consumption via publication.” Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;I understand this concept as the creation of something with humans as the consumers. Videos, movies, podcasts, interviews, books and journals are some examples. Authors write books with the hopes that someone consumes them, i.e. reads their work. A chef creates a dish that he hopes customers will enjoy etc.</description>
     </item>
     <item>
-      <title>Kapanga First Post</title>
-      <link>//localhost:1313/posts/kapanga-first-post/</link>
-      <pubDate>Mon, 09 Sep 2024 11:23:31 -0400</pubDate>
-      <guid>//localhost:1313/posts/kapanga-first-post/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kapanga Rael Post</title>
-      <link>//localhost:1313/posts/kapanga-rael-post/</link>
-      <pubDate>Mon, 09 Sep 2024 11:22:35 -0400</pubDate>
-      <guid>//localhost:1313/posts/kapanga-rael-post/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>content_donnelly_matthew</title>
-      <link>//localhost:1313/posts/content_donnelly_matthew/</link>
+      <link>http://localhost:1313/posts/content_donnelly_matthew/</link>
       <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_donnelly_matthew/</guid>
+      <guid>http://localhost:1313/posts/content_donnelly_matthew/</guid>
       <description>What is Content? &amp;ldquo;Definition of Content&amp;rdquo; Content would be something that users create and is &amp;ldquo;intended for consumption by a human audience&amp;rdquo; (Barker, 2016)&#xA;My Definition would be technically anything can be content; however, it needs to have that editorial process and needs to be consumed by humans in the simplest of terms.&#xA;Content that I regularly consume&#xA;If I ever feel like some of my photos are lacking any substance, I usually check out this website my link The reason that this website is content is that this is made for a human audiences, for creatives that are looking to find inspiration or try and recreate a visual shot.</description>
     </item>
     <item>
-      <title>Content class blog</title>
-      <link>//localhost:1313/posts/content_kirkpatrick_sam/</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/content_kirkpatrick_sam/</guid>
-      <description>2&#xA;Definition Definition: Data, digital code, images, graphics, sounds, text or any other similar material regardless of the method or medium of communication of such content or the purpose of the communication. Source: https://www.lawinsider.com/dictionary/media-content#:~:text=Copy-,Media%20Content%20means%20data%2C%20digital%20code%2C%20images%2C%20graphics%2C,the%20purpose%20of%20the%20communication.&#xA;Explanation Content is any information or media, such as text, images, or videos, that is created and shared to inform, entertain, or engage an audience.&#xA;Real-Life Example Example Description: I mostly use YouTube because it’s a simple platform where any user can create content about whatever they want.</description>
-    </item>
-    <item>
       <title>Content_Hotko_AJ</title>
-      <link>//localhost:1313/posts/content_hotko_aj/</link>
+      <link>http://localhost:1313/posts/content_hotko_aj/</link>
       <pubDate>Sun, 08 Sep 2024 17:47:53 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_hotko_aj/</guid>
+      <guid>http://localhost:1313/posts/content_hotko_aj/</guid>
       <description>Content as defined by Deane Barker, “Content is information produced through editorial process and ultimately intended for human consumption via publication.” Barker, D.( 2016). My definition of content if fairly simple, anything that humans consume that is created by humans. Some examples of content would be websites, movies, and even YouTube videos. A movie is an example of content because it was created by humans and intended for human consumption.</description>
     </item>
     <item>
       <title>Content_Myers_Albert</title>
-      <link>//localhost:1313/posts/content_myers_albert/</link>
+      <link>http://localhost:1313/posts/content_myers_albert/</link>
       <pubDate>Fri, 06 Sep 2024 13:27:31 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_myers_albert/</guid>
+      <guid>http://localhost:1313/posts/content_myers_albert/</guid>
       <description>What is &amp;ldquo;content Dash talks about the phrase user generated content and how the people who generated this conent did not like the way the phrase represented them. He also talks about how a lot of younger people today refer to themselves as content creators. (Richman, 2022)&#xA;In my own words I think content is any form of consumable visual element that someone makes for someone else to view.</description>
     </item>
     <item>
       <title>Content_coleman_bryan</title>
-      <link>//localhost:1313/posts/content_coleman_bryan/</link>
+      <link>http://localhost:1313/posts/content_coleman_bryan/</link>
       <pubDate>Thu, 05 Sep 2024 11:21:14 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_coleman_bryan/</guid>
+      <guid>http://localhost:1313/posts/content_coleman_bryan/</guid>
       <description>Content is information produced through editorial process and ultimately intended for human consumption via publication. In my own words, content is information available for either retrieval or engagement intended for users and people. One example of content that I consume regularly are golf youtube videos posted by Bryson DeChambeau. Here is my link This example illustrates the concept of content as I, the user, engage with the information, the video of Bryson golfing and giving tips as he plays, and by watching it I consume it, and the videos are edited before they are posted.</description>
     </item>
     <item>
       <title>Content_nguyen_nhi</title>
-      <link>//localhost:1313/posts/content_nguyen_nhi/</link>
+      <link>http://localhost:1313/posts/content_nguyen_nhi/</link>
       <pubDate>Thu, 05 Sep 2024 11:18:41 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_nguyen_nhi/</guid>
+      <guid>http://localhost:1313/posts/content_nguyen_nhi/</guid>
       <description>What is Content? The definition of this concept definition that I&amp;rsquo;ve chosen is &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;In other words, the explanation of this concept is Content is information or ideas shared in different formats like text, images, videos, or audio. It can be found on websites, social media, blogs, and more, and is created to inform, entertain, or engage an audience.</description>
     </item>
     <item>
       <title>Content_chen_ricky</title>
-      <link>//localhost:1313/posts/content_chen_ricky/</link>
+      <link>http://localhost:1313/posts/content_chen_ricky/</link>
       <pubDate>Thu, 05 Sep 2024 11:17:40 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_chen_ricky/</guid>
+      <guid>http://localhost:1313/posts/content_chen_ricky/</guid>
       <description>Content Definiton According to Deane Barker, &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;In My Own Words&#xA;To my understanding, content is something that takes time and money, made by human for human.&#xA;Content Example An exmaple of content is Online Courses. It is something that take money and time to create, made by humans for humans.</description>
     </item>
     <item>
       <title>Content_bryant_henry</title>
-      <link>//localhost:1313/posts/content_bryant_henry/</link>
+      <link>http://localhost:1313/posts/content_bryant_henry/</link>
       <pubDate>Thu, 05 Sep 2024 11:09:04 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_bryant_henry/</guid>
+      <guid>http://localhost:1313/posts/content_bryant_henry/</guid>
       <description>What is Content? According to Deane Barker in Web Content Management, content can be defined as information that was &amp;ldquo;produced through editorial process and ultimately intended for human consumption&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that content is something that an individual put effort into creating and that was designed and created for another individual to interact with in a meaningful way.&#xA;Content Example An example of content that I consume would be a YouTube video.</description>
     </item>
     <item>
       <title>Chen First Post</title>
-      <link>//localhost:1313/posts/chen-first-post/</link>
+      <link>http://localhost:1313/posts/chen-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 10:02:40 -0400</pubDate>
-      <guid>//localhost:1313/posts/chen-first-post/</guid>
+      <guid>http://localhost:1313/posts/chen-first-post/</guid>
       <description>italian&#xA;bold text&#xA;strike through&#xA;My Instagram&#xA;example blockquoate&#xA;testign again</description>
     </item>
     <item>
       <title>Define content (Ahmad)</title>
-      <link>//localhost:1313/posts/content_amjad_ahmad/</link>
+      <link>http://localhost:1313/posts/content_amjad_ahmad/</link>
       <pubDate>Thu, 05 Sep 2024 09:59:49 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_amjad_ahmad/</guid>
+      <guid>http://localhost:1313/posts/content_amjad_ahmad/</guid>
       <description>Definition: &amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;From slide:&#xA;ICT 302: Content Management Systems 3 September 2024 Dr. Spencer Greenhalgh&#xA;Something you consume, not like food, but like entertainment for example&#xA;Animation: https://en.wikipedia.org/wiki/Animation&#xA;I&amp;rsquo;m a huge fan of animation (I wish I did an art / animation major instead) and animation could be considered an example as it goes through a lot of editorial processes like storyboarding for example, and</description>
     </item>
     <item>
-      <title>Livingston First Post</title>
-      <link>//localhost:1313/posts/livingston-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 09:59:06 -0400</pubDate>
-      <guid>//localhost:1313/posts/livingston-first-post/</guid>
-      <description>Test Header italic text strikethrough Test information TEST test&#xA;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD click here [click here](https://www.youtube.com&#xA;f7e33f0b2dff66b1e5a833aabeb3e83970faac45</description>
-    </item>
-    <item>
       <title>Nguyen First Post</title>
-      <link>//localhost:1313/posts/nguyen-first-post/</link>
+      <link>http://localhost:1313/posts/nguyen-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:56:29 -0400</pubDate>
-      <guid>//localhost:1313/posts/nguyen-first-post/</guid>
+      <guid>http://localhost:1313/posts/nguyen-first-post/</guid>
       <description>This is my first post&#xA;This is the second line&#xA;This is another line&#xA;my link&#xA;example blockquote&#xA;This is another text </description>
     </item>
     <item>
       <title>Coleman First Post</title>
-      <link>//localhost:1313/posts/coleman-first-post/</link>
+      <link>http://localhost:1313/posts/coleman-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:55:18 -0400</pubDate>
-      <guid>//localhost:1313/posts/coleman-first-post/</guid>
+      <guid>http://localhost:1313/posts/coleman-first-post/</guid>
       <description>I am very excited for football to start.&#xA;I think the chiefs will win.</description>
     </item>
     <item>
       <title>Hotko First Post</title>
-      <link>//localhost:1313/posts/hotko-first-post/</link>
+      <link>http://localhost:1313/posts/hotko-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:54:42 -0400</pubDate>
-      <guid>//localhost:1313/posts/hotko-first-post/</guid>
+      <guid>http://localhost:1313/posts/hotko-first-post/</guid>
       <description>text text error&#xA;test&#xA;test no line skip&#xA;skip&#xA;my link</description>
     </item>
     <item>
-      <title>Class Blog #1</title>
-      <link>//localhost:1313/posts/content_young_sim/</link>
-      <pubDate>Thu, 05 Sep 2024 09:52:58 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_young_sim/</guid>
-      <description>Content is &amp;ldquo;&amp;hellip; information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo; Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media. To me, this means content that is produced by humans for human interaction.&#xA;Some content I regularly consume are YouTube videos(youtube.com). This aligns with the definitions because the videos are content that has been created by a human, edited, and then made for human consumption.</description>
-    </item>
-    <item>
-      <title>Harp First Post</title>
-      <link>//localhost:1313/posts/harp-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 09:52:18 -0400</pubDate>
-      <guid>//localhost:1313/posts/harp-first-post/</guid>
-      <description>Water is good for people DOG</description>
-    </item>
-    <item>
-      <title>Parsons First Post</title>
-      <link>//localhost:1313/posts/parsons-first-post/</link>
-      <pubDate>Thu, 05 Sep 2024 09:51:35 -0400</pubDate>
-      <guid>//localhost:1313/posts/parsons-first-post/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Adhikari First Post</title>
-      <link>//localhost:1313/posts/adhikari-first-post/</link>
+      <link>http://localhost:1313/posts/adhikari-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:51:01 -0400</pubDate>
-      <guid>//localhost:1313/posts/adhikari-first-post/</guid>
+      <guid>http://localhost:1313/posts/adhikari-first-post/</guid>
       <description>Intro&#xA;My name is Sayana Adhikari and I am a Junior maojoring in ICT at the University of Kentucky.&#xA;[my link] (https://youtu.be/fBB4MaBybyg?si=kcz3ATvo-Ci1qzbK) is my favorite song at the moment.</description>
     </item>
     <item>
       <title>Myers First Post</title>
-      <link>//localhost:1313/posts/myers-first-post/</link>
+      <link>http://localhost:1313/posts/myers-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:50:37 -0400</pubDate>
-      <guid>//localhost:1313/posts/myers-first-post/</guid>
+      <guid>http://localhost:1313/posts/myers-first-post/</guid>
       <description>Testing This is a brand new start&#xA;Lets see if this works.&#xA;LETS GOOOOOOOOOOO Also go check this out my link</description>
     </item>
     <item>
       <title>Bryant First Post</title>
-      <link>//localhost:1313/posts/bryant-first-post/</link>
+      <link>http://localhost:1313/posts/bryant-first-post/</link>
       <pubDate>Thu, 05 Sep 2024 09:49:58 -0400</pubDate>
-      <guid>//localhost:1313/posts/bryant-first-post/</guid>
+      <guid>http://localhost:1313/posts/bryant-first-post/</guid>
       <description>This is a test post. This is only a test and nothing that I type here matters.&#xA;Markdown is pretty cool. It&amp;rsquo;s taking some getting used to, but it seems to be a little simpler to use than HTML.&#xA;Test test test 12345&#xA;This is a test of the link function using markdown editing. Pretty cool!&#xA;The quick brown fox jumped over the lazy dog.&#xA;Test again</description>
-    </item>
-    <item>
-      <title>Hayes McCoy: Define Content</title>
-      <link>//localhost:1313/posts/content_mccoy_hayes/</link>
-      <pubDate>Thu, 05 Sep 2024 05:15:42 -0400</pubDate>
-      <guid>//localhost:1313/posts/content_mccoy_hayes/</guid>
-      <description>&amp;ldquo;Content is information produced through editorial process and ultimately intended for human consumption via publication.&amp;rdquo;&#xA;Barker, D. (2016). Web Content Management. O&amp;rsquo;Reilly Media&#xA;What is Content To Me? Content is a term that can refer to a broad assortment of things&#xA;This can include&#xA;Text Visuals Audios Games Lessons And More! For me content can be defined as a piece of information, entertainment, or an experience that is created for the pupose to inform, entertain, or persuade, and this is consumed in a format that is either digital or physical.</description>
-    </item>
-    <item>
-      <title>Hayes McCoy: My First Post</title>
-      <link>//localhost:1313/posts/mccoy-first-post/</link>
-      <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
-      <guid>//localhost:1313/posts/mccoy-first-post/</guid>
-      <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
   </channel>
 </rss>

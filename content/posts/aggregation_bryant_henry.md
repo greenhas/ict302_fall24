@@ -2,6 +2,9 @@
 title = 'aggregation_bryant_henry'
 date = 2024-09-17T10:53:07-04:00
 draft = false
+author = "Henry Bryant"
+categories = ["aggregation definition"]
+tags = ["aggregation", "web content management", "wikipedia"]
 +++
 ## What is Content Aggregation? 
 
