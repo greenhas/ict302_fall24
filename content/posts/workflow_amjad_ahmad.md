@@ -4,7 +4,6 @@ date = 2024-10-02T10:00:33-04:00
 draft = false
 author = "Ahmad"
 categories = ["Workflow Proposal", "Documentation]
-tags = ["Workflow"]
 +++
 
 1, Determine goals
