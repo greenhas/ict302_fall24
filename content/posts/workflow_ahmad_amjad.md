@@ -1,6 +1,6 @@
 +++
 title = 'Workflow (Ahmad)'
-date = 2024-09-23
+date = 2024-10-02
 draft = false
 author = "Ahmad"
 categories = ["workflow proposal"]
