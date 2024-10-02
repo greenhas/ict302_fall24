@@ -2,6 +2,9 @@
 title = 'Content_bryant_henry'
 date = 2024-09-05T11:09:04-04:00
 draft = false
+author = "Henry Bryant"
+categories = ["content definition"]
+tags = ["content", "web content management", "youtube"]
 +++
 ## What is Content? 
 

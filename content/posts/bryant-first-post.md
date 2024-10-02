@@ -2,6 +2,9 @@
 title = 'Bryant First Post'
 date = 2024-09-05T09:49:58-04:00
 draft = false
+author = "Henry Bryant"
+categories = ["first post"]
+tags = ["first post", "introduction", "testing"]
 +++
 ### This is a test post. 
 This is only a *test* and nothing that I type here matters. 
