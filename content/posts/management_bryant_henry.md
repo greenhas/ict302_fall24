@@ -1,5 +1,5 @@
 +++
-title = 'UGC_bryant_henry'
+title = 'management_bryant_henry'
 date = 2024-10-03T10:55:07-04:00
 draft = false
 author = "Henry Bryant"

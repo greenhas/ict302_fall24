@@ -6,13 +6,41 @@
     <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 10:42:55 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 10:55:07 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Management Definition</title>
+      <link>//localhost:1313/categories/content-management-definition/</link>
+      <pubDate>Thu, 03 Oct 2024 10:55:07 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-definition/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Workflow Proposal</title>
       <link>//localhost:1313/categories/workflow-proposal/</link>
-      <pubDate>Tue, 01 Oct 2024 10:42:55 -0400</pubDate>
+      <pubDate>Wed, 02 Oct 2024 23:48:14 -0400</pubDate>
       <guid>//localhost:1313/categories/workflow-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMS Definition</title>
+      <link>//localhost:1313/categories/cms-definition/</link>
+      <pubDate>Wed, 02 Oct 2024 10:28:01 -0400</pubDate>
+      <guid>//localhost:1313/categories/cms-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Management Definition</title>
+      <link>//localhost:1313/categories/management-definition/</link>
+      <pubDate>Wed, 02 Oct 2024 10:16:53 -0400</pubDate>
+      <guid>//localhost:1313/categories/management-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation Definition</title>
+      <link>//localhost:1313/categories/presentation-definition/</link>
+      <pubDate>Tue, 01 Oct 2024 10:43:03 -0400</pubDate>
+      <guid>//localhost:1313/categories/presentation-definition/</guid>
       <description></description>
     </item>
     <item>
@@ -37,13 +65,6 @@
       <description></description>
     </item>
     <item>
-      <title>Presentation Definition</title>
-      <link>//localhost:1313/categories/presentation-definition/</link>
-      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>//localhost:1313/categories/presentation-definition/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Content Aggregation</title>
       <link>//localhost:1313/categories/content-aggregation/</link>
       <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
@@ -53,7 +74,7 @@
     <item>
       <title>Aggregation Definition</title>
       <link>//localhost:1313/categories/aggregation-definition/</link>
-      <pubDate>Mon, 23 Sep 2024 21:34:00 -0400</pubDate>
+      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
       <guid>//localhost:1313/categories/aggregation-definition/</guid>
       <description></description>
     </item>
