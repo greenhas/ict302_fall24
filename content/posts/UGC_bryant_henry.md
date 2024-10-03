@@ -2,6 +2,9 @@
 title = 'UGC_bryant_henry'
 date = 2024-09-10T10:24:07-04:00
 draft = false
+author = "Henry Bryant"
+categories = ["UGC definition"]
+tags = ["user-generated content", "web content management", "youtube"]
 +++
 ## What is User-Generated Content? 
 
