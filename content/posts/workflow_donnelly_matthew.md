@@ -1,11 +1,10 @@
----
-title: "workflow_donnelly_matthew"
-_build:
-  render: never
-  categories = ["workflow proposal"]
-  list: never
-  publishResources: false
----
++++
+title = "workflow_donnelly_matthew"
+categories = ["workflow proposal"]
+author = "Matthew Donnelly"
+
+draft=false 
++++
 **Workflow 
 
 **Phases
