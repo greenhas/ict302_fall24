@@ -19,5 +19,5 @@ theme = 'Mainroad-master'
     weight = 20
   [[menus.main]]
     name = 'Workflow Proposals'
-    pageRef = '/categories/workflow-proposals'
-    weight = 30
+    pageRef = '/categories/workflow-proposal/'
+    weight = 15
