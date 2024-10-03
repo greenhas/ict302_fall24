@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on Bad</title>
     <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <description>Recent content in Categories on Bad</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -82,5 +83,18 @@
 =======
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
 >>>>>>> 6764c4aa44db13c791f4f72b49d03ed1d21ebdc3
+=======
+    <lastBuildDate>Tue, 24 Sep 2024 11:01:18 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aggregation Definition</title>
+      <link>http://localhost:1313/categories/aggregation-definition/</link>
+      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
+      
+      <guid>http://localhost:1313/categories/aggregation-definition/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+>>>>>>> Stashed changes
   </channel>
 </rss>

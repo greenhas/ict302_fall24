@@ -6,9 +6,163 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <lastBuildDate>Thu, 03 Oct 2024 00:51:32 -0400</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentation_Ilunga_victoire</title>
+      <link>http://localhost:1313/posts/presentation_ilunga_victoire/</link>
+      <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/presentation_ilunga_victoire/</guid>
+      <description>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot; The general concept and processes around modifying content for display in a particular channel, usaually through templating. A template apllied will result in output which is then delivered.&amp;quot; -Deanne Barker, *web content management glossary&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;in-my-own-words&#34;&gt;In my own words&lt;/h2&gt;
+&lt;p&gt;Presentation is how content is adapted and displayed depending on the platform. This is done by applying templates that determine the structure and layout of the content.&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Canva&lt;/strong&gt;. Canva is an online tool for graphic design that helps users create different types of visual content. It offers templates for things like social media posts, presentations, and posters. For example, a template for a social media post will look different from a presentation slide, even if they have the same text or images. Canva makes it easy for users to adjust their content for different visual formats, ensuring that the design works well for each specific platform.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot; The general concept and processes around modifying content for display in a particular channel, usaually through templating. A template apllied will result in output which is then delivered.&amp;quot; -Deanne Barker, *web content management glossary&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;in-my-own-words&#34;&gt;In my own words&lt;/h2&gt;
+&lt;p&gt;Presentation is how content is adapted and displayed depending on the platform. This is done by applying templates that determine the structure and layout of the content.&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Canva&lt;/strong&gt;. Canva is an online tool for graphic design that helps users create different types of visual content. It offers templates for things like social media posts, presentations, and posters. For example, a template for a social media post will look different from a presentation slide, even if they have the same text or images. Canva makes it easy for users to adjust their content for different visual formats, ensuring that the design works well for each specific platform.&lt;/p&gt;
+&lt;p&gt;Link to canvas:&lt;a href=&#34;https://www.canva.com/templates/&#34;&gt; Canva templates &lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Aggregation_Ilunga_Victoire</title>
+      <link>http://localhost:1313/posts/aggregation_ilunga_victoire/</link>
+      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/aggregation_ilunga_victoire/</guid>
+      <description>&lt;h1 id=&#34;understanding-content-aggregation&#34;&gt;Understanding Content Aggregation&lt;/h1&gt;
+&lt;h2 id=&#34;definition-of-content-aggregation&#34;&gt;Definition of Content Aggregation&lt;/h2&gt;
+&lt;p&gt;Content aggregation refers to the process of collecting information or content from multiple sources and presenting it in a consolidated format for users to consume. According to Deane Barker&amp;rsquo;s book &lt;em&gt;Web Content Management: systems, features, and best practices&lt;/em&gt;, &amp;ldquo;content aggregation involves gathering content from external or internal sources, organizing it, and displaying it in a coherent way that adds value for the user.&amp;rdquo; (Barker, 2016).&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;understanding-content-aggregation&#34;&gt;Understanding Content Aggregation&lt;/h1&gt;
+&lt;h2 id=&#34;definition-of-content-aggregation&#34;&gt;Definition of Content Aggregation&lt;/h2&gt;
+&lt;p&gt;Content aggregation refers to the process of collecting information or content from multiple sources and presenting it in a consolidated format for users to consume. According to Deane Barker&amp;rsquo;s book &lt;em&gt;Web Content Management: systems, features, and best practices&lt;/em&gt;, &amp;ldquo;content aggregation involves gathering content from external or internal sources, organizing it, and displaying it in a coherent way that adds value for the user.&amp;rdquo; (Barker, 2016).&lt;/p&gt;
+&lt;h2 id=&#34;explanation-in-my-own-words&#34;&gt;Explanation in My Own Words&lt;/h2&gt;
+&lt;p&gt;In simpler terms, &lt;em&gt;content aggregation&lt;/em&gt; is like selecting a collection of articles, posts, videos, or other forms of media and bringing them together in one place. The main goal is to help users quickly find relevant information without having to search multiple platforms. This method saves time and helps create a more organized, streamlined experience for users.&lt;/p&gt;
+&lt;h2 id=&#34;real-life-example-of-content-aggregation&#34;&gt;Real-Life Example of Content Aggregation&lt;/h2&gt;
+&lt;p&gt;One example of content aggregation that I regularly use is &lt;a href=&#34;https://cnn.com&#34;&gt;CNN news&lt;/a&gt;. CNN news collect informations and arranges them according to topics like world events, technology, or sports in a way that allows me to read about topics of interest from different viewpoints, all in one place.&lt;/p&gt;
+&lt;h2 id=&#34;how-this-example-illustrates-content-aggregation&#34;&gt;How This Example Illustrates Content Aggregation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;collects content from multiple sources&lt;/li&gt;
+&lt;li&gt;Categorize and organize content into sections&lt;/li&gt;
+&lt;li&gt;Incorporates User-genrated content&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Aggregation_Ilunga_Victoire 2</title>
+      <link>http://localhost:1313/posts/aggregation_ilunga_victoire2/</link>
+      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/aggregation_ilunga_victoire2/</guid>
+      <description>&lt;h1 id=&#34;understanding-content-aggregations&#34;&gt;Understanding Content Aggregations&lt;/h1&gt;
+&lt;h2 id=&#34;definition-of-content-aggregation&#34;&gt;Definition of Content Aggregation&lt;/h2&gt;
+&lt;p&gt;Content aggregation refers to the process of collecting information or content from multiple sources and presenting it in a consolidated format for users to consume. According to Deane Barker&amp;rsquo;s book &lt;em&gt;Web Content Management: systems, features, and best practices&lt;/em&gt;, &amp;ldquo;content aggregation involves gathering content from external or internal sources, organizing it, and displaying it in a coherent way that adds value for the user.&amp;rdquo; (Barker, 2016).&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;understanding-content-aggregations&#34;&gt;Understanding Content Aggregations&lt;/h1&gt;
+&lt;h2 id=&#34;definition-of-content-aggregation&#34;&gt;Definition of Content Aggregation&lt;/h2&gt;
+&lt;p&gt;Content aggregation refers to the process of collecting information or content from multiple sources and presenting it in a consolidated format for users to consume. According to Deane Barker&amp;rsquo;s book &lt;em&gt;Web Content Management: systems, features, and best practices&lt;/em&gt;, &amp;ldquo;content aggregation involves gathering content from external or internal sources, organizing it, and displaying it in a coherent way that adds value for the user.&amp;rdquo; (Barker, 2016).&lt;/p&gt;
+&lt;h2 id=&#34;explanation-in-my-own-words&#34;&gt;Explanation in My Own Words&lt;/h2&gt;
+&lt;p&gt;In simpler terms, &lt;em&gt;content aggregation&lt;/em&gt; is like selecting a collection of articles, posts, videos, or other forms of media and bringing them together in one place. The main goal is to help users quickly find relevant information without having to search multiple platforms. This method saves time and helps create a more organized, streamlined experience for users.&lt;/p&gt;
+&lt;h2 id=&#34;real-life-example-of-content-aggregation&#34;&gt;Real-Life Example of Content Aggregation&lt;/h2&gt;
+&lt;p&gt;One example of content aggregation that I regularly use is &lt;a href=&#34;https://cnn.com&#34;&gt;CNN news&lt;/a&gt;. CNN news collect informations and arranges them according to topics like world events, technology, or sports in a way that allows me to read about topics of interest from different viewpoints, all in one place.&lt;/p&gt;
+&lt;h2 id=&#34;how-this-example-illustrates-content-aggregation&#34;&gt;How This Example Illustrates Content Aggregation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;collects content from multiple sources&lt;/li&gt;
+&lt;li&gt;Categorize and organize content into sections&lt;/li&gt;
+&lt;li&gt;Incorporates User-genrated content&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Ilunga Victoire Post</title>
+      <link>http://localhost:1313/posts/ilunga-victoire-post/</link>
+      <pubDate>Tue, 24 Sep 2024 10:56:37 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/ilunga-victoire-post/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>presentation_bryant_henry</title>
+      <link>http://localhost:1313/posts/presentation_bryant_henry/</link>
+      <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/presentation_bryant_henry/</guid>
+      <description>&lt;h2 id=&#34;what-is-presentation&#34;&gt;What is Presentation?&lt;/h2&gt;
+&lt;p&gt;In &lt;em&gt;Examining the Separation Between Presentation and Content&lt;/em&gt;, author Deane Barker defines presentation as &amp;ldquo;the use of colors, fonts, etc.&amp;rdquo; on a website that changes the way the content looks (Barker, 2013).&lt;/p&gt;
+&lt;p&gt;In other words, this means that presentation is the way that the content looks when a user visits a website. The presentation can include the font that the content is set in, the size of the font, the color of the background, and many other general visual attributes of the website. From my own personal experience, I know that the content can even be changed by the user. In short, presentation is just how the website looks to the visitor.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;what-is-presentation&#34;&gt;What is Presentation?&lt;/h2&gt;
+&lt;p&gt;In &lt;em&gt;Examining the Separation Between Presentation and Content&lt;/em&gt;, author Deane Barker defines presentation as &amp;ldquo;the use of colors, fonts, etc.&amp;rdquo; on a website that changes the way the content looks (Barker, 2013).&lt;/p&gt;
+&lt;p&gt;In other words, this means that presentation is the way that the content looks when a user visits a website. The presentation can include the font that the content is set in, the size of the font, the color of the background, and many other general visual attributes of the website. From my own personal experience, I know that the content can even be changed by the user. In short, presentation is just how the website looks to the visitor.&lt;/p&gt;
+&lt;h2 id=&#34;user-generated-content-example&#34;&gt;User-Generated Content Example&lt;/h2&gt;
+&lt;p&gt;An example of presentation would be any website that has the option to change the display to a &amp;ldquo;Dark Mode&amp;rdquo;, &amp;ldquo;Dark Theme&amp;rdquo;, &amp;ldquo;Light Mode&amp;rdquo;. For the purposes of this, I&amp;rsquo;ll use the website &lt;a href=&#34;https://x.com/home&#34;&gt;Twitter&lt;/a&gt;. Well, I guess it&amp;rsquo;s technically called X now. I think also they make you log in to see anything, but I&amp;rsquo;m going to assume that we all know how Twitter (X) works.&lt;/p&gt;
+&lt;p&gt;For this example, Twitter (X) has the option to change the display theme between dark and light. It defaults to dark, but it can be changed to light if the user prefers. The ability to change the theme of a website between dark and light mode is an example of presentation because the user is changing the way that the content is displayed on the website. When the theme is changed between light and dark, the entire way of displaying the site also changes.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Presentation_chen_ricky</title>
+      <link>http://localhost:1313/posts/presentation_chen_ricky/</link>
+      <pubDate>Tue, 24 Sep 2024 10:51:28 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/presentation_chen_ricky/</guid>
+      <description>&lt;h2 id=&#34;what-is-presentation&#34;&gt;What is Presentation?&lt;/h2&gt;
+&lt;p&gt;According to Deane Barker, &amp;ldquo;Content from its aesthetic surrounding, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Barker, D.(2016). &lt;a href=&#34;https://deanebarker.net/tech/glossary/presentation/&#34;&gt;Presentation&lt;/a&gt;. O&amp;rsquo;Reilly Media&lt;/p&gt;
+&lt;h2 id=&#34;to-my-understanding&#34;&gt;To my Understanding&lt;/h2&gt;
+&lt;p&gt;Presentation is how content is show. Regardless how presentation has changed, the content will still be the same.&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;An example of presentation is themes for Shopify. Here is an example -&amp;gt;
+&lt;a href=&#34;https://themes.shopify.com/themes&#34;&gt;Shopify Theme&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is example of presentation. Shopify is a platform that lets entrepreneur sell things online. In Shopify user can change the theme easily while keeping their content the same. Keeping what they&amp;rsquo;re selling still in the website. There is more than just themes to change, user can change how they want to show their products, changing colors, and etc. All for a better experince for the consumer, different themes can boost sales.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;what-is-presentation&#34;&gt;What is Presentation?&lt;/h2&gt;
+&lt;p&gt;According to Deane Barker, &amp;ldquo;Content from its aesthetic surrounding, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Barker, D.(2016). &lt;a href=&#34;https://deanebarker.net/tech/glossary/presentation/&#34;&gt;Presentation&lt;/a&gt;. O&amp;rsquo;Reilly Media&lt;/p&gt;
+&lt;h2 id=&#34;to-my-understanding&#34;&gt;To my Understanding&lt;/h2&gt;
+&lt;p&gt;Presentation is how content is show. Regardless how presentation has changed, the content will still be the same.&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;An example of presentation is themes for Shopify. Here is an example -&amp;gt;
+&lt;a href=&#34;https://themes.shopify.com/themes&#34;&gt;Shopify Theme&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is example of presentation. Shopify is a platform that lets entrepreneur sell things online. In Shopify user can change the theme easily while keeping their content the same. Keeping what they&amp;rsquo;re selling still in the website. There is more than just themes to change, user can change how they want to show their products, changing colors, and etc. All for a better experince for the consumer, different themes can boost sales.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>presentation_nguyen_nhi</title>
+      <link>http://localhost:1313/posts/presentation_nguyen_nhi/</link>
+      <pubDate>Tue, 24 Sep 2024 10:26:39 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/presentation_nguyen_nhi/</guid>
+      <description>&lt;h3 id=&#34;presentation&#34;&gt;Presentation&lt;/h3&gt;
+&lt;p&gt;The definition of this concept is &lt;em&gt;&amp;ldquo;Content from its aesthetic surroundings, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo;&lt;/em&gt; (Barker, 2016)&lt;/p&gt;
+&lt;p&gt;In other words, the explanation for this concept is &lt;em&gt;&amp;ldquo;The presentation refers to how content is visually framed and displayed but the content remains the same.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;One example I use is &lt;a href=&#34;https://www.instagram.com&#34;&gt;Instagram’s dark mode&lt;/a&gt;. Instagram allows users to change between a light mode and a dark mode, where the background switches to black, and fonts and icons adjust to maintain visibility.&lt;/p&gt;</description>
+      <content>&lt;h3 id=&#34;presentation&#34;&gt;Presentation&lt;/h3&gt;
+&lt;p&gt;The definition of this concept is &lt;em&gt;&amp;ldquo;Content from its aesthetic surroundings, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo;&lt;/em&gt; (Barker, 2016)&lt;/p&gt;
+&lt;p&gt;In other words, the explanation for this concept is &lt;em&gt;&amp;ldquo;The presentation refers to how content is visually framed and displayed but the content remains the same.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;One example I use is &lt;a href=&#34;https://www.instagram.com&#34;&gt;Instagram’s dark mode&lt;/a&gt;. Instagram allows users to change between a light mode and a dark mode, where the background switches to black, and fonts and icons adjust to maintain visibility.&lt;/p&gt;
+</content>
+    </item>
+    
+>>>>>>> Stashed changes
     <item>
       <title>Workflow_mccoy_hayes</title>
       <link>//localhost:1313/posts/workflow_mccoy_hayes/</link>
@@ -108,6 +262,7 @@
       <description>Understanding Content Aggregations Definition of Content Aggregation Content aggregation refers to the process of collecting information or content from multiple sources and presenting it in a consolidated format for users to consume. According to Deane Barker&amp;rsquo;s book Web Content Management: systems, features, and best practices, &amp;ldquo;content aggregation involves gathering content from external or internal sources, organizing it, and displaying it in a coherent way that adds value for the user.&amp;rdquo; (Barker, 2016).</description>
     </item>
     <item>
+<<<<<<< Updated upstream
       <title>Ilunga Victoire Post</title>
       <link>//localhost:1313/posts/ilunga-victoire-post/</link>
       <pubDate>Tue, 24 Sep 2024 10:56:37 -0400</pubDate>
@@ -260,6 +415,115 @@
       <pubDate>Tue, 17 Sep 2024 10:58:35 -0400</pubDate>
       <guid>//localhost:1313/posts/content_harp_mauricio/</guid>
       <description>Definition of Content: Content is information created through a report for humans to see through publication. It is organized and tailored to convey a message, provide entertainment, or share knowledge (Source: Slide 3, Week 2 Lecture, &amp;ldquo;slides on content, content, and mission, and content models&amp;rdquo;).&#xA;In My Own Words: I think content is any information that someone produces and refines to share with others. It’s engaging or informative, often reflecting the creator&amp;rsquo;s perspective.</description>
+=======
+      <title>Content_adhikari_sayana</title>
+      <link>http://localhost:1313/posts/content_adhikari_sayana/</link>
+      <pubDate>Thu, 19 Sep 2024 14:03:34 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/content_adhikari_sayana/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Whai is Content?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Content is a type of information that is made to engage, inform, or entertain the audience. Content can be in various formats such as text, images, videos, audio and any type of interactive elements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In my own words&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my opinion content is something that we consume through digital platform. Watching some content and consuming entertainment plus some valuable information is a plus point cause you are not wasting your time but doing something mindful.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;Whai is Content?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Content is a type of information that is made to engage, inform, or entertain the audience. Content can be in various formats such as text, images, videos, audio and any type of interactive elements.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In my own words&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my opinion content is something that we consume through digital platform. Watching some content and consuming entertainment plus some valuable information is a plus point cause you are not wasting your time but doing something mindful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@ericahaha&#34;&gt;my link&lt;/a&gt; This youtube channel is something I relate with. Name of the conetnt creator is Erica Ha. She is a 20 year old youtuber who is succesful in her career and is going to college just like us people. She provides travelling, study, random vlog, type of content to educate her audience and I find them relatable.&lt;/p&gt;
+&lt;p&gt;I watch her content because they are funny and relatable at the same time. Since, she is a Junior at University just like I am and has sister as well which is similar to my background and I find the content she provides relateable. Since she has some travelling videos, I plan to take notes from there while traveling. Since, content is some type of information that is made to engage, inform and entertain the audience, I find &lt;em&gt;Erica Ha&lt;/em&gt;&amp;rsquo;s content entertainig and informational.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>content_Ilunga_Victoire.md</title>
+      <link>http://localhost:1313/posts/content_ilunga_victoire_post/</link>
+      <pubDate>Thu, 19 Sep 2024 10:19:24 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/content_ilunga_victoire_post/</guid>
+      <description>&lt;h1 id=&#34;defining-content&#34;&gt;Defining Content&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt; refers to information or experiences meant to inform or engage an audience (author: Merriam Webster dictionnary).&lt;/p&gt;
+&lt;p&gt;In simpler terms, content is anything shared with others to communicate, be it a blog post, social media update, video, or podcast.&lt;/p&gt;
+&lt;h2 id=&#34;example-of-content&#34;&gt;Example of Content&lt;/h2&gt;
+&lt;p&gt;One example of content I consume is &lt;a href=&#34;https://www.uky.edu/canvas/&#34;&gt;Canvas&lt;/a&gt;.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;defining-content&#34;&gt;Defining Content&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt; refers to information or experiences meant to inform or engage an audience (author: Merriam Webster dictionnary).&lt;/p&gt;
+&lt;p&gt;In simpler terms, content is anything shared with others to communicate, be it a blog post, social media update, video, or podcast.&lt;/p&gt;
+&lt;h2 id=&#34;example-of-content&#34;&gt;Example of Content&lt;/h2&gt;
+&lt;p&gt;One example of content I consume is &lt;a href=&#34;https://www.uky.edu/canvas/&#34;&gt;Canvas&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Content Meaning Grant</title>
+      <link>http://localhost:1313/posts/content_lewis_grant/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/content_lewis_grant/</guid>
+      <description>&lt;p&gt;What is Content?&lt;/p&gt;
+&lt;p&gt;From what I have read and learned, content is visual or auditory information that can be used to share information or knowledge. The slides from week two from Baker are &amp;ldquo;intended for consumption by a human audience.&amp;rdquo; I think of this as meaning data that has not been sculpted or formatted is not necessarily considered content but data. However, when curated, it becomes content or information that people can interact with. An example that I think of is music. I have been using my dad&amp;rsquo;s iPod with some of his favorite songs. But if you think about it is just a bunch of music files. However, when given the correct name for each song, the artist, and album artwork and organized by genre, it provides a new experience and interacts in a new way.&lt;/p&gt;</description>
+      <content>&lt;p&gt;What is Content?&lt;/p&gt;
+&lt;p&gt;From what I have read and learned, content is visual or auditory information that can be used to share information or knowledge. The slides from week two from Baker are &amp;ldquo;intended for consumption by a human audience.&amp;rdquo; I think of this as meaning data that has not been sculpted or formatted is not necessarily considered content but data. However, when curated, it becomes content or information that people can interact with. An example that I think of is music. I have been using my dad&amp;rsquo;s iPod with some of his favorite songs. But if you think about it is just a bunch of music files. However, when given the correct name for each song, the artist, and album artwork and organized by genre, it provides a new experience and interacts in a new way.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Generalizing Content Grant</title>
+      <link>http://localhost:1313/posts/ugc_lewis_grant/</link>
+      <pubDate>Tue, 17 Sep 2024 15:23:23 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/ugc_lewis_grant/</guid>
+      <description>&lt;p&gt;##User Generated Content&lt;/p&gt;
+&lt;p&gt;In the past week, we have discussed user-generated content and its meaning. User-generated content or media created by a human. In the Podcast Episode: Wordle and the Web We Need a Podcast on EFF, the hosts talk about the meaning and what they feel by it. One of the hosts says it was crazy that people now refer to media or art, such as music, as content and sometimes not as its correct form, even when it comes from the heart.&lt;/p&gt;</description>
+      <content>&lt;p&gt;##User Generated Content&lt;/p&gt;
+&lt;p&gt;In the past week, we have discussed user-generated content and its meaning. User-generated content or media created by a human. In the Podcast Episode: Wordle and the Web We Need a Podcast on EFF, the hosts talk about the meaning and what they feel by it. One of the hosts says it was crazy that people now refer to media or art, such as music, as content and sometimes not as its correct form, even when it comes from the heart.&lt;/p&gt;
+&lt;p&gt;I only see user-generated content as human-made, especially in the age of AI. Such as photos with new AI generators made by AI. Sure, a person had to write a prompt, but the human is not doing the work. I believe this is the most bare bone explanation as the definition of user-generated content is not complex.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>UGC_harp_mauricio</title>
+      <link>http://localhost:1313/posts/ugc_harp_mauricio/</link>
+      <pubDate>Tue, 17 Sep 2024 15:23:23 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/ugc_harp_mauricio/</guid>
+      <description>&lt;p&gt;Definition of UGC
+User-generated content refers to &amp;ldquo;content generated by non-editors, usually from the public side of the website&amp;rdquo; (Source: user-generated content and CMS extensions slide 14, Week 3).
+In my own words
+I think UGC is content made by everyday users, like posts and reviews shared on platforms.
+Real-life Example: Reddit
+Reddit is a prime example of UGC. Users submit posts, links, and discussions across different communities. For instance, in
+&lt;a href=&#34;https://www.reddit.com/r/technology/?rdt=44277&#34;&gt;r/technology&lt;/a&gt;
+, users can share and discuss tech news, showing how the platform relies on user-generated content.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Definition of UGC
+User-generated content refers to &amp;ldquo;content generated by non-editors, usually from the public side of the website&amp;rdquo; (Source: user-generated content and CMS extensions slide 14, Week 3).
+In my own words
+I think UGC is content made by everyday users, like posts and reviews shared on platforms.
+Real-life Example: Reddit
+Reddit is a prime example of UGC. Users submit posts, links, and discussions across different communities. For instance, in
+&lt;a href=&#34;https://www.reddit.com/r/technology/?rdt=44277&#34;&gt;r/technology&lt;/a&gt;
+, users can share and discuss tech news, showing how the platform relies on user-generated content.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Content_harp_mauricio</title>
+      <link>http://localhost:1313/posts/content_harp_mauricio/</link>
+      <pubDate>Tue, 17 Sep 2024 10:58:35 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/content_harp_mauricio/</guid>
+      <description>&lt;p&gt;Definition of Content:
+Content is information created through a report for humans to see through publication. It is organized and tailored to convey a message, provide entertainment, or share knowledge (Source: Slide 3, Week 2 Lecture, &amp;ldquo;slides on content, content, and mission, and content models&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;In My Own Words:
+I think content is any information that someone produces and refines to share with others. It’s engaging or informative, often reflecting the creator&amp;rsquo;s perspective.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Definition of Content:
+Content is information created through a report for humans to see through publication. It is organized and tailored to convey a message, provide entertainment, or share knowledge (Source: Slide 3, Week 2 Lecture, &amp;ldquo;slides on content, content, and mission, and content models&amp;rdquo;).&lt;/p&gt;
+&lt;p&gt;In My Own Words:
+I think content is any information that someone produces and refines to share with others. It’s engaging or informative, often reflecting the creator&amp;rsquo;s perspective.&lt;/p&gt;
+&lt;p&gt;Real-life Example:
+TechCrunch is a blog that covers tech news and startups. TechCrunch Homepage. Its editors deliver timely, structured information to its readers. It highlights content as information designed to inform and engage its audience.&lt;/p&gt;
+</content>
+>>>>>>> Stashed changes
     </item>
     <item>
       <title>aggregation_bryant_henry</title>
@@ -342,6 +606,7 @@
       <title>UGC_coleman_bryan</title>
       <link>//localhost:1313/posts/ugc_coleman_bryan/</link>
       <pubDate>Wed, 11 Sep 2024 10:28:17 -0400</pubDate>
+<<<<<<< Updated upstream
       <guid>//localhost:1313/posts/ugc_coleman_bryan/</guid>
       <description>User-generated content is content generated by non-editors, usually from the public side of the website. I got this definition from the class sides, which can be found here. In my own words, user-generated content is any published type of information or media where a contributor or user provides that information as opposed to an editor. One example I have for user-generated content is that I always read or look at customer reviews before I purchase anything online, such as from Amazon.</description>
     </item>
@@ -352,6 +617,44 @@
       <guid>//localhost:1313/posts/ugc_nguyen_nhi/</guid>
       <description>User-generated Content The definition of this concept is &amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&#xA;Deane Barker, Web Content Management glossary&#xA;In other words, the explanation for this concept is &amp;ldquo;User-generated content are the contents that are created and shared by users. This can include social media posts, blog articles, product reviews, and more.&amp;rdquo;&#xA;Example NikkieTutorials YouTube NikkieTutorials is a popular beauty YouTuber who creates and shares makeup tutorials, product reviews, and other beauty-related content.</description>
     </item>
+=======
+      
+      <guid>http://localhost:1313/posts/ugc_coleman_bryan/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;User-generated content&lt;/strong&gt; is content generated by non-editors, usually from the public side of the website. I got this definition from the class sides, which can be found &lt;a href=&#34;https://spencergreenhalgh.com/_302_2024_w3_c1.html#14&#34;&gt;here.&lt;/a&gt;
+In my own words, user-generated content is any published type of information or media where a contributor or user provides that information as opposed to an editor.
+One example I have for user-generated content is that I always read or look at customer reviews before I purchase anything online, such as from Amazon. I have included a link for a game, and at the bottom there are customer reviews from those who have spent time and money on that game, so they are always a genuine experience and reaction. They serve as user-generated content as the reviews are not posted from editors, but random users on the site with the product.
+&lt;a href=&#34;https://www.amazon.com/Madden-NFL-25-Xbox-X/dp/B0D3P4HV27/ref=asc_df_B0D3P4HV27/?tag=hyprod-20&amp;amp;linkCode=df0&amp;amp;hvadid=692875362841&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=10801584644197785728&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9014318&amp;amp;hvtargid=pla-2281435179018&amp;amp;mcid=a6d91713b6643d728a5d3818896c8d86&amp;amp;hvocijid=10801584644197785728-B0D3P4HV27-&amp;amp;hvexpln=73&amp;amp;th=1&#34;&gt;Here is my link&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;User-generated content&lt;/strong&gt; is content generated by non-editors, usually from the public side of the website. I got this definition from the class sides, which can be found &lt;a href=&#34;https://spencergreenhalgh.com/_302_2024_w3_c1.html#14&#34;&gt;here.&lt;/a&gt;
+In my own words, user-generated content is any published type of information or media where a contributor or user provides that information as opposed to an editor.
+One example I have for user-generated content is that I always read or look at customer reviews before I purchase anything online, such as from Amazon. I have included a link for a game, and at the bottom there are customer reviews from those who have spent time and money on that game, so they are always a genuine experience and reaction. They serve as user-generated content as the reviews are not posted from editors, but random users on the site with the product.
+&lt;a href=&#34;https://www.amazon.com/Madden-NFL-25-Xbox-X/dp/B0D3P4HV27/ref=asc_df_B0D3P4HV27/?tag=hyprod-20&amp;amp;linkCode=df0&amp;amp;hvadid=692875362841&amp;amp;hvpos=&amp;amp;hvnetw=g&amp;amp;hvrand=10801584644197785728&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvqmt=&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=9014318&amp;amp;hvtargid=pla-2281435179018&amp;amp;mcid=a6d91713b6643d728a5d3818896c8d86&amp;amp;hvocijid=10801584644197785728-B0D3P4HV27-&amp;amp;hvexpln=73&amp;amp;th=1&#34;&gt;Here is my link&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>UGC_nguyen_nhi</title>
+      <link>http://localhost:1313/posts/ugc_nguyen_nhi/</link>
+      <pubDate>Tue, 10 Sep 2024 10:26:39 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/ugc_nguyen_nhi/</guid>
+      <description>&lt;h3 id=&#34;user-generated-content&#34;&gt;User-generated Content&lt;/h3&gt;
+&lt;p&gt;The definition of this concept is &lt;em&gt;&amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Deane Barker, Web Content Management glossary&lt;/p&gt;
+&lt;p&gt;In other words, the explanation for this concept is &lt;em&gt;&amp;ldquo;User-generated content are the contents that are created and shared by users. This can include social media posts, blog articles, product reviews, and more.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/EoZYbFykJAI?si=29KSOQB-yur1p2rz&#34;&gt;NikkieTutorials YouTube&lt;/a&gt;
+NikkieTutorials is a popular beauty YouTuber who creates and shares makeup tutorials, product reviews, and other beauty-related content. This is an example for user-generated content because she is an individual creator sharing her expertise and passion with her audience.&lt;/p&gt;</description>
+      <content>&lt;h3 id=&#34;user-generated-content&#34;&gt;User-generated Content&lt;/h3&gt;
+&lt;p&gt;The definition of this concept is &lt;em&gt;&amp;ldquo;Content generated by non-editors, usually from the public side of the website.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Deane Barker, Web Content Management glossary&lt;/p&gt;
+&lt;p&gt;In other words, the explanation for this concept is &lt;em&gt;&amp;ldquo;User-generated content are the contents that are created and shared by users. This can include social media posts, blog articles, product reviews, and more.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/EoZYbFykJAI?si=29KSOQB-yur1p2rz&#34;&gt;NikkieTutorials YouTube&lt;/a&gt;
+NikkieTutorials is a popular beauty YouTuber who creates and shares makeup tutorials, product reviews, and other beauty-related content. This is an example for user-generated content because she is an individual creator sharing her expertise and passion with her audience.&lt;/p&gt;
+</content>
+    </item>
+    
+>>>>>>> Stashed changes
     <item>
       <title>UGC_bryant_henry</title>
       <link>//localhost:1313/posts/ugc_bryant_henry/</link>
