@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Bad</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Bad</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on ICT 302 Fall 24</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on ICT 302 Fall 24</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-    <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 20:38:39 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workflow Proposal</title>
       <link>//localhost:1313/categories/workflow-proposal/</link>
-      <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
+      <pubDate>Wed, 02 Oct 2024 20:38:39 -0400</pubDate>
       <guid>//localhost:1313/categories/workflow-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMS Definition</title>
+      <link>//localhost:1313/categories/cms-definition/</link>
+      <pubDate>Wed, 02 Oct 2024 10:28:01 -0400</pubDate>
+      <guid>//localhost:1313/categories/cms-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Management Definition</title>
+      <link>//localhost:1313/categories/management-definition/</link>
+      <pubDate>Wed, 02 Oct 2024 10:16:53 -0400</pubDate>
+      <guid>//localhost:1313/categories/management-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation Definition</title>
+      <link>//localhost:1313/categories/presentation-definition/</link>
+      <pubDate>Tue, 01 Oct 2024 10:43:03 -0400</pubDate>
+      <guid>//localhost:1313/categories/presentation-definition/</guid>
       <description></description>
     </item>
     <item>
@@ -39,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>Presentation Definition</title>
-      <link>//localhost:1313/categories/presentation-definition/</link>
-      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>//localhost:1313/categories/presentation-definition/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Content Aggregation</title>
       <link>//localhost:1313/categories/content-aggregation/</link>
       <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
@@ -55,7 +67,7 @@
     <item>
       <title>Aggregation Definition</title>
       <link>//localhost:1313/categories/aggregation-definition/</link>
-      <pubDate>Mon, 23 Sep 2024 21:34:00 -0400</pubDate>
+      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
       <guid>//localhost:1313/categories/aggregation-definition/</guid>
       <description></description>
     </item>
@@ -80,21 +92,5 @@
       <guid>//localhost:1313/categories/first-post/</guid>
       <description></description>
     </item>
-=======
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6764c4aa44db13c791f4f72b49d03ed1d21ebdc3
-=======
-    <lastBuildDate>Tue, 24 Sep 2024 11:01:18 -0400</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Aggregation Definition</title>
-      <link>http://localhost:1313/categories/aggregation-definition/</link>
-      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
-      
-      <guid>http://localhost:1313/categories/aggregation-definition/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
->>>>>>> Stashed changes
   </channel>
 </rss>
