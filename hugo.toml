@@ -17,3 +17,7 @@ theme = 'Mainroad-master'
     name = 'Aggregation Documentation'
     pageRef = '/aggregation_documentation'
     weight = 20
+  [[menus.main]]
+    name = 'Workflow Proposals'
+    pageRef = 'https://ict302fall24.netlify.app/categories/workflow-proposal/'
+    weight = 30
