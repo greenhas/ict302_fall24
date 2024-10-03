@@ -5,9 +5,9 @@ author = "Matthew Donnelly"
 
 draft=false 
 +++
-**Workflow 
+## Workflow 
 
-**Phases
+## Phases
 1. Brainstorming - Think of ideas on what we actually need to change in the website
 2. Planning - Make a simple plan on how to execute these changes
 3. Devolop - Devolop these changes on the backend 
@@ -15,7 +15,7 @@ draft=false
 5. Review - Review the changes and make sure there are no mistakes 
 6. Publish - Finally, we can publish our work after everything has been peer-reviewed
 
-**Roles
+## Roles
 First I think that there should be different groups for different parts of the website. 
 Within these groups, there should be backend devolopers, editors, planners, and publishers
 People that are comfortable with devoloping/coding could implement the changes on the website
