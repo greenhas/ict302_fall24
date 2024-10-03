@@ -2,6 +2,9 @@
 title = 'presentation_bryant_henry'
 date = 2024-09-24T10:52:17-04:00
 draft = false
+author = "Henry Bryant"
+categories = ["presentation definition"]
+tags = ["presentation", "Twitter", "accessibility", "content"]
 +++
 ## What is Presentation? 
 

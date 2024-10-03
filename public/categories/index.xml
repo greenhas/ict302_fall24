@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ICT 302 Fall 24</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on ICT 302 Fall 24</description>
+    <title>Categories on My New Hugo Site</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 12:47:55 -0400</lastBuildDate>
+<<<<<<< HEAD
+    <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow Proposal</title>
+      <link>//localhost:1313/categories/workflow-proposal/</link>
+      <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
+      <guid>//localhost:1313/categories/workflow-proposal/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Presentation</title>
       <link>//localhost:1313/categories/presentation/</link>
-      <pubDate>Mon, 30 Sep 2024 12:47:55 -0400</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:09:25 -0400</pubDate>
       <guid>//localhost:1313/categories/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definition</title>
+      <link>//localhost:1313/categories/definition/</link>
+      <pubDate>Mon, 30 Sep 2024 19:51:12 -0400</pubDate>
+      <guid>//localhost:1313/categories/definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>//localhost:1313/categories/documentation/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/documentation/</guid>
       <description></description>
     </item>
     <item>
@@ -23,10 +45,10 @@
       <description></description>
     </item>
     <item>
-      <title>Documentation</title>
-      <link>//localhost:1313/categories/documentation/</link>
-      <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
-      <guid>//localhost:1313/categories/documentation/</guid>
+      <title>Content Aggregation</title>
+      <link>//localhost:1313/categories/content-aggregation/</link>
+      <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
+      <guid>//localhost:1313/categories/content-aggregation/</guid>
       <description></description>
     </item>
     <item>
@@ -34,20 +56,6 @@
       <link>//localhost:1313/categories/aggregation-definition/</link>
       <pubDate>Mon, 23 Sep 2024 21:34:00 -0400</pubDate>
       <guid>//localhost:1313/categories/aggregation-definition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content Aggregation</title>
-      <link>//localhost:1313/categories/content-aggregation/</link>
-      <pubDate>Mon, 23 Sep 2024 16:08:32 -0400</pubDate>
-      <guid>//localhost:1313/categories/content-aggregation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Definition</title>
-      <link>//localhost:1313/categories/definition/</link>
-      <pubDate>Fri, 20 Sep 2024 19:36:25 -0400</pubDate>
-      <guid>//localhost:1313/categories/definition/</guid>
       <description></description>
     </item>
     <item>
@@ -64,5 +72,15 @@
       <guid>//localhost:1313/categories/content-definition/</guid>
       <description></description>
     </item>
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/categories/first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:49:58 -0400</pubDate>
+      <guid>//localhost:1313/categories/first-post/</guid>
+      <description></description>
+    </item>
+=======
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 6764c4aa44db13c791f4f72b49d03ed1d21ebdc3
   </channel>
 </rss>
