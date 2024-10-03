@@ -6,6 +6,7 @@
     <description>Recent content in Posts on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 03 Oct 2024 11:22:45 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -189,6 +190,16 @@
       <pubDate>Tue, 01 Oct 2024 10:26:39 -0400</pubDate>
       <guid>//localhost:1313/posts/workflow_nguyen_nhi/</guid>
       <description>Different phases Idea phase &amp;ldquo;Brainstorming where everyone can suggest ideas.&amp;rdquo;&#xA;Planning phase &amp;ldquo;Deciding on deadlines, roles, plan.&amp;rdquo;&#xA;Creation phase &amp;ldquo;Content is written and designed based on the plan.&amp;rdquo;&#xA;Review Phase &amp;ldquo;Checking for errors, suggestions, and feedbacks.&amp;rdquo;&#xA;Approval Phase &amp;ldquo;Getting approval from editor.&amp;rdquo;&#xA;Completion Phase &amp;ldquo;The work is published.&amp;rdquo;&#xA;Different roles Project manager &amp;ldquo;Ensuring the team is on track.&amp;rdquo;&#xA;Content creator &amp;ldquo;Writing, designing, creating the content based on the requirements.&amp;rdquo;&#xA;Editor &amp;ldquo;Reviewing the works and making sure everything meets the goals&amp;rdquo;</description>
+=======
+    <lastBuildDate>Wed, 02 Oct 2024 23:48:14 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow Proposal</title>
+      <link>//localhost:1313/posts/workflow_livingston_chauncey/</link>
+      <pubDate>Wed, 02 Oct 2024 23:48:14 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_livingston_chauncey/</guid>
+      <description>Task Phases I think there should be couple phases for the tasks starting with deciding what the task is and how indepth it will be. Next, we should decide which part of the website the task belongs to, is it part fo the main home page or is it part of an external link? Once that&amp;rsquo;s figured out that will determine who it goes to and they can begin to work on it.</description>
+>>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
     </item>
     <item>
       <title>Presentation_lewis_grant</title>
@@ -559,7 +570,11 @@
       <link>//localhost:1313/posts/content_kemper_lea/</link>
       <pubDate>Tue, 10 Sep 2024 10:11:20 -0400</pubDate>
       <guid>//localhost:1313/posts/content_kemper_lea/</guid>
+<<<<<<< HEAD
       <description>What is Content? Content is created in an editorial process and designed for human consumption. In the editorial process, content is often influenced by the creators&amp;rsquo; vision, voice, and guidelines of the platform or organization, in order to convey a certain message. I post content for the Tattoo parlor I work for. I use Instagram, Facebook, and our website to distribute pictures, videos, and announcements. To keep up to date with trends I regularly consume content from other tattoo artist posts.</description>
+=======
+      <description>##What is Content?&#xA;Content is created in an editorial process and designed for human consumption. In the editorial process, content is often influenced by the creators&amp;rsquo; vision, voice, and guidelines of the platform or organization, in order to convey a certain message. I post content for the Tattoo parlor I work for. I use Instagram, Facebook, and our website to distribute pictures, videos, and announcements. To keep up to date with trends I regularly consume content from other tattoo artist posts.</description>
+>>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
     </item>
     <item>
       <title>What is **Content**? - Omari</title>

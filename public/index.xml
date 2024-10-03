@@ -6,6 +6,7 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 03 Oct 2024 11:22:45 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -147,6 +148,16 @@
       <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
       <guid>//localhost:1313/posts/workflow_mccoy_hayes/</guid>
       <description>Phases a Task Should Pass Through Before any piece of content gets published, it should be throughly gone over until it is determined complete. Below is an idea of my on how we could structure these phases:&#xA;Planning Phase We need to define our goals. We need to get input from our peers and client. We need to see what we have to work with, and overview what is already there.</description>
+=======
+    <lastBuildDate>Wed, 02 Oct 2024 23:48:14 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow Proposal</title>
+      <link>//localhost:1313/posts/workflow_livingston_chauncey/</link>
+      <pubDate>Wed, 02 Oct 2024 23:48:14 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_livingston_chauncey/</guid>
+      <description>Task Phases I think there should be couple phases for the tasks starting with deciding what the task is and how indepth it will be. Next, we should decide which part of the website the task belongs to, is it part fo the main home page or is it part of an external link? Once that&amp;rsquo;s figured out that will determine who it goes to and they can begin to work on it.</description>
+>>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
     </item>
     <item>
       <title>workflow_chen_ricky</title>
@@ -566,7 +577,11 @@
       <link>//localhost:1313/posts/content_kemper_lea/</link>
       <pubDate>Tue, 10 Sep 2024 10:11:20 -0400</pubDate>
       <guid>//localhost:1313/posts/content_kemper_lea/</guid>
+<<<<<<< HEAD
       <description>What is Content? Content is created in an editorial process and designed for human consumption. In the editorial process, content is often influenced by the creators&amp;rsquo; vision, voice, and guidelines of the platform or organization, in order to convey a certain message. I post content for the Tattoo parlor I work for. I use Instagram, Facebook, and our website to distribute pictures, videos, and announcements. To keep up to date with trends I regularly consume content from other tattoo artist posts.</description>
+=======
+      <description>##What is Content?&#xA;Content is created in an editorial process and designed for human consumption. In the editorial process, content is often influenced by the creators&amp;rsquo; vision, voice, and guidelines of the platform or organization, in order to convey a certain message. I post content for the Tattoo parlor I work for. I use Instagram, Facebook, and our website to distribute pictures, videos, and announcements. To keep up to date with trends I regularly consume content from other tattoo artist posts.</description>
+>>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
     </item>
     <item>
       <title>What is **Content**? - Omari</title>
