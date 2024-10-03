@@ -6,9 +6,15 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-<<<<<<< Updated upstream
-    <lastBuildDate>Tue, 01 Oct 2024 04:10:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 23:48:14 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow Proposal</title>
+      <link>//localhost:1313/posts/workflow_livingston_chauncey/</link>
+      <pubDate>Wed, 02 Oct 2024 23:48:14 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_livingston_chauncey/</guid>
+      <description>Task Phases I think there should be couple phases for the tasks starting with deciding what the task is and how indepth it will be. Next, we should decide which part of the website the task belongs to, is it part fo the main home page or is it part of an external link? Once that&amp;rsquo;s figured out that will determine who it goes to and they can begin to work on it.</description>
+    </item>
     <item>
       <title>Presentation_lewis_grant</title>
       <link>//localhost:1313/posts/presentation_lewis_grant/</link>
@@ -135,21 +141,6 @@
       <guid>//localhost:1313/posts/presentation_nguyen_nhi/</guid>
       <description>Presentation The definition of this concept is &amp;ldquo;Content from its aesthetic surroundings, so the &amp;lsquo;presentation&amp;rsquo; is the use of colors, fonts, etc.&amp;rdquo; (Barker, 2016)&#xA;In other words, the explanation for this concept is &amp;ldquo;The presentation refers to how content is visually framed and displayed but the content remains the same.&amp;rdquo;&#xA;Example One example I use is Instagram’s dark mode. Instagram allows users to change between a light mode and a dark mode, where the background switches to black, and fonts and icons adjust to maintain visibility.</description>
     </item>
-=======
-    <lastBuildDate>Mon, 30 Sep 2024 22:25:58 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Defining Presentation</title>
-      <link>http://localhost:1313/posts/presentation_livingston_chauncey/</link>
-      <pubDate>Mon, 30 Sep 2024 22:25:58 -0400</pubDate>
-      
-      <guid>http://localhost:1313/posts/presentation_livingston_chauncey/</guid>
-      <description>What is Presentation and what does it look like? Usually associated with content, but the two of them work hand in hand. Content is the information that is being communicated, and presentation is how it is displayed. A recent example of this is found within Apple&amp;rsquo;s new ios 18 where users can now use a dark mode on their home screens. This new feature alters the look of your apps and home screen, but all of the data and information you are seeing is the same.</description>
-      <content>&lt;h2 id=&#34;what-is-presentation-and-what-does-it-look-like&#34;&gt;What is Presentation and what does it look like?&lt;/h2&gt;
-&lt;p&gt;Usually associated with &lt;a href=&#34;https://ict302fall24.netlify.app/posts/content_livingston_chauncey/&#34;&gt;content&lt;/a&gt;, but the two of them work hand in hand. Content is the information that is being communicated, and presentation is how it is displayed. A recent example of this is found within Apple&amp;rsquo;s new &lt;a href=&#34;https://medium.com/@GuillemBruix/design-your-dark-and-tinted-versions-of-your-app-icon-for-ios-18-827444a31851&#34;&gt;ios 18&lt;/a&gt; where users can now use a dark mode on their home screens. This new feature alters the look of your apps and home screen, but all of the data and information you are seeing is the same.&lt;/p&gt;
-</content>
-    </item>
-    
->>>>>>> Stashed changes
     <item>
       <title>Aggregation_lewis_grant</title>
       <link>//localhost:1313/posts/aggregation_lewis_grant/</link>
