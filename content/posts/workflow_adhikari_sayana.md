@@ -4,7 +4,7 @@ date = 2024-10-02T19:59:53-04:00
 draft = false
 author= "Sayana Adhikari"
 categories= "workflow proposal"
-tags=["workflow proposal"]
+tags=["workflow"]
 +++
 **Workflow Phases:**
 
