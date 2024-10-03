@@ -10,7 +10,7 @@ tags=["workflow"]
 **Workflow Phases:**
 
 Plannig Phase:
-In this phase, the task is clearly defined. The goals, deadlines, and required deliverables are identified. Roles are assigned to classmates, and expectations are set.
+In this phase,the task is clearly defined. The goals, deadlines, and required deliverables are identified. Roles are assigned to classmates, and expectations are set.
 
 Creating Phase:
 In this phase we produce the content itself, whether it's writing, designing visuals, or creating multimedia.
@@ -34,7 +34,7 @@ Task Manager:
 Responsible for overseeing the entire process for a specific task. The Task Manager ensures deadlines are met and the content moves through each phase smoothly. This role can be assigned at the start of each task or can rotate as needed.
 
 Content Creator:
-The person (or team) responsible for producing the actual content. This role can be assigned permanently or handled "on the fly" depending on the needs of the task.
+The person(or team) responsible for producing the actual content. This role can be assigned permanently or handled "on the fly" depending on the needs of the task.
 
 Reviewer:
 Provides feedback on content created by others. Reviewers check for accuracy, quality, and adherence to guidelines. Any classmate can take on this role as needed.
