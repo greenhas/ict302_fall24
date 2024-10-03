@@ -7,7 +7,8 @@ categories= "workflow proposal"
 tags=["workflow"]
 +++
 
-**Workflow Phases:**
+**WORKFLOW PHASES:**
+
 
 **Plannig Phase:**
 In this phase,the task is clearly defined. The goals, deadlines, and required deliverables are identified. Roles are assigned to classmates, and expectations are set.
@@ -28,7 +29,8 @@ Once revisions are complete, the content is checked one last time by the Task Ma
 In this final phase, the content is published or distributed to the intended audience. 
 
 
-**Class Roles:**
+**CLASS ROLES:**
+
 
 **Task Manager:**
 Responsible for overseeing the entire process for a specific task. The Task Manager ensures deadlines are met and the content moves through each phase smoothly. This role can be assigned at the start of each task or can rotate as needed.
