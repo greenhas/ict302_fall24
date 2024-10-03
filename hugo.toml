@@ -19,5 +19,5 @@ theme = 'Mainroad-master'
     weight = 20
   [[menus.main]]
     name = 'Workflow Proposals'
-    pageRef = '/categories/workflow-proposals'
+    pageRef = 'https://ict302fall24.netlify.app/categories/workflow-proposal/'
     weight = 30
