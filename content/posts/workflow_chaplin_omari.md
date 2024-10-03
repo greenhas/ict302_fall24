@@ -1,18 +1,10 @@
-
 +++
-
-title = 'Workflow- Omari'
-
-date = 2024-10-2
-
-draft = false
-
+title = 'How Can We Effectively Manage Our Content? - Omari'
+date = 2024-10-02T10:26:39-04:00
+author = "Omari Chaplin"
 categories = ["workflow proposal"]
-
-tags = ["Presentation", "Omari"]
-
-tags_weight = 22
-
+tags = ["workflow"]
+draft = false
 +++
 
   
