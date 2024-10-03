@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/author/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/henry-bryant/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-10-01T04:10:52-04:00</lastmod>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-10-01T04:10:52-04:00</lastmod>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/wordpress/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/workflow/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/workflow-proposal/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/workflow_bryant_henry/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_lewis_grant/</loc>
     <lastmod>2024-10-01T04:10:52-04:00</lastmod>
@@ -14,13 +38,7 @@
     <loc>//localhost:1313/posts/presentation_parsons_ben/</loc>
     <lastmod>2024-10-01T00:46:08-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/</loc>
-    <lastmod>2024-10-01T00:09:25-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/author/avery-mason/</loc>
-    <lastmod>2024-10-01T00:09:25-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-10-01T00:09:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/presentation/</loc>
@@ -30,9 +48,6 @@
     <lastmod>2024-10-01T00:09:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_mason_avery/</loc>
-    <lastmod>2024-10-01T00:09:25-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-10-01T00:09:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/youtube/</loc>
@@ -156,9 +171,6 @@
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/content/</loc>
-    <lastmod>2024-09-24T10:52:17-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/henry-bryant/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_bryant_henry/</loc>
