@@ -1,5 +1,5 @@
 +++
-title = 'How Can We Effectively Manage Our Content? - Omari'
+title = "How Can We Effectively Manage Our Content? - Omari"
 date = 2024-10-02T10:26:39-04:00
 author = "Omari Chaplin"
 categories = ["workflow proposal"]
