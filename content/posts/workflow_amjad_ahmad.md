@@ -1,12 +1,11 @@
 +++
-title = 'Workflow (Ahmad)'
+title = 'Workflow'
 date = 2024-10-02
-draft = false
 author = "Ahmad"
 categories = ["workflow proposal"]
-tags = ["workflow"]
+draft = false
 +++
-
+## Order
 1, Determine goals
 
 2, Make schedule and set tasks, like a roadmap
@@ -25,4 +24,5 @@ tags = ["workflow"]
 
 9, Finish 
 
-Some roles are owner, co-owner, leader, worker, and manager
+## Some roles
+Owner, co-owner, leader, worker, and manager

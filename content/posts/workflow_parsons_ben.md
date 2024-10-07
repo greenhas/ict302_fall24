@@ -1,8 +1,8 @@
 +++
 title = 'Workflow by Ben Parsons'
 date = 2024-10-02T15:13:06-04:00
-draft = False 
-Author = Ben Parsons
+draft = false 
+author = "Ben Parsons"
 categories = ["workflow proposal"]
 tags = ["workflow", "GMS project"]
 +++

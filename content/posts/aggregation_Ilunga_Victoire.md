@@ -2,6 +2,9 @@
 title = 'Aggregation_Ilunga_Victoire'
 date = 2024-09-24T11:01:18-04:00
 draft = false
+author = "Ilunga Victoire"
+categories = ["aggregation definition"]
+tags = ["CNN,News"]
 +++
 
 # Understanding Content Aggregation
