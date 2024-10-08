@@ -6,12 +6,33 @@
     <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2024 20:38:39 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 10:54:55 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementation Proposal</title>
+      <link>//localhost:1313/categories/implementation-proposal/</link>
+      <pubDate>Tue, 08 Oct 2024 10:54:55 -0400</pubDate>
+      <guid>//localhost:1313/categories/implementation-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management</title>
+      <link>//localhost:1313/categories/content-management/</link>
+      <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management Definition</title>
+      <link>//localhost:1313/categories/content-management-definition/</link>
+      <pubDate>Thu, 03 Oct 2024 10:55:07 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-definition/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Workflow Proposal</title>
       <link>//localhost:1313/categories/workflow-proposal/</link>
-      <pubDate>Wed, 02 Oct 2024 20:38:39 -0400</pubDate>
+      <pubDate>Wed, 02 Oct 2024 23:48:14 -0400</pubDate>
       <guid>//localhost:1313/categories/workflow-proposal/</guid>
       <description></description>
     </item>

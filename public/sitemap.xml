@@ -2,8 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/author/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/henry-bryant/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/implementation/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/implementation-proposal/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/implementation_bryant_henry/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/wordpress/</loc>
+    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/chen/</loc>
     <lastmod>2024-10-03T11:22:45-04:00</lastmod>
@@ -14,23 +41,23 @@
     <loc>//localhost:1313/tags/deane-barker/</loc>
     <lastmod>2024-10-03T11:22:45-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/management_chen_ricky/</loc>
     <lastmod>2024-10-03T11:22:45-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/news/</loc>
     <lastmod>2024-10-03T11:22:45-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+    <loc>//localhost:1313/tags/content/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+    <loc>//localhost:1313/tags/content-management/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/</loc>
-    <lastmod>2024-10-03T00:51:32-04:00</lastmod>
+    <loc>//localhost:1313/categories/content-management-definition/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_bryant_henry/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/canva/</loc>
     <lastmod>2024-10-03T00:51:32-04:00</lastmod>
@@ -164,9 +191,6 @@
     <loc>//localhost:1313/posts/workflow_mccoy_hayes/</loc>
     <lastmod>2024-10-01T14:06:28-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/wordpress/</loc>
-    <lastmod>2024-10-01T12:16:55-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/workflow_chen_ricky/</loc>
     <lastmod>2024-10-01T12:16:55-04:00</lastmod>
   </url><url>
@@ -184,9 +208,6 @@
   </url><url>
     <loc>//localhost:1313/posts/presentation_hotko_aj/</loc>
     <lastmod>2024-10-01T10:43:03-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/henry-bryant/</loc>
-    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/workflow_bryant_henry/</loc>
     <lastmod>2024-10-01T10:42:55-04:00</lastmod>
@@ -303,9 +324,6 @@
     <lastmod>2024-09-24T10:56:37-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/accessibility/</loc>
-    <lastmod>2024-09-24T10:52:17-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/content/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_bryant_henry/</loc>
@@ -511,6 +529,9 @@
   </url><url>
     <loc>//localhost:1313/posts/content_nguyen_nhi/</loc>
     <lastmod>2024-09-05T11:18:41-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/colibri/</loc>
+    <lastmod>2024-09-05T11:17:40-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/content_chen_ricky/</loc>
     <lastmod>2024-09-05T11:17:40-04:00</lastmod>
