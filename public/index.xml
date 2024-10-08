@@ -6,8 +6,15 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 10:55:11 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 11:20:07 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMS_bryant_henry</title>
+      <link>//localhost:1313/posts/cms_bryant_henry/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_bryant_henry/</guid>
+      <description>What is a Content Management System? In Web Content Management, author Deane Barker defines a content management system (CMS) as a &amp;ldquo;software system that automates the tasks around the management of content&amp;rdquo;. CMSs help content editors with &amp;ldquo;controlling, securing, and ultimately delivering content&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that a content management system is a technology that allows a webmaster, website creator, or website administrator to create content and display it to users.</description>
+    </item>
     <item>
       <title>Implementation_chen_ricky</title>
       <link>//localhost:1313/posts/implementation_chen_ricky/</link>
