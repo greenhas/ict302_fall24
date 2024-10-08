@@ -8,7 +8,7 @@ draft = false
 	author = "Hayes McCoy"
 	
 	categories = ['content management']
-	
+	 
 	show_reading_time = true
 
 	tags = ['content management', 'mccoy', 'hayes']

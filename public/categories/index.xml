@@ -6,8 +6,15 @@
     <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 20:13:26 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Management</title>
+      <link>//localhost:1313/categories/content-management/</link>
+      <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Workflow Proposal</title>
       <link>//localhost:1313/categories/workflow-proposal/</link>
