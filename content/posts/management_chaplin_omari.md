@@ -3,7 +3,7 @@ title = "What is Content Management?- Omari"
 date = 2024-10-07T10:26:39-04:00
 author = "Omari Chaplin"
 categories = ["content management"]
-tags = ["management"]
+tags = ["content management"]
 draft = false
 +++
 
