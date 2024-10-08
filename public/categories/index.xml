@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on ICT 302 Fall 24</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 01 Oct 2024 14:06:28 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,6 +13,13 @@
       <link>//localhost:1313/categories/workflow-proposal/</link>
       <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
       <guid>//localhost:1313/categories/workflow-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation Definition</title>
+      <link>//localhost:1313/categories/presentation-definition/</link>
+      <pubDate>Tue, 01 Oct 2024 10:43:03 -0400</pubDate>
+      <guid>//localhost:1313/categories/presentation-definition/</guid>
       <description></description>
     </item>
     <item>
@@ -35,13 +41,6 @@
       <link>//localhost:1313/categories/documentation/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/categories/documentation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Presentation Definition</title>
-      <link>//localhost:1313/categories/presentation-definition/</link>
-      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>//localhost:1313/categories/presentation-definition/</guid>
       <description></description>
     </item>
     <item>
@@ -79,8 +78,5 @@
       <guid>//localhost:1313/categories/first-post/</guid>
       <description></description>
     </item>
-=======
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 6764c4aa44db13c791f4f72b49d03ed1d21ebdc3
   </channel>
 </rss>
