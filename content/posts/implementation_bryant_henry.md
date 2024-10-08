@@ -1,7 +1,7 @@
 +++
 title = 'implementation_bryant_henry'
 date = 2024-10-08T10:54:55-04:00
-draft = true
+draft = false
 author = "Henry Bryant"
 categories = ["implementation proposal"]
 tags = ["implementation", "wordpress"]
