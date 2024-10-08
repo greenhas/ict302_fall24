@@ -1,6 +1,6 @@
 +++
 title = 'Managament'
-date = 2024-10-7
+date = 2024-10-07T20:13:26-04:00
 draft = false
 author = "Ahmad"
 tags = ["Managament"]

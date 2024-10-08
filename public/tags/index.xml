@@ -23,6 +23,13 @@
       <description></description>
     </item>
     <item>
+      <title>Managament</title>
+      <link>//localhost:1313/tags/managament/</link>
+      <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
+      <guid>//localhost:1313/tags/managament/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mccoy</title>
       <link>//localhost:1313/tags/mccoy/</link>
       <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
@@ -34,6 +41,13 @@
       <link>//localhost:1313/tags/management/</link>
       <pubDate>Fri, 04 Oct 2024 10:26:39 -0400</pubDate>
       <guid>//localhost:1313/tags/management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
+      <link>//localhost:1313/tags/workflow/</link>
+      <pubDate>Thu, 03 Oct 2024 22:33:35 -0400</pubDate>
+      <guid>//localhost:1313/tags/workflow/</guid>
       <description></description>
     </item>
     <item>
@@ -72,10 +86,45 @@
       <description></description>
     </item>
     <item>
+      <title>Ilunga</title>
+      <link>//localhost:1313/tags/ilunga/</link>
+      <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
+      <guid>//localhost:1313/tags/ilunga/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Presentation</title>
       <link>//localhost:1313/tags/presentation/</link>
       <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
       <guid>//localhost:1313/tags/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GMS Project</title>
+      <link>//localhost:1313/tags/gms-project/</link>
+      <pubDate>Wed, 02 Oct 2024 15:13:06 -0400</pubDate>
+      <guid>//localhost:1313/tags/gms-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canvas</title>
+      <link>//localhost:1313/tags/canvas/</link>
+      <pubDate>Wed, 02 Oct 2024 13:48:02 -0400</pubDate>
+      <guid>//localhost:1313/tags/canvas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proposal</title>
+      <link>//localhost:1313/tags/proposal/</link>
+      <pubDate>Wed, 02 Oct 2024 00:09:25 -0400</pubDate>
+      <guid>//localhost:1313/tags/proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>//localhost:1313/tags/wordpress/</link>
+      <pubDate>Tue, 01 Oct 2024 12:16:55 -0400</pubDate>
+      <guid>//localhost:1313/tags/wordpress/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +139,6 @@
       <link>//localhost:1313/tags/apple/</link>
       <pubDate>Mon, 30 Sep 2024 22:25:58 -0400</pubDate>
       <guid>//localhost:1313/tags/apple/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Canvas</title>
-      <link>//localhost:1313/tags/canvas/</link>
-      <pubDate>Mon, 30 Sep 2024 12:47:55 -0400</pubDate>
-      <guid>//localhost:1313/tags/canvas/</guid>
       <description></description>
     </item>
     <item>
@@ -242,7 +284,7 @@
     <item>
       <title>User-Generated Content</title>
       <link>//localhost:1313/tags/user-generated-content/</link>
-      <pubDate>Tue, 10 Sep 2024 10:24:07 -0400</pubDate>
+      <pubDate>Tue, 10 Sep 2024 10:26:39 -0400</pubDate>
       <guid>//localhost:1313/tags/user-generated-content/</guid>
       <description></description>
     </item>
