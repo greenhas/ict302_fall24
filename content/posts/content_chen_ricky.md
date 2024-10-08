@@ -3,7 +3,7 @@ title = 'Content_chen_ricky'
 date = 2024-09-05T11:17:40-04:00
 draft = false
 author = "Ricky Chen"
-tags = ["Deane Barker","Real Estate","Chen"]
+tags = ["Deane Barker","Real Estate","Colibri"]
 categories = ["content definition"]
 +++
 
