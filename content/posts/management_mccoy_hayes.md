@@ -22,7 +22,7 @@ organizing, securing, reviewing, approving, publishing, and delivering content."
 
 ---
 
-## What Is Content Management To Me??
+## What Is Content Management To Me?
 
 To me, content management is the way that content is planned, organized, structured, edited, and delivered.
 Content management, essentially, is just managing content. 
