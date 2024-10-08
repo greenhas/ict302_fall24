@@ -1,11 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on ICT 302 Fall 24</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Oct 2024 10:55:11 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementation</title>
+      <link>//localhost:1313/categories/implementation/</link>
+      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
+      <guid>//localhost:1313/categories/implementation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management</title>
+      <link>//localhost:1313/categories/content-management/</link>
+      <pubDate>Tue, 08 Oct 2024 00:30:02 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Management Definition</title>
+      <link>//localhost:1313/categories/management-definition/</link>
+      <pubDate>Mon, 07 Oct 2024 12:30:02 -0400</pubDate>
+      <guid>//localhost:1313/categories/management-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow Proposal</title>
+      <link>//localhost:1313/categories/workflow-proposal/</link>
+      <pubDate>Thu, 03 Oct 2024 22:33:35 -0400</pubDate>
+      <guid>//localhost:1313/categories/workflow-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management Definition</title>
+      <link>//localhost:1313/categories/content-management-definition/</link>
+      <pubDate>Thu, 03 Oct 2024 10:55:07 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMS Definition</title>
+      <link>//localhost:1313/categories/cms-definition/</link>
+      <pubDate>Wed, 02 Oct 2024 10:28:01 -0400</pubDate>
+      <guid>//localhost:1313/categories/cms-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation Definition</title>
+      <link>//localhost:1313/categories/presentation-definition/</link>
+      <pubDate>Tue, 01 Oct 2024 10:43:03 -0400</pubDate>
+      <guid>//localhost:1313/categories/presentation-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>//localhost:1313/categories/presentation/</link>
+      <pubDate>Tue, 01 Oct 2024 00:09:25 -0400</pubDate>
+      <guid>//localhost:1313/categories/presentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Definition</title>
+      <link>//localhost:1313/categories/definition/</link>
+      <pubDate>Mon, 30 Sep 2024 19:51:12 -0400</pubDate>
+      <guid>//localhost:1313/categories/definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>//localhost:1313/categories/documentation/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Aggregation</title>
+      <link>//localhost:1313/categories/content-aggregation/</link>
+      <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
+      <guid>//localhost:1313/categories/content-aggregation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aggregation Definition</title>
+      <link>//localhost:1313/categories/aggregation-definition/</link>
+      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
+      <guid>//localhost:1313/categories/aggregation-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UGC Definition</title>
+      <link>//localhost:1313/categories/ugc-definition/</link>
+      <pubDate>Mon, 16 Sep 2024 23:18:45 -0400</pubDate>
+      <guid>//localhost:1313/categories/ugc-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Definition</title>
+      <link>//localhost:1313/categories/content-definition/</link>
+      <pubDate>Mon, 09 Sep 2024 11:17:40 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/categories/first-post/</link>
+      <pubDate>Thu, 05 Sep 2024 09:49:58 -0400</pubDate>
+      <guid>//localhost:1313/categories/first-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
