@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/posts/cms_chen_ricky/</loc>
+    <lastmod>2024-10-08T11:15:52-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-08T11:15:52-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-10-08T11:15:52-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/author/</loc>
     <lastmod>2024-10-08T10:54:55-04:00</lastmod>
   </url><url>
@@ -11,8 +20,28 @@
     <loc>//localhost:1313/author/henry-bryant/</loc>
     <lastmod>2024-10-08T10:54:55-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+    <loc>//localhost:1313/categories/implementation/</loc>
+    <lastmod>2024-10-08T10:55:11-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/implementation_chen_ricky/</loc>
+    <lastmod>2024-10-08T10:55:11-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/ricky-chen/</loc>
+    <lastmod>2024-10-08T10:55:11-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-10-08T10:55:11-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/wordpress/</loc>
+    <lastmod>2024-10-08T10:55:11-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/workflow/</loc>
+    <lastmod>2024-10-08T10:55:11-04:00</lastmod>
+=======
     <loc>//localhost:1313/</loc>
     <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+>>>>>>> 2b80a49e9f51a3d559d9effa68f4fd77fe2d0e71
   </url><url>
     <loc>//localhost:1313/tags/implementation/</loc>
     <lastmod>2024-10-08T10:54:55-04:00</lastmod>
