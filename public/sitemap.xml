@@ -35,29 +35,86 @@
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-10-07T20:13:26-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/management_harp_mauricio/</loc>
+    <lastmod>2024-10-07T19:08:19-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/mauricio-harp/</loc>
+    <lastmod>2024-10-07T19:08:19-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/management/</loc>
+    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_nguyen_nhi/</loc>
+    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/nhi-nguyen/</loc>
+    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/chen/</loc>
+    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/deane-barker/</loc>
+    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_chen_ricky/</loc>
+    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/news/</loc>
+    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/content/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/content-management-definition/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/henry-bryant/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_bryant_henry/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/canva/</loc>
+    <lastmod>2024-10-03T00:51:32-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/ilunga-victoire/</loc>
+    <lastmod>2024-10-03T00:51:32-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/presentation/</loc>
+    <lastmod>2024-10-03T00:51:32-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/presentation_ilunga_victoire/</loc>
+    <lastmod>2024-10-03T00:51:32-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/presentation_ilunga_victoire2/</loc>
+    <lastmod>2024-10-03T00:51:32-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/bryan-coleman/</loc>
+    <lastmod>2024-10-02T10:28:01-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/cms-definition/</loc>
+    <lastmod>2024-10-02T10:28:01-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/cms_coleman_bryan/</loc>
+    <lastmod>2024-10-02T10:28:01-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/management-definition/</loc>
+    <lastmod>2024-10-02T10:16:53-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_coleman_bryan/</loc>
+    <lastmod>2024-10-02T10:16:53-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/presentation_kemper_lea/</loc>
     <lastmod>2024-10-01T15:32:09-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/aggregation_kemper_lea/</loc>
     <lastmod>2024-10-01T15:29:55-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/ugc_kemper_lea/</loc>
-    <lastmod>2024-10-01T15:22:56-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/workflow/</loc>
-    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/workflow-proposal/</loc>
-    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/workflow_mccoy_hayes/</loc>
-    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/workflow_chen_ricky/</loc>
-    <lastmod>2024-10-01T12:16:55-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/presentation_harp_mauricio/</loc>
     <lastmod>2024-10-01T11:07:09-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/presentstion_kapanga_rael/</loc>
+    <lastmod>2024-10-01T10:54:50-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/author/aj-hotko/</loc>
     <lastmod>2024-10-01T10:43:03-04:00</lastmod>
@@ -68,21 +125,6 @@
     <loc>//localhost:1313/posts/presentation_hotko_aj/</loc>
     <lastmod>2024-10-01T10:43:03-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/henry-bryant/</loc>
-    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/wordpress/</loc>
-    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/workflow_bryant_henry/</loc>
-    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/nhi-nguyen/</loc>
-    <lastmod>2024-10-01T10:26:39-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/workflow_nguyen_nhi/</loc>
-    <lastmod>2024-10-01T10:26:39-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/presentation_lewis_grant/</loc>
     <lastmod>2024-10-01T04:10:52-04:00</lastmod>
   </url><url>
@@ -90,9 +132,6 @@
     <lastmod>2024-10-01T00:46:08-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/author/avery-mason/</loc>
-    <lastmod>2024-10-01T00:09:25-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/presentation/</loc>
     <lastmod>2024-10-01T00:09:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/presentation/</loc>
@@ -197,10 +236,16 @@
     <loc>//localhost:1313/posts/presentation_donnelly_matthew/</loc>
     <lastmod>2024-09-25T13:24:37-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/aggregation-definition/</loc>
+    <lastmod>2024-09-24T11:01:18-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/aggregation_ilunga_victoire/</loc>
     <lastmod>2024-09-24T11:01:18-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/aggregation_ilunga_victoire2/</loc>
+    <lastmod>2024-09-24T11:01:18-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cnnnews/</loc>
     <lastmod>2024-09-24T11:01:18-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/ilunga-victoire-post/</loc>
@@ -209,17 +254,11 @@
     <loc>//localhost:1313/tags/accessibility/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/content/</loc>
-    <lastmod>2024-09-24T10:52:17-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/presentation_bryant_henry/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/twitter/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/deane-barker/</loc>
-    <lastmod>2024-09-24T10:51:28-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_chen_ricky/</loc>
     <lastmod>2024-09-24T10:51:28-04:00</lastmod>
@@ -239,9 +278,6 @@
     <loc>//localhost:1313/posts/aggregation_mason_avery/</loc>
     <lastmod>2024-09-23T21:46:43-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/aggregation-definition/</loc>
-    <lastmod>2024-09-23T21:34:00-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/aggregation_donnelly_matthew/</loc>
     <lastmod>2024-09-23T21:34:00-04:00</lastmod>
   </url><url>
@@ -257,9 +293,6 @@
     <loc>//localhost:1313/posts/aggregation_harp_mauricio/</loc>
     <lastmod>2024-09-23T16:08:32-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/mauricio-harp/</loc>
-    <lastmod>2024-09-23T16:08:32-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/aggregation_myers_albert/</loc>
     <lastmod>2024-09-23T12:13:27-04:00</lastmod>
   </url><url>
@@ -272,20 +305,11 @@
     <loc>//localhost:1313/posts/aggregation_mccoy_hayes/</loc>
     <lastmod>2024-09-22T17:44:47-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/bryan-coleman/</loc>
-    <lastmod>2024-09-21T10:05:25-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/presentation_coleman_bryan/</loc>
     <lastmod>2024-09-21T10:05:25-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/aggregation_adhikari_sayana/</loc>
     <lastmod>2024-09-20T19:36:25-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_ilunga_victoire/</loc>
-    <lastmod>2024-09-19T23:09:07-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_hotko_aj/</loc>
-    <lastmod>2024-09-19T15:39:43-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/ugc/</loc>
     <lastmod>2024-09-19T14:23:32-04:00</lastmod>
@@ -298,12 +322,6 @@
   </url><url>
     <loc>//localhost:1313/posts/content_ilunga_victoire_post/</loc>
     <lastmod>2024-09-19T10:19:24-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_lewis_grant/</loc>
-    <lastmod>2024-09-17T15:23:23-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_harp_mauricio/</loc>
-    <lastmod>2024-09-17T15:23:23-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/content_harp_mauricio/</loc>
     <lastmod>2024-09-17T10:58:35-04:00</lastmod>
@@ -326,32 +344,11 @@
     <loc>//localhost:1313/tags/google/</loc>
     <lastmod>2024-09-17T10:51:44-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/news/</loc>
-    <lastmod>2024-09-17T10:51:44-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/aggregation_nguyen_nhi/</loc>
     <lastmod>2024-09-17T10:26:39-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/ugc_chaplin_omari/</loc>
     <lastmod>2024-09-17T04:50:12+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_myers_albert/</loc>
-    <lastmod>2024-09-17T00:27:04-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/ugc-definition/</loc>
-    <lastmod>2024-09-16T23:18:45-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_donnelly_matthew/</loc>
-    <lastmod>2024-09-16T23:18:45-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_mccoy_hayes/</loc>
-    <lastmod>2024-09-16T20:05:58-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_mason_avery/</loc>
-    <lastmod>2024-09-16T16:36:09-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_livingston_chauncey/</loc>
-    <lastmod>2024-09-16T16:33:21-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/ugc_amjad_ahmad/</loc>
     <lastmod>2024-09-16T09:59:49-04:00</lastmod>
@@ -359,16 +356,13 @@
     <loc>//localhost:1313/posts/aggregation_coleman_bryan/</loc>
     <lastmod>2024-09-12T12:37:01-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/ugc_coleman_bryan/</loc>
-    <lastmod>2024-09-11T10:28:17-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/ugc_nguyen_nhi/</loc>
-    <lastmod>2024-09-10T10:26:39-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/user-generated-content/</loc>
-    <lastmod>2024-09-10T10:26:39-04:00</lastmod>
+    <loc>//localhost:1313/categories/ugc-definition/</loc>
+    <lastmod>2024-09-10T10:24:07-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/ugc_bryant_henry/</loc>
+    <lastmod>2024-09-10T10:24:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/user-generated-content/</loc>
     <lastmod>2024-09-10T10:24:07-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/amazon/</loc>
@@ -497,6 +491,6 @@
     <loc>//localhost:1313/posts/mccoy-first-post/</loc>
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/postsn/</loc>
+    <loc>//localhost:1313/posts/management_kirkpatrick_sam/</loc>
   </url>
 </urlset>

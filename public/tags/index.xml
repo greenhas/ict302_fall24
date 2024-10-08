@@ -30,23 +30,51 @@
       <description></description>
     </item>
     <item>
-      <title>Workflow</title>
-      <link>//localhost:1313/tags/workflow/</link>
-      <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
-      <guid>//localhost:1313/tags/workflow/</guid>
+      <title>Management</title>
+      <link>//localhost:1313/tags/management/</link>
+      <pubDate>Fri, 04 Oct 2024 10:26:39 -0400</pubDate>
+      <guid>//localhost:1313/tags/management/</guid>
       <description></description>
     </item>
     <item>
-      <title>Wordpress</title>
-      <link>//localhost:1313/tags/wordpress/</link>
-      <pubDate>Tue, 01 Oct 2024 10:42:55 -0400</pubDate>
-      <guid>//localhost:1313/tags/wordpress/</guid>
+      <title>Chen</title>
+      <link>//localhost:1313/tags/chen/</link>
+      <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
+      <guid>//localhost:1313/tags/chen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deane Barker</title>
+      <link>//localhost:1313/tags/deane-barker/</link>
+      <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
+      <guid>//localhost:1313/tags/deane-barker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>//localhost:1313/tags/news/</link>
+      <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
+      <guid>//localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>//localhost:1313/tags/content/</link>
+      <pubDate>Thu, 03 Oct 2024 10:55:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canva</title>
+      <link>//localhost:1313/tags/canva/</link>
+      <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
+      <guid>//localhost:1313/tags/canva/</guid>
       <description></description>
     </item>
     <item>
       <title>Presentation</title>
       <link>//localhost:1313/tags/presentation/</link>
-      <pubDate>Tue, 01 Oct 2024 00:09:25 -0400</pubDate>
+      <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
       <guid>//localhost:1313/tags/presentation/</guid>
       <description></description>
     </item>
@@ -135,6 +163,13 @@
       <description></description>
     </item>
     <item>
+      <title>CNN,News</title>
+      <link>//localhost:1313/tags/cnnnews/</link>
+      <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
+      <guid>//localhost:1313/tags/cnnnews/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Accessibility</title>
       <link>//localhost:1313/tags/accessibility/</link>
       <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
@@ -142,24 +177,10 @@
       <description></description>
     </item>
     <item>
-      <title>Content</title>
-      <link>//localhost:1313/tags/content/</link>
-      <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
-      <guid>//localhost:1313/tags/content/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Twitter</title>
       <link>//localhost:1313/tags/twitter/</link>
       <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
       <guid>//localhost:1313/tags/twitter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deane Barker</title>
-      <link>//localhost:1313/tags/deane-barker/</link>
-      <pubDate>Tue, 24 Sep 2024 10:51:28 -0400</pubDate>
-      <guid>//localhost:1313/tags/deane-barker/</guid>
       <description></description>
     </item>
     <item>
@@ -219,16 +240,9 @@
       <description></description>
     </item>
     <item>
-      <title>News</title>
-      <link>//localhost:1313/tags/news/</link>
-      <pubDate>Tue, 17 Sep 2024 10:51:44 -0400</pubDate>
-      <guid>//localhost:1313/tags/news/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>User-Generated Content</title>
       <link>//localhost:1313/tags/user-generated-content/</link>
-      <pubDate>Tue, 10 Sep 2024 10:26:39 -0400</pubDate>
+      <pubDate>Tue, 10 Sep 2024 10:24:07 -0400</pubDate>
       <guid>//localhost:1313/tags/user-generated-content/</guid>
       <description></description>
     </item>
