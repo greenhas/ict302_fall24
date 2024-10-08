@@ -12,4 +12,4 @@ Content Management is referred to as
 Deane Barker, Flying Squirrel Glossary.* In my opinion it just means that there is information that is being organized or controlled using an editorial method.
 
 ## What does it look like?
-We see examples of content management every day, especially on social media. This [link](https://www.youtube.com/) to YouTube showcases multiple videos aka content and it is managed because it was engineered to display the content in a way that benefitsthe user.
+We see examples of content management every day, especially on social media. This [link](https://www.youtube.com/) to YouTube showcases multiple videos aka content and it is managed because it was engineered to display the content in a way that benefits the user.
