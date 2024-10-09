@@ -9,11 +9,67 @@
     <lastBuildDate>Wed, 09 Oct 2024 19:18:16 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Implementation_mccoy_hayes</title>
+      <title>Hayes McCoy: Workflow Implementation</title>
       <link>//localhost:1313/posts/implementation_mccoy_hayes/</link>
       <pubDate>Wed, 09 Oct 2024 19:18:16 -0400</pubDate>
       <guid>//localhost:1313/posts/implementation_mccoy_hayes/</guid>
-      <description>Implementing Workflows WordPress We will use WordPress for our content management&#xA;Keeping an eye on revision history and checking what has been done and what needs to be changed&#xA;You can leave comments on pages to provide feedback for these pages.&#xA;Plugins, there are so many plugins that can help you implement a workflow, there are plugins for collarboration, task management, automation, calandars, and if you can think of it there is probably a pluggin for it.</description>
+      <description>Implementing Workflows WordPress We will use WordPress for our content management&#xA;Allows us to keep an eye on revision history and check what has been done and what needs to be changed&#xA;You can leave comments on pages to provide feedback for these pages&#xA;There are so many plugins we can use to help implement a workflow, whether for collaboration, task management, automation, calandars, and more&#xA;Teams We can use Teams to communicate with each other and to collaborate</description>
+    </item>
+    <item>
+      <title>Implementation_Hotko_AJ</title>
+      <link>//localhost:1313/posts/implementation_hotko_aj/</link>
+      <pubDate>Wed, 09 Oct 2024 13:30:44 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_hotko_aj/</guid>
+      <description>Workflow Implementation The correct implementation of Wordpress and Teams will be very beneficial to our workflow. Teams will be used for gathering ideas and turning them into tasks. There could even be different chats for different roles and elements that need to be worked on so no information gets lost. Overall, teams is going to be more of an organizational and communication factor to ensure that nobody in confused on what they need to do.</description>
+    </item>
+    <item>
+      <title>Implementation_coleman_bryan</title>
+      <link>//localhost:1313/posts/implementation_coleman_bryan/</link>
+      <pubDate>Tue, 08 Oct 2024 13:19:09 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_coleman_bryan/</guid>
+      <description>We will use WordPress, Teams, and other technologies to implement our workflow by instilling a process of steps to help implement workflow. Primarily, WordPress can be used for content management as we can use this program to put each student in their chosen roles, such as an editor or project manager. We can then utilize Teams to help create communication lines between the various groups and roles as well as creating deadlines for when we need assignments completed by.</description>
+    </item>
+    <item>
+      <title>CMS_bryant_henry</title>
+      <link>//localhost:1313/posts/cms_bryant_henry/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_bryant_henry/</guid>
+      <description>What is a Content Management System? In Web Content Management, author Deane Barker defines a content management system (CMS) as a &amp;ldquo;software system that automates the tasks around the management of content&amp;rdquo;. CMSs help content editors with &amp;ldquo;controlling, securing, and ultimately delivering content&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that a content management system is a technology that allows a webmaster, website creator, or website administrator to create content and display it to users.</description>
+    </item>
+    <item>
+      <title>CMS_chen_ricky</title>
+      <link>//localhost:1313/posts/cms_chen_ricky/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_chen_ricky/</guid>
+      <description>What is Content Management System? According to Deane Barker, &amp;ldquo;A software system which autmates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.&amp;rdquo;&#xA;Barker, D.(2016). Web Content Management Glossary O&amp;rsquo;Reilly Media&#xA;To my Understanding Content management system is a platform that holds the content that people are publicly seeing. Its a easier way for people who dont know how to code to show their content on the web.</description>
+    </item>
+    <item>
+      <title>Implementation_chen_ricky</title>
+      <link>//localhost:1313/posts/implementation_chen_ricky/</link>
+      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_chen_ricky/</guid>
+      <description>How to utilize our tools First, everyone takes the roles survey and gets assigned a role they&amp;rsquo;re comfortable with&#xA;Second, with the tasks in the teams group, Dr. Greenhalgh assigns each member a task. OR every member go in the get a task they like and complete their task then move on to the next one&#xA;Third, after the task is complete, mark it complete, type a descrption or screenshot of the result and put it in Teams.</description>
+    </item>
+    <item>
+      <title>implementation_bryant_henry</title>
+      <link>//localhost:1313/posts/implementation_bryant_henry/</link>
+      <pubDate>Tue, 08 Oct 2024 10:54:55 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_bryant_henry/</guid>
+      <description>Workflow Description First, we will post the required tasks to Microsoft Teams, moving them into the &amp;ldquo;Brainstorming&amp;rdquo; section on Teams first. Once the tasks have been brainstormed, they will be assigned to the relevant teams for drafting. Once the groups have drafted their work, the assigned project manager people will look it over and then show it to Dr. Greenhalgh for final feedback. If feedback is made, it will be fixed by the editors or designers before being finalized and actually implemented on the website.</description>
+    </item>
+    <item>
+      <title>CMS_nguyen_nhi</title>
+      <link>//localhost:1313/posts/cms_nguyen_nhi/</link>
+      <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_nguyen_nhi/</guid>
+      <description>Definition &amp;ldquo;A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.&amp;rdquo;&#xA;Deane Barker, Web Content Management Glossary&#xA;In other words, a CMS lets you build and run a website without having to be a web developer.&#xA;Example A example of a CMS is my favorite recipe blog, Apple Pie by Grandma Ople. The person running the blog can add new recipes, edit old ones, and organize all the content in categories like “pie” or “cakes.</description>
+    </item>
+    <item>
+      <title>implementation_nguyen_nhi</title>
+      <link>//localhost:1313/posts/implementation_nguyen_nhi/</link>
+      <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_nguyen_nhi/</guid>
+      <description>How to implement our workflow We will use WordPress and Teams to help our class stay organized and connected. WordPress will be where students can share their work and updates. We will post our updates about our progress and that will allow everyone to stay informed about what others are doing. We also use Teams to assign tasks so that everyone knows what they are responsible for.&#xA;Expectation Group members should check in with each other to share progress.</description>
     </item>
     <item>
       <title>management_lewis_grant</title>
@@ -65,11 +121,39 @@
       <description>Definition: Content management is a wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content&amp;quot; (Barker, 2024)&#xA;Explanation in own words: Content management involves handling every step of the content lifecycle, from planning and creating to reviewing, organizing, and delivering it to the audience&#xA;Real-life example: I use YouTube, an example of content management. YouTube creators upload and manage their videos, organized through channels and search algorithms.</description>
     </item>
     <item>
+      <title>Management_mason_avery</title>
+      <link>//localhost:1313/posts/management_mason_avery/</link>
+      <pubDate>Mon, 07 Oct 2024 16:55:51 -0400</pubDate>
+      <guid>//localhost:1313/posts/management_mason_avery/</guid>
+      <description>Definition &amp;lsquo;A wide-ranging term that generally rerfers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing and delivering content&amp;rsquo;- Deane Barker&#xA;My own words Content management is the organization of content in regards to its particular users and specific practices.&#xA;Example Reddit is a content management system that allows users to contribute to what they call &amp;ldquo;communities&amp;rdquo; and organizes their posts to those specific threads. Links &amp;lsquo;hot&amp;rsquo; topics and recommends other communities to authors/users that may be interested.</description>
+    </item>
+    <item>
+      <title>Management_adhikari_sayana</title>
+      <link>//localhost:1313/posts/management_adhikari_sayana/</link>
+      <pubDate>Mon, 07 Oct 2024 15:30:37 -0400</pubDate>
+      <guid>//localhost:1313/posts/management_adhikari_sayana/</guid>
+      <description>What is content management?&#xA;&amp;ldquo;A wide-ranging term that generally refers to the practice of defining, creating, oraganizing,securing,reviewing, approving, publishing, and delivering content.&amp;rdquo; (Deane Barker, Flying Squirrel Glossary)&#xA;In my own words&#xA;Content management is the process of handling digital content, from creating and editing to organizing and publishing it.&#xA;Example&#xA;Shopify is a widely known content management system specifically designed for e-commerce. It allows users to create and manage online stores, providing tools for product management, payment processing, and order fulfillment, making it easier for businesses to sell products online.</description>
+    </item>
+    <item>
+      <title>Management_Hotko_AJ</title>
+      <link>//localhost:1313/posts/management_hotko_aj/</link>
+      <pubDate>Mon, 07 Oct 2024 14:16:18 -0400</pubDate>
+      <guid>//localhost:1313/posts/management_hotko_aj/</guid>
+      <description>Content Management Defined “A wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content.” (The Web Content Management Glossary, Barker 2016).&#xA;My Take on Content Management Content Management is the way that we generally organize our content in a manner in which is the most logical and efficient.&#xA;Example of Content Management Google Docs would be an example of content management, you can create docs in which they are organized by date or name.</description>
+    </item>
+    <item>
       <title>Management_Myers_Albert</title>
       <link>//localhost:1313/posts/management_myers_albert/</link>
       <pubDate>Mon, 07 Oct 2024 12:30:02 -0400</pubDate>
       <guid>//localhost:1313/posts/management_myers_albert/</guid>
       <description>What is &amp;ldquo;Content Management&amp;rdquo; Content managemnt, according to Deane Barker is, &amp;ldquo;a wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content.&amp;rdquo;&#xA;Content Management in my own words To me I think content management is the content is organized for the consumer to see in a certain way. You could easily just put out unorganized content. However, people probably won&amp;rsquo;t want to view it, if there is no fluid motion of your content.</description>
+    </item>
+    <item>
+      <title>Management_Ilunga_victoire</title>
+      <link>//localhost:1313/posts/management_ilunga_victoire/</link>
+      <pubDate>Mon, 07 Oct 2024 11:59:00 -0400</pubDate>
+      <guid>//localhost:1313/posts/management_ilunga_victoire/</guid>
+      <description>Definition of content management content management A wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content (Barker, Flying Squirrel Glossary).&#xA;In simple words Content management is basically how we organize and handle digital content, like articles, videos, or images, to make sure it&amp;rsquo;s easy for people to find and use. It includes everything from creating and editing content, to storing and publishing it on platforms like websites or apps.</description>
     </item>
     <item>
       <title>What is Content Management?- Omari</title>
@@ -139,7 +223,7 @@
       <link>//localhost:1313/posts/workflow_kapanga_rael/</link>
       <pubDate>Wed, 02 Oct 2024 20:38:39 -0400</pubDate>
       <guid>//localhost:1313/posts/workflow_kapanga_rael/</guid>
-      <description>content creation work flow:&#xA;Before starting to work on our class project, we should consider the following steps: Brain storming: This is where content ideas are brainstormed, aligned with overall goals, and scheduled. Content Creation: this is where we start creating content after brainstorming our ideas. Review &amp;amp; Editing: after creating our content, we review the content for accuracy, grammar, and overall quality. Approval &amp;amp; Final Review: after we have edited and review the content, we will have stakeholders take a look at the content for a final review and approve the content.</description>
+      <description>content creation work flow:&#xA;Before starting to work on our class project, we should consider the following steps:&#xA;Brain storming: This is where content ideas are brainstormed, aligned with overall goals, and scheduled. Content Creation: this is where we start creating content after brainstorming our ideas. Review &amp;amp; Editing: after creating our content, we review the content for accuracy, grammar, and overall quality. Approval &amp;amp; Final Review: after we have edited and review the content, we will have stakeholders take a look at the content for a final review and approve the content.</description>
     </item>
     <item>
       <title>Workflow_adhikari_sayana</title>
@@ -196,6 +280,13 @@
       <pubDate>Wed, 02 Oct 2024 10:16:53 -0400</pubDate>
       <guid>//localhost:1313/posts/management_coleman_bryan/</guid>
       <description>Content management is a wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content. I got this definition from the class slides. In my own words, content management is the collection, management, and publication of any form of information or content through a platform. For my example, I think WordPress serves as a great example of content management. I say this as WordPress allows users to create, edit, and manage their content, which directly lines up with the definition of content management.</description>
+    </item>
+    <item>
+      <title>management_kapanga_rael</title>
+      <link>//localhost:1313/posts/management_kapanga_rael/</link>
+      <pubDate>Wed, 02 Oct 2024 10:16:53 -0400</pubDate>
+      <guid>//localhost:1313/posts/management_kapanga_rael/</guid>
+      <description>content management definition is a wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content. (Deane barker) classes slides . In my own word, content management is all about organizing, storing, and sharing information and media (like text, images, and videos) in a way that makes it easy for people to access and use. This can involve using tools and software to create, edit, and publish content on websites or social media.</description>
     </item>
     <item>
       <title>Workflow_coleman_bryan</title>
@@ -861,6 +952,13 @@
       <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
       <guid>//localhost:1313/posts/mccoy-first-post/</guid>
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/implemetation_kirkpatrick_sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/implemetation_kirkpatrick_sam/</guid>
+      <description>title = &amp;ldquo;Implementing a Content Management Workflow with WordPress and Teams&amp;rdquo; author = &amp;ldquo;Sam Kirkpatrick&amp;rdquo; tags = [&amp;ldquo;content management&amp;rdquo;, &amp;ldquo;workflow&amp;rdquo;, &amp;ldquo;GMS project&amp;rdquo;] categories = [&amp;ldquo;implementation proposal&amp;rdquo;]&#xA;Introduction In our GMS class project, we will use WordPress, Teams, and other technologies to implement and enforce the content management workflow. These tools offer flexibility and structure to manage content creation, collaboration, and communication effectively.&#xA;Implementing the Workflow WordPress: WordPress will be the central hub for publishing and organizing content.</description>
     </item>
     <item>
       <title></title>

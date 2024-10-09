@@ -30,17 +30,66 @@
       <description></description>
     </item>
     <item>
-      <title>Content Management</title>
-      <link>//localhost:1313/tags/content-management/</link>
-      <pubDate>Tue, 08 Oct 2024 00:30:02 -0400</pubDate>
-      <guid>//localhost:1313/tags/content-management/</guid>
+      <title>Content</title>
+      <link>//localhost:1313/tags/content/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management System</title>
+      <link>//localhost:1313/tags/content-management-system/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/content-management-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chen</title>
+      <link>//localhost:1313/tags/chen/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/tags/chen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deane Barker</title>
+      <link>//localhost:1313/tags/deane-barker/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/tags/deane-barker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shopify</title>
+      <link>//localhost:1313/tags/shopify/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/tags/shopify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>//localhost:1313/tags/wordpress/</link>
+      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
+      <guid>//localhost:1313/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
+      <link>//localhost:1313/tags/workflow/</link>
+      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
+      <guid>//localhost:1313/tags/workflow/</guid>
       <description></description>
     </item>
     <item>
       <title>CMS</title>
       <link>//localhost:1313/tags/cms/</link>
-      <pubDate>Mon, 07 Oct 2024 22:56:46 -0400</pubDate>
+      <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
       <guid>//localhost:1313/tags/cms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management</title>
+      <link>//localhost:1313/tags/content-management/</link>
+      <pubDate>Tue, 08 Oct 2024 00:30:02 -0400</pubDate>
+      <guid>//localhost:1313/tags/content-management/</guid>
       <description></description>
     </item>
     <item>
@@ -51,31 +100,24 @@
       <description></description>
     </item>
     <item>
+      <title>Reddit</title>
+      <link>//localhost:1313/tags/reddit/</link>
+      <pubDate>Mon, 07 Oct 2024 16:55:51 -0400</pubDate>
+      <guid>//localhost:1313/tags/reddit/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Management</title>
       <link>//localhost:1313/tags/management/</link>
-      <pubDate>Mon, 07 Oct 2024 12:30:02 -0400</pubDate>
+      <pubDate>Mon, 07 Oct 2024 15:30:37 -0400</pubDate>
       <guid>//localhost:1313/tags/management/</guid>
       <description></description>
     </item>
     <item>
-      <title>Workflow</title>
-      <link>//localhost:1313/tags/workflow/</link>
-      <pubDate>Thu, 03 Oct 2024 22:33:35 -0400</pubDate>
-      <guid>//localhost:1313/tags/workflow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chen</title>
-      <link>//localhost:1313/tags/chen/</link>
-      <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
-      <guid>//localhost:1313/tags/chen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deane Barker</title>
-      <link>//localhost:1313/tags/deane-barker/</link>
-      <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
-      <guid>//localhost:1313/tags/deane-barker/</guid>
+      <title>Managment</title>
+      <link>//localhost:1313/tags/managment/</link>
+      <pubDate>Mon, 07 Oct 2024 14:16:18 -0400</pubDate>
+      <guid>//localhost:1313/tags/managment/</guid>
       <description></description>
     </item>
     <item>
@@ -83,13 +125,6 @@
       <link>//localhost:1313/tags/news/</link>
       <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
       <guid>//localhost:1313/tags/news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content</title>
-      <link>//localhost:1313/tags/content/</link>
-      <pubDate>Thu, 03 Oct 2024 10:55:07 -0400</pubDate>
-      <guid>//localhost:1313/tags/content/</guid>
       <description></description>
     </item>
     <item>
@@ -132,13 +167,6 @@
       <link>//localhost:1313/tags/proposal/</link>
       <pubDate>Wed, 02 Oct 2024 00:09:25 -0400</pubDate>
       <guid>//localhost:1313/tags/proposal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wordpress</title>
-      <link>//localhost:1313/tags/wordpress/</link>
-      <pubDate>Tue, 01 Oct 2024 12:16:55 -0400</pubDate>
-      <guid>//localhost:1313/tags/wordpress/</guid>
       <description></description>
     </item>
     <item>
@@ -198,13 +226,6 @@
       <description></description>
     </item>
     <item>
-      <title>Reddit</title>
-      <link>//localhost:1313/tags/reddit/</link>
-      <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
-      <guid>//localhost:1313/tags/reddit/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>WellYes</title>
       <link>//localhost:1313/tags/wellyes/</link>
       <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
@@ -237,13 +258,6 @@
       <link>//localhost:1313/tags/twitter/</link>
       <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
       <guid>//localhost:1313/tags/twitter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shopify</title>
-      <link>//localhost:1313/tags/shopify/</link>
-      <pubDate>Tue, 24 Sep 2024 10:51:28 -0400</pubDate>
-      <guid>//localhost:1313/tags/shopify/</guid>
       <description></description>
     </item>
     <item>
