@@ -1,9 +1,9 @@
 +++
 title = 'Workflow_Myers_Albert'
-date = 2024-10-02T3:48:02-04:00
+date = 2024-10-02T13:48:02-04:00
 author = "Albert Myers"
 categories = ["workflow proposal"]
-tags = ["Canvas", "presentation"]
+tags = ["Canvas","presentation"]
 draft = false
 +++
 > **Process to complete a task**

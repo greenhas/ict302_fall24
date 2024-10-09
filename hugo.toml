@@ -12,8 +12,16 @@ theme = 'Mainroad-master'
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
-    weight = 10
+    weight = 5
   [[menus.main]]
     name = 'Aggregation Documentation'
     pageRef = '/aggregation_documentation'
     weight = 20
+  [[menus.main]]
+    name = 'Workflow Proposals'
+    pageRef = '/categories/workflow-proposal/'
+    weight = 10
+    [[menus.main]]
+    name = 'Implementation Proposals'
+    pageRef = '/categories/implementation-proposal/'
+    weight = 15

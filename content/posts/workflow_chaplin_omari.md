@@ -65,7 +65,7 @@ Therefore, a rough list of roles could be:
 
 - **Site Builder** - Ensures the website layout matches our needs
 
-- **Content Editor** - Creates content for the website
+- **Content Author** - Creates content for the website
 
 - **Content Editor** - Proofreads an edits content for the website
 
