@@ -3,7 +3,7 @@ title = 'Implementation_chen_ricky'
 date = 2024-10-08T10:55:11-04:00
 draft = false
 author = "Ricky Chen"
-categories = ["implementation"]
+categories = ["implementation proposal"]
 tags = ["workflow", "wordpress", "Chen"]
 +++
 
