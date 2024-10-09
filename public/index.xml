@@ -6,8 +6,15 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 04:10:52 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 19:18:16 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hayes McCoy: Workflow Implementation</title>
+      <link>//localhost:1313/posts/implementation_mccoy_hayes/</link>
+      <pubDate>Wed, 09 Oct 2024 19:18:16 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_mccoy_hayes/</guid>
+      <description>Implementing Workflows WordPress We will use WordPress for our content management&#xA;Allows us to keep an eye on revision history and check what has been done and what needs to be changed&#xA;You can leave comments on pages to provide feedback for these pages&#xA;There are so many plugins we can use to help implement a workflow, whether for collaboration, task management, automation, calandars, and more&#xA;Teams We can use Teams to communicate with each other and to collaborate</description>
+    </item>
     <item>
       <title>management_lewis_grant</title>
       <link>//localhost:1313/posts/management_lewis_grant/</link>
