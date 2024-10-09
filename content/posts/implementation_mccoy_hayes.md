@@ -1,7 +1,7 @@
 +++
 title = 'Hayes McCoy: Workflow Implementation'
 date = 2024-10-09T19:18:16-04:00
-draft = true
+draft = false
 
 
 [params]
