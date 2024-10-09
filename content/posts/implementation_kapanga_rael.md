@@ -6,7 +6,7 @@ author = "Rael Kapanga"
 tags = ["implementation"]
 +++
 ## Implementing Our Workflow with WordPress
-## How We’ll Use WordPress
+### How We’ll Use WordPress
 
 WordPress is going to be our main platform for writing, editing, and publishing content. Here’s what that looks like:
 
@@ -16,7 +16,7 @@ WordPress is going to be our main platform for writing, editing, and publishing 
    
 3. **Publishing**: Once the post is approved, we’ll publish it on our class blog. We can also schedule posts ahead of time to make sure we stay on track with our deadlines.
 
-## How We’ll Use Microsoft Teams
+### How We’ll Use Microsoft Teams
 
 Microsoft Teams will be where we communicate and stay updated. Here’s how it fits into our workflow:
 
@@ -26,13 +26,13 @@ Microsoft Teams will be where we communicate and stay updated. Here’s how it f
    
 3. **Weekly Check-ins**: We’ll have a weekly meeting in Teams to review how things are going and address any issues that come up.
 
-## Other Tools We’ll Use
+### Other Tools We’ll Use
 
 Aside from WordPress and Teams, we might also use:
 - **Google Drive** for sharing documents, images, or research.
 - **Grammarly** for proofreading before submitting posts.
 
-## Expectations for Everyone
+### Expectations for Everyone
 
 1. **Regular Updates**: Keep the group posted on your progress by updating Teams. For example, once you’ve finished a draft in WordPress, let everyone know.
    
@@ -41,7 +41,3 @@ Aside from WordPress and Teams, we might also use:
 3. **Help Each Other Out**: If someone’s stuck or behind, step in and offer support when you can.
 
 4. **Keep Quality in Mind**: Before submitting a post for review, use tools like Grammarly or WordPress’s preview to make sure everything looks good and reads well.
-
----
-
-By using WordPress, Teams, and other tools like Google Drive, we’ll be able to keep everything organized and running smoothly. If everyone stays on top of their tasks and communicates regularly, we’ll have no problem making our project a success!
