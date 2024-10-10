@@ -8,6 +8,7 @@ draft = false
 **content creation work flow:**
 
 Before starting to work on our class project, we should consider the following steps:
+
 *Brain storming*: This is where content ideas are brainstormed, aligned with overall goals, and scheduled.
 *Content Creation*: this is where we start creating content after brainstorming our ideas.
 *Review & Editing*: after creating our content, we review the content for accuracy, grammar, and overall quality.
