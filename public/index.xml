@@ -6,8 +6,15 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2024 04:11:58 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 09:43:52 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementation_kemper_lea</title>
+      <link>//localhost:1313/posts/implementation_kemper_lea/</link>
+      <pubDate>Thu, 10 Oct 2024 09:43:52 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_kemper_lea/</guid>
+      <description>In WordPress students will create blog posts and project pages as documentation to track project progress. Teams will be used for daily communications, scheduling meetings, task management, and sharing quick updates. All team members must regularly update their task manager, indicating progress, blockers, and deadlines.</description>
+    </item>
     <item>
       <title>Implementation_lewis_grant</title>
       <link>//localhost:1313/posts/implementation_lewis_grant/</link>
@@ -44,6 +51,13 @@
       <description>Workflow Description Teams will be used for task assignments that will be set by page. Said page can have their own &amp;ldquo;Bucket&amp;rdquo; that relates to the page. Wordpress will be used for draft pages and making sure that everything looks correct and is working before it is finalized. As well as figuring out what theme we as a class are going to use.&#xA;Expectations Teams: There tasks will be assigned, you are expected to complete your own tasks on time.</description>
     </item>
     <item>
+      <title>Implimentation_kapanga_rael</title>
+      <link>//localhost:1313/posts/implementation_kapanga_rael/</link>
+      <pubDate>Wed, 09 Oct 2024 22:35:40 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_kapanga_rael/</guid>
+      <description>Implementing Our Workflow with WordPress How We’ll Use WordPress WordPress is going to be our main platform for writing, editing, and publishing content. Here’s what that looks like:&#xA;Writing Posts: Each of us will create our posts in WordPress and save them as drafts until they’re ready for review. We&amp;rsquo;ll use tags and categories to keep everything neat and easy to find.&#xA;Reviewing Content: Before anything goes live, posts will go through a review process.</description>
+    </item>
+    <item>
       <title>implementation_mason_avery</title>
       <link>//localhost:1313/posts/implementation_mason_avery/</link>
       <pubDate>Wed, 09 Oct 2024 21:27:39 -0400</pubDate>
@@ -70,6 +84,20 @@
       <pubDate>Wed, 09 Oct 2024 13:30:44 -0400</pubDate>
       <guid>//localhost:1313/posts/implementation_hotko_aj/</guid>
       <description>Workflow Implementation The correct implementation of Wordpress and Teams will be very beneficial to our workflow. Teams will be used for gathering ideas and turning them into tasks. There could even be different chats for different roles and elements that need to be worked on so no information gets lost. Overall, teams is going to be more of an organizational and communication factor to ensure that nobody in confused on what they need to do.</description>
+    </item>
+    <item>
+      <title>Management_kemper_lea</title>
+      <link>//localhost:1313/posts/management_kemper_lea/</link>
+      <pubDate>Tue, 08 Oct 2024 14:59:23 -0400</pubDate>
+      <guid>//localhost:1313/posts/management_kemper_lea/</guid>
+      <description>Content management is an editorial process of creating, organizing, storing, and maintaining digital content, such as text, images, videos, and documents. The editorial process ensures that content is clear, accurate, engaging, and aligned with the intended goals. I am the content manager for the tattoo parlor I work at. So I deal with this on a daily basis. A good example of the editorial process is I will take 4 hours to make a 10-second video.</description>
+    </item>
+    <item>
+      <title>Management_kapanga_rael</title>
+      <link>//localhost:1313/posts/management_kapanga_rael/</link>
+      <pubDate>Tue, 08 Oct 2024 14:30:57 -0400</pubDate>
+      <guid>//localhost:1313/posts/management_kapanga_rael/</guid>
+      <description>content management definition is a wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content. (Deane barker) classes slides . In my own word, content management is all about organizing, storing, and sharing information and media (like text, images, and videos) in a way that makes it easy for people to access and use. This can involve using tools and software to create, edit, and publish content on websites or social media.</description>
     </item>
     <item>
       <title>Implementation_coleman_bryan</title>
@@ -119,6 +147,13 @@
       <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
       <guid>//localhost:1313/posts/implementation_nguyen_nhi/</guid>
       <description>How to implement our workflow We will use WordPress and Teams to help our class stay organized and connected. WordPress will be where students can share their work and updates. We will post our updates about our progress and that will allow everyone to stay informed about what others are doing. We also use Teams to assign tasks so that everyone knows what they are responsible for.&#xA;Expectation Group members should check in with each other to share progress.</description>
+    </item>
+    <item>
+      <title>Workflow_Kemer_Lea</title>
+      <link>//localhost:1313/posts/workflow_kemer_lea/</link>
+      <pubDate>Tue, 08 Oct 2024 10:51:02 -0400</pubDate>
+      <guid>//localhost:1313/posts/workflow_kemer_lea/</guid>
+      <description>For our GMS class project to ensure that the task is completed properly we must break it into workflow phases such as planning, executing, and reviewing. In the planning stage, we will define our task and objectives outlining what &amp;ldquo;completion&amp;rdquo; of our website will look like. Delegation of tasks is also a part of the planning phase. Execution is actual work on the task to ensure that we are on track and identify any issues.</description>
     </item>
     <item>
       <title>management_lewis_grant</title>
@@ -329,13 +364,6 @@
       <pubDate>Wed, 02 Oct 2024 10:16:53 -0400</pubDate>
       <guid>//localhost:1313/posts/management_coleman_bryan/</guid>
       <description>Content management is a wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content. I got this definition from the class slides. In my own words, content management is the collection, management, and publication of any form of information or content through a platform. For my example, I think WordPress serves as a great example of content management. I say this as WordPress allows users to create, edit, and manage their content, which directly lines up with the definition of content management.</description>
-    </item>
-    <item>
-      <title>management_kapanga_rael</title>
-      <link>//localhost:1313/posts/management_kapanga_rael/</link>
-      <pubDate>Wed, 02 Oct 2024 10:16:53 -0400</pubDate>
-      <guid>//localhost:1313/posts/management_kapanga_rael/</guid>
-      <description>content management definition is a wide-ranging term that generally refers to the practice of defining, creating, organizing, securing, reviewing, approving, publishing, and delivering content. (Deane barker) classes slides . In my own word, content management is all about organizing, storing, and sharing information and media (like text, images, and videos) in a way that makes it easy for people to access and use. This can involve using tools and software to create, edit, and publish content on websites or social media.</description>
     </item>
     <item>
       <title>Workflow_coleman_bryan</title>

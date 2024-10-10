@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-10-10T04:11:58-04:00</lastmod>
+    <lastmod>2024-10-10T09:43:52-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-10-10T04:11:58-04:00</lastmod>
+    <lastmod>2024-10-10T09:43:52-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/implementation-proposal/</loc>
-    <lastmod>2024-10-10T04:11:58-04:00</lastmod>
+    <lastmod>2024-10-10T09:43:52-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/implementation_lewis_grant/</loc>
-    <lastmod>2024-10-10T04:11:58-04:00</lastmod>
+    <loc>//localhost:1313/posts/implementation_kemper_lea/</loc>
+    <lastmod>2024-10-10T09:43:52-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-10-10T09:43:52-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/implementation_lewis_grant/</loc>
     <lastmod>2024-10-10T04:11:58-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/author/</loc>
@@ -56,6 +59,12 @@
     <loc>//localhost:1313/posts/implementation_myers_albert/</loc>
     <lastmod>2024-10-09T22:50:02-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/implementation_kapanga_rael/</loc>
+    <lastmod>2024-10-09T22:35:40-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/rael-kapanga/</loc>
+    <lastmod>2024-10-09T22:35:40-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/author/avery-mason/</loc>
     <lastmod>2024-10-09T21:27:39-04:00</lastmod>
   </url><url>
@@ -88,6 +97,15 @@
   </url><url>
     <loc>//localhost:1313/posts/implementation_hotko_aj/</loc>
     <lastmod>2024-10-09T13:30:44-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_kemper_lea/</loc>
+    <lastmod>2024-10-08T14:59:23-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/management-definition/</loc>
+    <lastmod>2024-10-08T14:30:57-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_kapanga_rael/</loc>
+    <lastmod>2024-10-08T14:30:57-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/author/bryan-coleman/</loc>
     <lastmod>2024-10-08T13:19:09-04:00</lastmod>
@@ -154,6 +172,9 @@
   </url><url>
     <loc>//localhost:1313/author/nhi-nguyen/</loc>
     <lastmod>2024-10-08T10:53:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/workflow_kemer_lea/</loc>
+    <lastmod>2024-10-08T10:51:02-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/management_lewis_grant/</loc>
     <lastmod>2024-10-08T04:10:52-04:00</lastmod>
@@ -275,9 +296,6 @@
     <loc>//localhost:1313/posts/workflow_livingston_chauncey/</loc>
     <lastmod>2024-10-02T23:48:14-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/rael-kapanga/</loc>
-    <lastmod>2024-10-02T20:38:39-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/workflow_kapanga_rael/</loc>
     <lastmod>2024-10-02T20:38:39-04:00</lastmod>
   </url><url>
@@ -312,9 +330,6 @@
     <lastmod>2024-10-02T10:26:39-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/management_coleman_bryan/</loc>
-    <lastmod>2024-10-02T10:16:53-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/management_kapanga_rael/</loc>
     <lastmod>2024-10-02T10:16:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/workflow_coleman_bryan/</loc>
