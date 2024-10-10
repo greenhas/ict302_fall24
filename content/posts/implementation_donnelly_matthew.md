@@ -1,5 +1,5 @@
 ---
-title: "Content Placeholder"
+title: "Implementation Proposal"
 author = "Matthew Donnelly"
 draft = false 
 date = 2024-10-9-16:41:26-04:00
