@@ -3,7 +3,7 @@ title = 'implementation_nguyen_nhi'
 date = 2024-10-08T10:53:07-04:00
 draft = false
 author = "Nhi Nguyen"
-categories = ["implementation"]
+categories = ["implementation proposal"]
 tags = ["implementation"]
 +++
 
