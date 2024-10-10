@@ -3,7 +3,7 @@ title = 'Implementation'
 date = 2024-10-10T15:37:02-04:00
 draft = false
 author = "Ahmad"
-tags = ["implementation proposal"]
+categories = ["implementation proposal"]
 +++
 Getting the essentials out the way, like assigning roles and tasks before we begin a project. 
 We'll then need to make sure we document what we do, like when we complete a task. 
