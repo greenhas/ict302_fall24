@@ -2,95 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/author/ahmad/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/author/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/content-management/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+    <loc>//localhost:1313/author/chauncey-livingston/</loc>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cms/</loc>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/content-management/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hayes/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/hayes-mccoy/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/management_mccoy_hayes/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+    <loc>//localhost:1313/posts/management_livingston_chauncey/</loc>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/managament/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/management_ahmad/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mccoy/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/management_harp_mauricio/</loc>
-    <lastmod>2024-10-07T19:08:19-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/mauricio-harp/</loc>
-    <lastmod>2024-10-07T19:08:19-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/management/</loc>
-    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/management_nguyen_nhi/</loc>
-    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/nhi-nguyen/</loc>
-    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/workflow/</loc>
-    <lastmod>2024-10-03T22:33:35-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/workflow-proposal/</loc>
-    <lastmod>2024-10-03T22:33:35-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/workflow_harp_mauricio/</loc>
-    <lastmod>2024-10-03T22:33:35-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/chen/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/deane-barker/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/management_chen_ricky/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/news/</loc>
-    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/content/</loc>
-    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/content-management-definition/</loc>
-    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/henry-bryant/</loc>
-    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/management_bryant_henry/</loc>
-    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/canva/</loc>
     <lastmod>2024-10-03T00:51:32-04:00</lastmod>
@@ -113,7 +50,10 @@
     <loc>//localhost:1313/posts/workflow_ilunga_victoire/</loc>
     <lastmod>2024-10-03T00:51:32-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/chauncey-livingston/</loc>
+    <loc>//localhost:1313/tags/workflow/</loc>
+    <lastmod>2024-10-03T00:51:32-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/workflow-proposal/</loc>
     <lastmod>2024-10-02T23:48:14-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/workflow_livingston_chauncey/</loc>
@@ -191,6 +131,9 @@
     <loc>//localhost:1313/tags/proposal/</loc>
     <lastmod>2024-10-02T00:09:25-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/author/ahmad/</loc>
+    <lastmod>2024-10-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/workflow_amjad_ahmad/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -203,6 +146,15 @@
     <loc>//localhost:1313/posts/ugc_kemper_lea/</loc>
     <lastmod>2024-10-01T15:22:56-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/hayes/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/hayes-mccoy/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mccoy/</loc>
+    <lastmod>2024-10-01T14:06:28-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/workflow_mccoy_hayes/</loc>
     <lastmod>2024-10-01T14:06:28-04:00</lastmod>
   </url><url>
@@ -211,6 +163,9 @@
   </url><url>
     <loc>//localhost:1313/posts/workflow_chen_ricky/</loc>
     <lastmod>2024-10-01T12:16:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/mauricio-harp/</loc>
+    <lastmod>2024-10-01T11:07:09-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_harp_mauricio/</loc>
     <lastmod>2024-10-01T11:07:09-04:00</lastmod>
@@ -224,8 +179,17 @@
     <loc>//localhost:1313/posts/presentation_hotko_aj/</loc>
     <lastmod>2024-10-01T10:43:03-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/author/henry-bryant/</loc>
+    <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/workflow_bryant_henry/</loc>
     <lastmod>2024-10-01T10:42:55-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/nhi-nguyen/</loc>
+    <lastmod>2024-10-01T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/workflow_nguyen_nhi/</loc>
+    <lastmod>2024-10-01T10:26:39-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_lewis_grant/</loc>
     <lastmod>2024-10-01T04:10:52-04:00</lastmod>
@@ -335,11 +299,17 @@
     <loc>//localhost:1313/tags/accessibility/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/content/</loc>
+    <lastmod>2024-09-24T10:52:17-04:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/posts/presentation_bryant_henry/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/twitter/</loc>
     <lastmod>2024-09-24T10:52:17-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/deane-barker/</loc>
+    <lastmod>2024-09-24T10:51:28-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/presentation_chen_ricky/</loc>
     <lastmod>2024-09-24T10:51:28-04:00</lastmod>
@@ -435,6 +405,9 @@
     <lastmod>2024-09-17T10:51:44-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/google/</loc>
+    <lastmod>2024-09-17T10:51:44-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/news/</loc>
     <lastmod>2024-09-17T10:51:44-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/aggregation_nguyen_nhi/</loc>
@@ -605,12 +578,6 @@
     <loc>//localhost:1313/posts/mccoy-first-post/</loc>
     <lastmod>2024-09-03T09:26:42-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/management_kirkpatrick_sam/</loc>
-  </url><url>
-    <loc>//localhost:1313/posts/workflow_kirkpatrick_sam/</loc>
-  </url><url>
     <loc>//localhost:1313/postsn/</loc>
-  </url><url>
-    <loc>//localhost:1313/posts/workflow_donnelly_matthew/</loc>
   </url>
 </urlset>
