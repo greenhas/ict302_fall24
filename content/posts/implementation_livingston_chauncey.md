@@ -2,6 +2,7 @@
 title = 'Workflow Implementation'
 date = 2024-10-09T23:08:59-04:00
 draft = false
+author = "Chauncey Livingston"
 categories = ["implementation proposal"]
 +++
 ## How will it be done?
