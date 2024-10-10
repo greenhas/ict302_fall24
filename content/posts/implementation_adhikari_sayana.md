@@ -7,7 +7,9 @@ categories= ["implementation proposal"]
 tags= ["implementation"]
 +++
 
+
 **Implementing our workflow**
+
 We will use WordPress, Teams, and other technologies to implement our workflow by assigning specific roles to class members and managing the content creation process. WordPress will serve as the platform where tasks like drafting, editing, and publishing content will take place. Each class member will have a designated role, such as editor, writer, or project manager, allowing us to streamline content production and ensure that responsibilities are clear. Teams will be used to communicate and collaborate, helping us set deadlines, assign tasks, and discuss progress in real-time.
 
 **Reasonable Expectations**
