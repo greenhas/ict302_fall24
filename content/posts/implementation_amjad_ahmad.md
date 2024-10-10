@@ -1,6 +1,6 @@
 +++
 title = 'Implementation'
-date = 2024-010-9
+date = 2024-10-9
 draft = false
 author = "Ahmad"
 tags = ["implementation proposal"]
