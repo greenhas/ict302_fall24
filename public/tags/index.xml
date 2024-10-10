@@ -6,9 +6,134 @@
     <description>Recent content in Tags on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-<<<<<<< HEAD
-    <lastBuildDate>Thu, 03 Oct 2024 00:51:32 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 01:38:14 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GMS</title>
+      <link>//localhost:1313/tags/gms/</link>
+      <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
+      <guid>//localhost:1313/tags/gms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Implementation</title>
+      <link>//localhost:1313/tags/implementation/</link>
+      <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
+      <guid>//localhost:1313/tags/implementation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>//localhost:1313/tags/content/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/content/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management System</title>
+      <link>//localhost:1313/tags/content-management-system/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/content-management-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chen</title>
+      <link>//localhost:1313/tags/chen/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/tags/chen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deane Barker</title>
+      <link>//localhost:1313/tags/deane-barker/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/tags/deane-barker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shopify</title>
+      <link>//localhost:1313/tags/shopify/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/tags/shopify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>//localhost:1313/tags/wordpress/</link>
+      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
+      <guid>//localhost:1313/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
+      <link>//localhost:1313/tags/workflow/</link>
+      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
+      <guid>//localhost:1313/tags/workflow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMS</title>
+      <link>//localhost:1313/tags/cms/</link>
+      <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/cms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management</title>
+      <link>//localhost:1313/tags/content-management/</link>
+      <pubDate>Tue, 08 Oct 2024 00:30:02 -0400</pubDate>
+      <guid>//localhost:1313/tags/content-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hayes</title>
+      <link>//localhost:1313/tags/hayes/</link>
+      <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
+      <guid>//localhost:1313/tags/hayes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Managament</title>
+      <link>//localhost:1313/tags/managament/</link>
+      <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
+      <guid>//localhost:1313/tags/managament/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mccoy</title>
+      <link>//localhost:1313/tags/mccoy/</link>
+      <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
+      <guid>//localhost:1313/tags/mccoy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reddit</title>
+      <link>//localhost:1313/tags/reddit/</link>
+      <pubDate>Mon, 07 Oct 2024 16:55:51 -0400</pubDate>
+      <guid>//localhost:1313/tags/reddit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Management</title>
+      <link>//localhost:1313/tags/management/</link>
+      <pubDate>Mon, 07 Oct 2024 15:30:37 -0400</pubDate>
+      <guid>//localhost:1313/tags/management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Managment</title>
+      <link>//localhost:1313/tags/managment/</link>
+      <pubDate>Mon, 07 Oct 2024 14:16:18 -0400</pubDate>
+      <guid>//localhost:1313/tags/managment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>//localhost:1313/tags/news/</link>
+      <pubDate>Thu, 03 Oct 2024 11:22:45 -0400</pubDate>
+      <guid>//localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Canva</title>
       <link>//localhost:1313/tags/canva/</link>
@@ -21,30 +146,13 @@
       <link>//localhost:1313/tags/ilunga/</link>
       <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
       <guid>//localhost:1313/tags/ilunga/</guid>
-=======
-    <lastBuildDate>Wed, 02 Oct 2024 23:48:14 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Workflow</title>
-      <link>//localhost:1313/tags/workflow/</link>
-      <pubDate>Wed, 02 Oct 2024 23:48:14 -0400</pubDate>
-      <guid>//localhost:1313/tags/workflow/</guid>
->>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
       <description></description>
     </item>
     <item>
       <title>Presentation</title>
       <link>//localhost:1313/tags/presentation/</link>
-<<<<<<< HEAD
       <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
       <guid>//localhost:1313/tags/presentation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Workflow</title>
-      <link>//localhost:1313/tags/workflow/</link>
-      <pubDate>Thu, 03 Oct 2024 00:51:32 -0400</pubDate>
-      <guid>//localhost:1313/tags/workflow/</guid>
       <description></description>
     </item>
     <item>
@@ -66,31 +174,6 @@
       <link>//localhost:1313/tags/proposal/</link>
       <pubDate>Wed, 02 Oct 2024 00:09:25 -0400</pubDate>
       <guid>//localhost:1313/tags/proposal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hayes</title>
-      <link>//localhost:1313/tags/hayes/</link>
-      <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
-      <guid>//localhost:1313/tags/hayes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mccoy</title>
-      <link>//localhost:1313/tags/mccoy/</link>
-      <pubDate>Tue, 01 Oct 2024 14:06:28 -0400</pubDate>
-      <guid>//localhost:1313/tags/mccoy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Wordpress</title>
-      <link>//localhost:1313/tags/wordpress/</link>
-      <pubDate>Tue, 01 Oct 2024 12:16:55 -0400</pubDate>
-      <guid>//localhost:1313/tags/wordpress/</guid>
-=======
-      <pubDate>Tue, 01 Oct 2024 00:09:25 -0400</pubDate>
-      <guid>//localhost:1313/tags/presentation/</guid>
->>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
       <description></description>
     </item>
     <item>
@@ -122,20 +205,6 @@
       <description></description>
     </item>
     <item>
-      <title>Hayes</title>
-      <link>//localhost:1313/tags/hayes/</link>
-      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>//localhost:1313/tags/hayes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>McCoy</title>
-      <link>//localhost:1313/tags/mccoy/</link>
-      <pubDate>Sat, 28 Sep 2024 17:44:47 -0400</pubDate>
-      <guid>//localhost:1313/tags/mccoy/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Content Aggregation</title>
       <link>//localhost:1313/tags/content-aggregation/</link>
       <pubDate>Thu, 26 Sep 2024 08:48:20 -0400</pubDate>
@@ -164,13 +233,6 @@
       <description></description>
     </item>
     <item>
-      <title>Reddit</title>
-      <link>//localhost:1313/tags/reddit/</link>
-      <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
-      <guid>//localhost:1313/tags/reddit/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>WellYes</title>
       <link>//localhost:1313/tags/wellyes/</link>
       <pubDate>Thu, 26 Sep 2024 10:40:12 +0000</pubDate>
@@ -185,7 +247,6 @@
       <description></description>
     </item>
     <item>
-<<<<<<< HEAD
       <title>CNN,News</title>
       <link>//localhost:1313/tags/cnnnews/</link>
       <pubDate>Tue, 24 Sep 2024 11:01:18 -0400</pubDate>
@@ -200,33 +261,10 @@
       <description></description>
     </item>
     <item>
-      <title>Content</title>
-      <link>//localhost:1313/tags/content/</link>
-      <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
-      <guid>//localhost:1313/tags/content/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Twitter</title>
       <link>//localhost:1313/tags/twitter/</link>
       <pubDate>Tue, 24 Sep 2024 10:52:17 -0400</pubDate>
       <guid>//localhost:1313/tags/twitter/</guid>
-      <description></description>
-    </item>
-    <item>
-=======
->>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
-      <title>Deane Barker</title>
-      <link>//localhost:1313/tags/deane-barker/</link>
-      <pubDate>Tue, 24 Sep 2024 10:51:28 -0400</pubDate>
-      <guid>//localhost:1313/tags/deane-barker/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Shopify</title>
-      <link>//localhost:1313/tags/shopify/</link>
-      <pubDate>Tue, 24 Sep 2024 10:51:28 -0400</pubDate>
-      <guid>//localhost:1313/tags/shopify/</guid>
       <description></description>
     </item>
     <item>
@@ -251,10 +289,24 @@
       <description></description>
     </item>
     <item>
-      <title>Content</title>
-      <link>//localhost:1313/tags/content/</link>
-      <pubDate>Thu, 19 Sep 2024 14:03:34 -0400</pubDate>
-      <guid>//localhost:1313/tags/content/</guid>
+      <title>Aggregation</title>
+      <link>//localhost:1313/tags/aggregation/</link>
+      <pubDate>Tue, 17 Sep 2024 10:53:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/aggregation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Content Management</title>
+      <link>//localhost:1313/tags/web-content-management/</link>
+      <pubDate>Tue, 17 Sep 2024 10:53:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/web-content-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wikipedia</title>
+      <link>//localhost:1313/tags/wikipedia/</link>
+      <pubDate>Tue, 17 Sep 2024 10:53:07 -0400</pubDate>
+      <guid>//localhost:1313/tags/wikipedia/</guid>
       <description></description>
     </item>
     <item>
@@ -265,10 +317,10 @@
       <description></description>
     </item>
     <item>
-      <title>News</title>
-      <link>//localhost:1313/tags/news/</link>
-      <pubDate>Tue, 17 Sep 2024 10:51:44 -0400</pubDate>
-      <guid>//localhost:1313/tags/news/</guid>
+      <title>User-Generated Content</title>
+      <link>//localhost:1313/tags/user-generated-content/</link>
+      <pubDate>Tue, 10 Sep 2024 10:26:39 -0400</pubDate>
+      <guid>//localhost:1313/tags/user-generated-content/</guid>
       <description></description>
     </item>
     <item>
@@ -295,11 +347,10 @@
     <item>
       <title>First Post</title>
       <link>//localhost:1313/tags/first-post/</link>
-      <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
+      <pubDate>Thu, 05 Sep 2024 09:56:29 -0400</pubDate>
       <guid>//localhost:1313/tags/first-post/</guid>
       <description></description>
     </item>
-<<<<<<< HEAD
     <item>
       <title>Introduction</title>
       <link>//localhost:1313/tags/introduction/</link>
@@ -314,7 +365,5 @@
       <guid>//localhost:1313/tags/testing/</guid>
       <description></description>
     </item>
-=======
->>>>>>> 71600e419c07c297faffbdf3167d8bd4ba14aa88
   </channel>
 </rss>
