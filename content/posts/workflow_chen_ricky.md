@@ -3,7 +3,8 @@ title = 'workflow_chen_ricky'
 date = 2024-10-01T12:16:55-04:00
 draft = false
 categories = ["workflow proposal"]
-tags = ["workflow", "wordpress"]
+tags = ["workflow", "wordpress", "Chen"]
+author = "Ricky Chen"
 +++
 
 ## Phases to Pass Through
