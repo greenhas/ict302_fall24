@@ -1,8 +1,8 @@
 +++
-title = 'Workflow by Ben Parsons'
+title = 'Content Management by Ben Parsons'
 date = 2024-10-08T00:15:27-0400 ​​
 draft = False 
-Author = Ben Parsons
+Author = "Ben Parsons"
 categories = ["Content Management"]
 tags = ["Content Management"]
 +++
