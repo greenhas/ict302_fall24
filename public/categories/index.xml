@@ -6,13 +6,34 @@
     <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2024 23:08:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 04:11:58 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementation Proposal</title>
       <link>//localhost:1313/categories/implementation-proposal/</link>
-      <pubDate>Wed, 09 Oct 2024 23:08:59 -0400</pubDate>
+      <pubDate>Thu, 10 Oct 2024 04:11:58 -0400</pubDate>
       <guid>//localhost:1313/categories/implementation-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management System Definition</title>
+      <link>//localhost:1313/categories/content-management-system-definition/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-system-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management System</title>
+      <link>//localhost:1313/categories/content-management-system/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMS</title>
+      <link>//localhost:1313/categories/cms/</link>
+      <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
+      <guid>//localhost:1313/categories/cms/</guid>
       <description></description>
     </item>
     <item>
@@ -23,9 +44,16 @@
       <description></description>
     </item>
     <item>
+      <title>Management</title>
+      <link>//localhost:1313/categories/management/</link>
+      <pubDate>Mon, 07 Oct 2024 15:30:37 -0400</pubDate>
+      <guid>//localhost:1313/categories/management/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Management Definition</title>
       <link>//localhost:1313/categories/management-definition/</link>
-      <pubDate>Mon, 07 Oct 2024 12:30:02 -0400</pubDate>
+      <pubDate>Mon, 07 Oct 2024 14:16:18 -0400</pubDate>
       <guid>//localhost:1313/categories/management-definition/</guid>
       <description></description>
     </item>
