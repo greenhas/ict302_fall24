@@ -9,7 +9,7 @@ draft = false
 	
 	categories = ['implementation proposal']
 
-	tags = ['implementation', 'mccoy', 'hayes']
+	tags = ['implementation', 'mccoy', 'hayes', 'proposal']
 
 +++
 
