@@ -6,35 +6,14 @@
     <description>Recent content on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 11:20:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 23:08:59 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CMS_bryant_henry</title>
-      <link>//localhost:1313/posts/cms_bryant_henry/</link>
-      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
-      <guid>//localhost:1313/posts/cms_bryant_henry/</guid>
-      <description>What is a Content Management System? In Web Content Management, author Deane Barker defines a content management system (CMS) as a &amp;ldquo;software system that automates the tasks around the management of content&amp;rdquo;. CMSs help content editors with &amp;ldquo;controlling, securing, and ultimately delivering content&amp;rdquo; (Barker, 2016).&#xA;In other words, this means that a content management system is a technology that allows a webmaster, website creator, or website administrator to create content and display it to users.</description>
-    </item>
-    <item>
-      <title>Implementation_chen_ricky</title>
-      <link>//localhost:1313/posts/implementation_chen_ricky/</link>
-      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
-      <guid>//localhost:1313/posts/implementation_chen_ricky/</guid>
-      <description>How to utilize our tools First, everyone takes the roles survey and gets assigned a role they&amp;rsquo;re comfortable with&#xA;Second, with the tasks in the teams group, Dr. Greenhalgh assigns each member a task. OR every member go in the get a task they like and complete their task then move on to the next one&#xA;Third, after the task is complete, mark it complete, type a descrption or screenshot of the result and put it in Teams.</description>
-    </item>
-    <item>
-      <title>implementation_bryant_henry</title>
-      <link>//localhost:1313/posts/implementation_bryant_henry/</link>
-      <pubDate>Tue, 08 Oct 2024 10:54:55 -0400</pubDate>
-      <guid>//localhost:1313/posts/implementation_bryant_henry/</guid>
-      <description>Workflow Description First, we will post the required tasks to Microsoft Teams, moving them into the &amp;ldquo;Brainstorming&amp;rdquo; section on Teams first. Once the tasks have been brainstormed, they will be assigned to the relevant teams for drafting. Once the groups have drafted their work, the assigned project manager people will look it over and then show it to Dr. Greenhalgh for final feedback. If feedback is made, it will be fixed by the editors or designers before being finalized and actually implemented on the website.</description>
-    </item>
-    <item>
-      <title>implementation_nguyen_nhi</title>
-      <link>//localhost:1313/posts/implementation_nguyen_nhi/</link>
-      <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
-      <guid>//localhost:1313/posts/implementation_nguyen_nhi/</guid>
-      <description>How to implement our workflow We will use WordPress and Teams to help our class stay organized and connected. WordPress will be where students can share their work and updates. We will post our updates about our progress and that will allow everyone to stay informed about what others are doing. We also use Teams to assign tasks so that everyone knows what they are responsible for.&#xA;Expectation Group members should check in with each other to share progress.</description>
+      <title>Workflow Implementation</title>
+      <link>//localhost:1313/posts/implementation_livingston_chauncey/</link>
+      <pubDate>Wed, 09 Oct 2024 23:08:59 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_livingston_chauncey/</guid>
+      <description>How will it be done? We will have our multiple types of tasks separated into categories on Microsoft Teams, where the different groups can access them. Then, we can use those tasks to divide the work in WordPress. As far as the expectations of each person, it goes without saying that we expect everyone to do their role and, if they are struggling with their role, to ask for assistance. This can be done through teams or through our canvas shell.</description>
     </item>
     <item>
       <title>management_lewis_grant</title>
