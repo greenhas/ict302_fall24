@@ -22,5 +22,3 @@ tags = ["implementation proposal"]
 - **Reporting Info**: People need to keep in touch with group members and the project manager for any new information or ideas being shared. 
 
 - **Submitting Content**: Our brainstorming and our checklist on Teams should be completed prior to submission. We also need to make sure everyone is done and ready for their work to be published. 
-
-
