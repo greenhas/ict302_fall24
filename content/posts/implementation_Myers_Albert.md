@@ -1,6 +1,6 @@
 +++
 title = 'implementation_Myers_Albert'
-date = 2024-10-07T12:30:02-04:00
+date = 2024-10-09T22:50:02-04:00
 author = "Albert Myers"
 categories = ["implementation proposal"]
 tags = ["Albert"]
