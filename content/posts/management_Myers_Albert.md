@@ -1,7 +1,7 @@
 +++
 title = 'Management_Myers_Albert'
 date = 2024-10-07T12:30:02-04:00
-author = Albert Myers
+author = "Albert Myers"
 categories = ["management definition"]
 tags = ["management"]
 draft = false
