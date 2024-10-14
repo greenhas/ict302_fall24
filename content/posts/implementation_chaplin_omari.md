@@ -1,6 +1,6 @@
 +++
 title = "Workflow Implementation Proposition- Omari"
-date = 2024-10-9
+date = 2024-09-09T11:17:40-04:00
 author = "Omari Chaplin"
 categories = ["implementation proposal"]
 tags = ["implementation"]

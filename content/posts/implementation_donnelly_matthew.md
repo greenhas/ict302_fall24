@@ -1,10 +1,10 @@
----
-title: "Implementation Proposal"
++++
+title = "Implementation Proposal"
 author = "Matthew Donnelly"
 draft = false 
-date = 2024-10-9-16:41:26-04:00
+date = 2024-09-09T11:17:40-04:00
 categories = ["implementation proposal"]
----
++++
 ## Workflow implementation
 
 The very first step that we should take is communicating on teams. Brainstorm on their and publish our ideas. Taking our brainstorm to the next step then implenting them into wordpress. After this, edits will be done to make sure that this process goes by smoothly. After everything is approved, we can finally ad the finishing touches then publish them to the website. 
