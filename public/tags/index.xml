@@ -6,8 +6,71 @@
     <description>Recent content in Tags on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2024 01:38:14 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 19:58:47 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drive</title>
+      <link>//localhost:1313/tags/drive/</link>
+      <pubDate>Mon, 14 Oct 2024 19:58:47 -0400</pubDate>
+      <guid>//localhost:1313/tags/drive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>//localhost:1313/tags/google/</link>
+      <pubDate>Mon, 14 Oct 2024 19:58:47 -0400</pubDate>
+      <guid>//localhost:1313/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMS</title>
+      <link>//localhost:1313/tags/cms/</link>
+      <pubDate>Mon, 14 Oct 2024 19:49:15 -0400</pubDate>
+      <guid>//localhost:1313/tags/cms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hayes</title>
+      <link>//localhost:1313/tags/hayes/</link>
+      <pubDate>Mon, 14 Oct 2024 19:49:15 -0400</pubDate>
+      <guid>//localhost:1313/tags/hayes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mccoy</title>
+      <link>//localhost:1313/tags/mccoy/</link>
+      <pubDate>Mon, 14 Oct 2024 19:49:15 -0400</pubDate>
+      <guid>//localhost:1313/tags/mccoy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management Systems</title>
+      <link>//localhost:1313/tags/content-management-systems/</link>
+      <pubDate>Mon, 14 Oct 2024 15:30:02 -0400</pubDate>
+      <guid>//localhost:1313/tags/content-management-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management System</title>
+      <link>//localhost:1313/tags/content-management-system/</link>
+      <pubDate>Mon, 14 Oct 2024 12:37:53 -0400</pubDate>
+      <guid>//localhost:1313/tags/content-management-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management</title>
+      <link>//localhost:1313/tags/content-management/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/content-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Media</title>
+      <link>//localhost:1313/tags/digital-media/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/digital-media/</guid>
+      <description></description>
+    </item>
     <item>
       <title>GMS</title>
       <link>//localhost:1313/tags/gms/</link>
@@ -20,6 +83,13 @@
       <link>//localhost:1313/tags/implementation/</link>
       <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
       <guid>//localhost:1313/tags/implementation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Implementation Proposal</title>
+      <link>//localhost:1313/tags/implementation-proposal/</link>
+      <pubDate>Thu, 10 Oct 2024 00:15:27 -0400</pubDate>
+      <guid>//localhost:1313/tags/implementation-proposal/</guid>
       <description></description>
     </item>
     <item>
@@ -37,27 +107,6 @@
       <description></description>
     </item>
     <item>
-      <title>Implementation Proposal</title>
-      <link>//localhost:1313/tags/implementation-proposal/</link>
-      <pubDate>Wed, 09 Oct 2024 19:45:44 -0400</pubDate>
-      <guid>//localhost:1313/tags/implementation-proposal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hayes</title>
-      <link>//localhost:1313/tags/hayes/</link>
-      <pubDate>Wed, 09 Oct 2024 19:18:16 -0400</pubDate>
-      <guid>//localhost:1313/tags/hayes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mccoy</title>
-      <link>//localhost:1313/tags/mccoy/</link>
-      <pubDate>Wed, 09 Oct 2024 19:18:16 -0400</pubDate>
-      <guid>//localhost:1313/tags/mccoy/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Management Definition</title>
       <link>//localhost:1313/tags/management-definition/</link>
       <pubDate>Tue, 08 Oct 2024 14:30:57 -0400</pubDate>
@@ -69,13 +118,6 @@
       <link>//localhost:1313/tags/content/</link>
       <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
       <guid>//localhost:1313/tags/content/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content Management System</title>
-      <link>//localhost:1313/tags/content-management-system/</link>
-      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
-      <guid>//localhost:1313/tags/content-management-system/</guid>
       <description></description>
     </item>
     <item>
@@ -111,20 +153,6 @@
       <link>//localhost:1313/tags/workflow/</link>
       <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
       <guid>//localhost:1313/tags/workflow/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CMS</title>
-      <link>//localhost:1313/tags/cms/</link>
-      <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
-      <guid>//localhost:1313/tags/cms/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content Management</title>
-      <link>//localhost:1313/tags/content-management/</link>
-      <pubDate>Tue, 08 Oct 2024 00:30:02 -0400</pubDate>
-      <guid>//localhost:1313/tags/content-management/</guid>
       <description></description>
     </item>
     <item>
@@ -328,13 +356,6 @@
       <link>//localhost:1313/tags/wikipedia/</link>
       <pubDate>Tue, 17 Sep 2024 10:53:07 -0400</pubDate>
       <guid>//localhost:1313/tags/wikipedia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Google</title>
-      <link>//localhost:1313/tags/google/</link>
-      <pubDate>Tue, 17 Sep 2024 10:51:44 -0400</pubDate>
-      <guid>//localhost:1313/tags/google/</guid>
       <description></description>
     </item>
     <item>
