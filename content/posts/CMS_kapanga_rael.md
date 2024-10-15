@@ -1,8 +1,8 @@
 +++
-title: "Understanding Content Management Systems"
-date: 2024-10-14
-author: "Rael kapanga"
-tags: ["CMS", "Content Management", "Digital Media"]
+title = "Understanding Content Management Systems"
+date = 2024-10-14
+author = "Rael kapanga"
+tags = ["CMS", "Content Management", "Digital Media"]
 +++
 
 ## What is a Content Management System (CMS)?

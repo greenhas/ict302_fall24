@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Oct 2024 19:49:15 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 19:58:47 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMS_mason_avery</title>
+      <link>//localhost:1313/posts/cms_mason_avery/</link>
+      <pubDate>Mon, 14 Oct 2024 19:58:47 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_mason_avery/</guid>
+      <description>Definition &amp;ldquo;A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.&amp;rdquo; - Deane Barker&#xA;My own words Content management systems or software are tools editors use to minimize the workload of content delivery and appearance.&#xA;Example One real life example that I consume daily would be Google drive. Google drive allows users to create either slides, word documents or sheets.</description>
+    </item>
     <item>
       <title>CMS_mccoy_hayes</title>
       <link>//localhost:1313/posts/cms_mccoy_hayes/</link>
@@ -16,11 +23,39 @@
       <description>&amp;ldquo;A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.&amp;rdquo;&#xA;Deane Barker, Web Content Management Glossary&#xA;What is a content management system to me? To me, a content management system is a software that helps users create, manage, edit, publish, and organize content. With a CMS you dont need to do much or any coding; everything is there for you to plug and play.</description>
     </item>
     <item>
+      <title>CMS_Myers_Albert</title>
+      <link>//localhost:1313/posts/cms_myers_albert/</link>
+      <pubDate>Mon, 14 Oct 2024 15:30:02 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_myers_albert/</guid>
+      <description>What is &amp;ldquo;Content Management Systems&amp;rdquo; Content managemnt systems, according to Deane Barker is, &amp;ldquo;A CMS is general to managing content, regardless of format or intended purpose&amp;rdquo; (Content Management System, n.d.).&#xA;Content Management Systems in my own words To me I think content management systems are systems that contain the content that is produced. Unlike content managment it doesn&amp;rsquo;t control how it is organized more so of what tools can be used at your disposal.</description>
+    </item>
+    <item>
+      <title>CMS_harp_mauricio</title>
+      <link>//localhost:1313/posts/cms_harp_mauricio/</link>
+      <pubDate>Mon, 14 Oct 2024 12:37:53 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_harp_mauricio/</guid>
+      <description>Definition: &amp;ldquo;A CMS is a software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and utimately delvering content&amp;rdquo; (Barker, 2024)&#xA;Explanation in own words: I think content management system is a software tool that helps users manage digital content without needing to write code. It allows people to easily create, organize, edit, and publish website content.&#xA;Real-life example: Apple News is a prime example of a content management system in action.</description>
+    </item>
+    <item>
+      <title>Understanding Content Management Systems</title>
+      <link>//localhost:1313/posts/cms_kapanga_rael/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/cms_kapanga_rael/</guid>
+      <description>What is a Content Management System (CMS)? According to Deane Barker, “A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.”&#xA;CMS in My Own Words A Content Management System (CMS) is a software application or platform that allows users to create, manage, and modify digital content on a website without needing extensive technical knowledge.</description>
+    </item>
+    <item>
       <title>CMS_Hotko_AJ</title>
       <link>//localhost:1313/posts/cms_hotko_aj/</link>
       <pubDate>Thu, 10 Oct 2024 17:09:52 -0400</pubDate>
       <guid>//localhost:1313/posts/cms_hotko_aj/</guid>
       <description>Content Management System Defined As defined by Deane Barker, “A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.” (The Web Content Management Glossary, Barker 2016).&#xA;My Understanding Content Management Systems or CMS’s are software that users can use in which help them deliver and organizer content. The software can be used to make creating a website or an app more efficient since a CMS would do certain parts of the process automatically allowing the user to focus on other things.</description>
+    </item>
+    <item>
+      <title>Implementation</title>
+      <link>//localhost:1313/posts/implementation_amjad_ahmad/</link>
+      <pubDate>Thu, 10 Oct 2024 15:37:02 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_amjad_ahmad/</guid>
+      <description>Getting the essentials out the way, like assigning roles and tasks before we begin a project. We&amp;rsquo;ll then need to make sure we document what we do, like when we complete a task. Completed tasks will be reviewed and sent back with suggestions if needed and it&amp;rsquo;ll keep happening when complete When all tasks are done, there will be one final review and once settled, the project is done and sent over</description>
     </item>
     <item>
       <title>Implementation_kemper_lea</title>
@@ -42,6 +77,13 @@
       <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
       <guid>//localhost:1313/posts/implementation_ilunga_victoire/</guid>
       <description>Workflow description Once everyone has taken the survey and Once tasks are assigned, We’ll use Microsoft Teams as our communication hub where the groups members can report on their work and coordinate tasks. WordPress will serve as our main content management system to publish and organize the content we produce.&#xA;Workflow Expectations Follow the Schedule and Stick to the deadlines. Regularly check-ins with your Team and Dr.Greenhalgh. Communicate frequently and help each other troubleshoot issues.</description>
+    </item>
+    <item>
+      <title>Workflow implementation by Ben Parsons</title>
+      <link>//localhost:1313/posts/implementation_parsons_ben/</link>
+      <pubDate>Thu, 10 Oct 2024 00:15:27 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_parsons_ben/</guid>
+      <description>Using WordPress, Teams, and Other Technologies for Workflow WordPress: We&amp;rsquo;ll use WordPress to create and publish. Everyone will draft content and submit it through WordPress.&#xA;Microsoft Teams: We&amp;rsquo;ll use Microsoft Teams to brainstorm our ideas with the class and our groups. This will also be used as a type of checklist to make sure we get everything done.&#xA;Other Technologies: We&amp;rsquo;ll use other technologies to stay in touch with our peers outside of class to give extra feedback or ideas.</description>
     </item>
     <item>
       <title>Workflow Implementation</title>
@@ -1057,6 +1099,13 @@
       <pubDate>Tue, 03 Sep 2024 09:26:42 -0400</pubDate>
       <guid>//localhost:1313/posts/mccoy-first-post/</guid>
       <description>Test Test Link&#xA;Test Test Test Test&#xA;Test&#xA;Test&#xA;Test 1 Test 2 Test 3 Test 1 Test 2 Test Test 3 Test 4 Test Test 5 Test 6 Test Test 1 Test 2 Test 3 This is a Test footnote1.&#xA;Test Test Test Test&#xA;Test footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/cms_kirkpatrick_sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/cms_kirkpatrick_sam/</guid>
+      <description>title: &amp;ldquo;Understanding CMS&amp;rdquo; author: &amp;ldquo;Sam Kirkpatrick&amp;rdquo; tags: [&amp;ldquo;CMS&amp;rdquo;, &amp;ldquo;content&amp;rdquo;]&#xA;Definition&#xA;A Content Management System (CMS) is software that allows users to create, manage, and modify website content without needing technical expertise (Smith, 2020).&#xA;Explanation&#xA;A CMS helps you manage website content without writing code, simplifying the process.&#xA;Example&#xA;TechCrunch uses WordPress to manage its articles, showing how CMS platforms simplify content handling.&#xA;How the Example Illustrates the Concept&#xA;WordPress enables TechCrunch to manage content efficiently without manual coding.</description>
     </item>
     <item>
       <title></title>
