@@ -1,7 +1,7 @@
 +++
 title = 'CMS_mccoy_hayes'
 date = 2024-10-14T19:49:15-04:00
-draft = true
+draft = false
 [params]
 	author = 'Hayes McCoy'
 	
