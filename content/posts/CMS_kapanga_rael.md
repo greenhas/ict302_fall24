@@ -15,7 +15,7 @@ A Content Management System (CMS) is a software application or platform that all
 ## Real-Life Example: WordPress
 
 One of the most popular examples of a CMS in use is [WordPress](https://wordpress.com). WordPress is a content management system that is used by millions of websites and blogs. It allows users to easily publish blog posts, organize content with categories and tags, and choose different designs for their site.
-
+ 
 ### How WordPress Demonstrates the CMS Concept
 
 WordPress perfectly illustrates the CMS concept. It provides an easy-to-navigate interface where users can manage all aspects of their site, from adding new blog posts to changing themes.
