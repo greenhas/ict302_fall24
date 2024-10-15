@@ -1,11 +1,9 @@
 +++
-title= "Understanding Content Management Systems"
-date= 2024-10-14
-author= "Rael kapanga"
-draft= false
-tags= ["CMS", "Content Management", "Digital Media"]
+title = 'CMS_kapanga_rael'
+date = 2024-10-14T21:02:09-04:00
+draft = false
+tags= ["CMS"]
 +++
-
 ## What is a Content Management System (CMS)?
 
 According to Deane Barker, “A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.”
@@ -21,4 +19,3 @@ One of the most popular examples of a CMS in use is [WordPress](https://wordpres
 ### How WordPress Demonstrates the CMS Concept
 
 WordPress perfectly illustrates the CMS concept. It provides an easy-to-navigate interface where users can manage all aspects of their site, from adding new blog posts to changing themes.
-
