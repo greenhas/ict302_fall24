@@ -6,20 +6,27 @@
     <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2024 01:38:14 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 19:58:47 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Implementation Proposal</title>
-      <link>//localhost:1313/categories/implementation-proposal/</link>
-      <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
-      <guid>//localhost:1313/categories/implementation-proposal/</guid>
+      <title>Content Management Systems</title>
+      <link>//localhost:1313/categories/content-management-systems/</link>
+      <pubDate>Mon, 14 Oct 2024 19:58:47 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-systems/</guid>
       <description></description>
     </item>
     <item>
-      <title>Implemenation Proposal</title>
-      <link>//localhost:1313/categories/implemenation-proposal/</link>
-      <pubDate>Tue, 08 Oct 2024 13:19:09 -0400</pubDate>
-      <guid>//localhost:1313/categories/implemenation-proposal/</guid>
+      <title>CMS Definition</title>
+      <link>//localhost:1313/categories/cms-definition/</link>
+      <pubDate>Mon, 14 Oct 2024 15:30:02 -0400</pubDate>
+      <guid>//localhost:1313/categories/cms-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Implementation Proposal</title>
+      <link>//localhost:1313/categories/implementation-proposal/</link>
+      <pubDate>Thu, 10 Oct 2024 15:37:02 -0400</pubDate>
+      <guid>//localhost:1313/categories/implementation-proposal/</guid>
       <description></description>
     </item>
     <item>
@@ -76,13 +83,6 @@
       <link>//localhost:1313/categories/content-management-definition/</link>
       <pubDate>Thu, 03 Oct 2024 10:55:07 -0400</pubDate>
       <guid>//localhost:1313/categories/content-management-definition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CMS Definition</title>
-      <link>//localhost:1313/categories/cms-definition/</link>
-      <pubDate>Wed, 02 Oct 2024 10:28:01 -0400</pubDate>
-      <guid>//localhost:1313/categories/cms-definition/</guid>
       <description></description>
     </item>
     <item>
