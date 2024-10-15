@@ -3,8 +3,8 @@ title = 'CMS_adhikari_sayana'
 date = 2024-10-14T15:46:05-04:00
 draft = false
 author= "Sayana Adhikari"
-tags= ("CMS", "Sayana")
-category= ("CMS")
+tags= ["CMS", "Sayana"]
+category= ["CMS"]
 +++
 
 **What is CMS?**
