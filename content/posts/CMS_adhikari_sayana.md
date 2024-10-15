@@ -9,7 +9,7 @@ category= ["CMS"]
 
 **What is CMS?**
 
-"A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content."
+"A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content." (Deane Barker, Web Content Management Glossary)
 
 **In my own words**
 
