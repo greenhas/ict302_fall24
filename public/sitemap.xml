@@ -2,10 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-10-10T09:43:52-04:00</lastmod>
+    <loc>//localhost:1313/author/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/cms/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/cms_mccoy_hayes/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/hayes/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/hayes-mccoy/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mccoy/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-10-14T19:49:15-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-10-10T09:43:52-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/implementation-proposal/</loc>
@@ -14,14 +38,8 @@
     <loc>//localhost:1313/posts/implementation_kemper_lea/</loc>
     <lastmod>2024-10-10T09:43:52-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-10-10T09:43:52-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/implementation_lewis_grant/</loc>
     <lastmod>2024-10-10T04:11:58-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/</loc>
-    <lastmod>2024-10-10T01:38:14-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/gms/</loc>
     <lastmod>2024-10-10T01:38:14-04:00</lastmod>
@@ -33,9 +51,6 @@
     <lastmod>2024-10-10T01:38:14-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/implementation_ilunga_victoire/</loc>
-    <lastmod>2024-10-10T01:38:14-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-10-10T01:38:14-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/author/chauncey-livingston/</loc>
@@ -83,16 +98,7 @@
     <loc>//localhost:1313/author/mauricio-harp/</loc>
     <lastmod>2024-10-09T19:45:44-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hayes/</loc>
-    <lastmod>2024-10-09T19:18:16-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/author/hayes-mccoy/</loc>
-    <lastmod>2024-10-09T19:18:16-04:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/implementation_mccoy_hayes/</loc>
-    <lastmod>2024-10-09T19:18:16-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/mccoy/</loc>
     <lastmod>2024-10-09T19:18:16-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/implementation_hotko_aj/</loc>
@@ -157,9 +163,6 @@
   </url><url>
     <loc>//localhost:1313/posts/implementation_bryant_henry/</loc>
     <lastmod>2024-10-08T10:54:55-04:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/cms/</loc>
-    <lastmod>2024-10-08T10:53:07-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/cms/</loc>
     <lastmod>2024-10-08T10:53:07-04:00</lastmod>

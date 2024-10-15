@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Oct 2024 09:43:52 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 19:49:15 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CMS_mccoy_hayes</title>
+      <link>//localhost:1313/posts/cms_mccoy_hayes/</link>
+      <pubDate>Mon, 14 Oct 2024 19:49:15 -0400</pubDate>
+      <guid>//localhost:1313/posts/cms_mccoy_hayes/</guid>
+      <description>&amp;ldquo;A software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content.&amp;rdquo;&#xA;Deane Barker, Web Content Management Glossary&#xA;What is a content management System to me? To me, a content management system is a software that helps users create, manage, edit, publish, and organize content. With a CMS you dont need to do much or any coding, everything is there for you to plug and play.</description>
+    </item>
     <item>
       <title>Implementation_kemper_lea</title>
       <link>//localhost:1313/posts/implementation_kemper_lea/</link>
