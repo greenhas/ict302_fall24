@@ -17,7 +17,7 @@ A Content Management System is software that helps you easily create and manage 
 
 **Example**
 
-An example of a CMS is WordPress.WordPress is a CMS because it lets you easily create and manage a website without knowing how to code. You can write and edit content, upload images, and organize everything. WordPress also allows you to change the look of your site using themes, and you can add extra features with plugins, all without affecting the content.
+An example of a CMS is WordPress.[WordPress](https://gms.spencergreenhalgh.com/wp-admin/about.php) is a CMS because it lets you easily create and manage a website without knowing how to code. You can write and edit content, upload images, and organize everything. WordPress also allows you to change the look of your site using themes, and you can add extra features with plugins, all without affecting the content.
 
 
 
