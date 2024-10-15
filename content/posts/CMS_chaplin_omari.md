@@ -1,6 +1,6 @@
 +++
 title = "Content Management Systems?!- Omari"
-date = 2024-14-09T11:17:40-04:00
+date = 2024-10-14T11:17:40-04:00
 author = "Omari Chaplin"
 categories = ["CMS"]
 tags = ["CMS"]
