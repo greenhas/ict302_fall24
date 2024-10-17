@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>//localhost:1313/author/</loc>
     <lastmod>2024-10-10T01:38:14-04:00</lastmod>
   </url><url>
@@ -82,10 +83,21 @@
   </url><url>
     <loc>//localhost:1313/tags/workflow/</loc>
     <lastmod>2024-10-08T10:55:11-04:00</lastmod>
+=======
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-10-09T23:08:59-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/implementation_bryant_henry/</loc>
-    <lastmod>2024-10-08T10:54:55-04:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-10-09T23:08:59-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/implementation-proposal/</loc>
+    <lastmod>2024-10-09T23:08:59-04:00</lastmod>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
+  </url><url>
+    <loc>//localhost:1313/posts/implementation_livingston_chauncey/</loc>
+    <lastmod>2024-10-09T23:08:59-04:00</lastmod>
+  </url><url>
+<<<<<<< HEAD
     <loc>//localhost:1313/tags/cms/</loc>
     <lastmod>2024-10-08T10:53:07-04:00</lastmod>
   </url><url>
@@ -104,6 +116,17 @@
     <loc>//localhost:1313/posts/management_lewis_grant/</loc>
     <lastmod>2024-10-08T04:10:52-04:00</lastmod>
   </url><url>
+=======
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-10-09T23:08:59-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_lewis_grant/</loc>
+    <lastmod>2024-10-08T04:10:52-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/</loc>
+    <lastmod>2024-10-08T00:30:02-04:00</lastmod>
+  </url><url>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
     <loc>//localhost:1313/author/ben-parsons/</loc>
     <lastmod>2024-10-08T00:30:02-04:00</lastmod>
   </url><url>
@@ -112,6 +135,90 @@
   </url><url>
     <loc>//localhost:1313/categories/content-management/</loc>
     <lastmod>2024-10-08T00:30:02-04:00</lastmod>
+<<<<<<< HEAD
+=======
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-10-08T00:30:02-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_parsons_ben/</loc>
+    <lastmod>2024-10-08T00:30:02-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/chauncey-livingston/</loc>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_livingston_chauncey/</loc>
+    <lastmod>2024-10-07T22:56:46-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_donnelly_matthew/</loc>
+    <lastmod>2024-10-07T22:43:29-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/matthew-donnelly/</loc>
+    <lastmod>2024-10-07T22:43:29-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/ahmad/</loc>
+    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/hayes/</loc>
+    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/hayes-mccoy/</loc>
+    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_mccoy_hayes/</loc>
+    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/managament/</loc>
+    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_ahmad/</loc>
+    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mccoy/</loc>
+    <lastmod>2024-10-07T20:13:26-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_harp_mauricio/</loc>
+    <lastmod>2024-10-07T19:08:19-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/mauricio-harp/</loc>
+    <lastmod>2024-10-07T19:08:19-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/albert-myers/</loc>
+    <lastmod>2024-10-07T12:30:02-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/management/</loc>
+    <lastmod>2024-10-07T12:30:02-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/management-definition/</loc>
+    <lastmod>2024-10-07T12:30:02-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_myers_albert/</loc>
+    <lastmod>2024-10-07T12:30:02-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/omari-chaplin/</loc>
+    <lastmod>2024-10-07T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_chaplin_omari/</loc>
+    <lastmod>2024-10-07T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/management_nguyen_nhi/</loc>
+    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/nhi-nguyen/</loc>
+    <lastmod>2024-10-04T10:26:39-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/workflow/</loc>
+    <lastmod>2024-10-03T22:33:35-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/workflow-proposal/</loc>
+    <lastmod>2024-10-03T22:33:35-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/workflow_harp_mauricio/</loc>
+    <lastmod>2024-10-03T22:33:35-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/chen/</loc>
+    <lastmod>2024-10-03T11:22:45-04:00</lastmod>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
   </url><url>
     <loc>//localhost:1313/posts/management_parsons_ben/</loc>
     <lastmod>2024-10-08T00:30:02-04:00</lastmod>
@@ -218,7 +325,17 @@
     <loc>//localhost:1313/tags/news/</loc>
     <lastmod>2024-10-03T11:22:45-04:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>//localhost:1313/categories/content-management-definition/</loc>
+=======
+    <loc>//localhost:1313/tags/content/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/content-management-definition/</loc>
+    <lastmod>2024-10-03T10:55:07-04:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/author/henry-bryant/</loc>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
     <lastmod>2024-10-03T10:55:07-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/management_bryant_henry/</loc>
@@ -282,9 +399,12 @@
     <lastmod>2024-10-02T10:26:39-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/management_coleman_bryan/</loc>
+<<<<<<< HEAD
     <lastmod>2024-10-02T10:16:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/management_kapanga_rael/</loc>
+=======
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
     <lastmod>2024-10-02T10:16:53-04:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/workflow_coleman_bryan/</loc>
@@ -311,9 +431,15 @@
     <loc>//localhost:1313/posts/workflow_mccoy_hayes/</loc>
     <lastmod>2024-10-01T14:06:28-04:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/tags/wordpress/</loc>
+    <lastmod>2024-10-01T12:16:55-04:00</lastmod>
+  </url><url>
+<<<<<<< HEAD
+=======
     <loc>//localhost:1313/posts/workflow_chen_ricky/</loc>
     <lastmod>2024-10-01T12:16:55-04:00</lastmod>
   </url><url>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
     <loc>//localhost:1313/posts/presentation_harp_mauricio/</loc>
     <lastmod>2024-10-01T11:07:09-04:00</lastmod>
   </url><url>

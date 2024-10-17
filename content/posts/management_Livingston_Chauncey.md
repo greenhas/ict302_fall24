@@ -4,7 +4,7 @@ date = 2024-10-07T22:56:46-04:00
 draft = false
 author = 'Chauncey Livingston'
 categories = ["content management"]
-tags = ["CMS"]
+tags = ["content management"]
 +++
 ## What is it?
 Content Management is referred to as 

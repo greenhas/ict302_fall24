@@ -6,11 +6,16 @@
     <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 10 Oct 2024 01:38:14 -0400</lastBuildDate>
+=======
+    <lastBuildDate>Wed, 09 Oct 2024 23:08:59 -0400</lastBuildDate>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementation Proposal</title>
       <link>//localhost:1313/categories/implementation-proposal/</link>
+<<<<<<< HEAD
       <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
       <guid>//localhost:1313/categories/implementation-proposal/</guid>
       <description></description>
@@ -41,6 +46,10 @@
       <link>//localhost:1313/categories/cms/</link>
       <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
       <guid>//localhost:1313/categories/cms/</guid>
+=======
+      <pubDate>Wed, 09 Oct 2024 23:08:59 -0400</pubDate>
+      <guid>//localhost:1313/categories/implementation-proposal/</guid>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
       <description></description>
     </item>
     <item>

@@ -6,6 +6,7 @@
     <description>Recent content in Posts on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 10 Oct 2024 01:38:14 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -63,6 +64,16 @@
       <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
       <guid>//localhost:1313/posts/implementation_nguyen_nhi/</guid>
       <description>&lt;h2 id=&#34;how-to-implement-our-workflow&#34;&gt;How to implement our workflow&lt;/h2&gt;&#xA;&lt;p&gt;We will use WordPress and Teams to help our class stay organized and connected. WordPress will be where students can share their work and updates. We will post our updates about our progress and that will allow everyone to stay informed about what others are doing. We also use Teams to assign tasks so that everyone knows what they are responsible for.&lt;/p&gt;&#xA;&lt;h2 id=&#34;expectation&#34;&gt;Expectation&lt;/h2&gt;&#xA;&lt;p&gt;Group members should check in with each other to share progress. Attendance at meetings is important and we should report the outcomes of these meetings.&lt;/p&gt;</description>
+=======
+    <lastBuildDate>Wed, 09 Oct 2024 23:08:59 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementation_livingston_chauncey</title>
+      <link>//localhost:1313/posts/implementation_livingston_chauncey/</link>
+      <pubDate>Wed, 09 Oct 2024 23:08:59 -0400</pubDate>
+      <guid>//localhost:1313/posts/implementation_livingston_chauncey/</guid>
+      <description></description>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
     </item>
     <item>
       <title>management_lewis_grant</title>

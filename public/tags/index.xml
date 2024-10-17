@@ -6,6 +6,7 @@
     <description>Recent content in Tags on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 10 Oct 2024 01:38:14 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,16 +14,39 @@
       <link>//localhost:1313/tags/gms/</link>
       <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
       <guid>//localhost:1313/tags/gms/</guid>
+=======
+    <lastBuildDate>Wed, 09 Oct 2024 19:18:16 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hayes</title>
+      <link>//localhost:1313/tags/hayes/</link>
+      <pubDate>Wed, 09 Oct 2024 19:18:16 -0400</pubDate>
+      <guid>//localhost:1313/tags/hayes/</guid>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
       <description></description>
     </item>
     <item>
       <title>Implementation</title>
       <link>//localhost:1313/tags/implementation/</link>
+<<<<<<< HEAD
       <pubDate>Thu, 10 Oct 2024 01:38:14 -0400</pubDate>
+=======
+      <pubDate>Wed, 09 Oct 2024 19:18:16 -0400</pubDate>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
       <guid>//localhost:1313/tags/implementation/</guid>
       <description></description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
+      <title>Mccoy</title>
+      <link>//localhost:1313/tags/mccoy/</link>
+      <pubDate>Wed, 09 Oct 2024 19:18:16 -0400</pubDate>
+      <guid>//localhost:1313/tags/mccoy/</guid>
+      <description></description>
+    </item>
+    <item>
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
       <title>Content</title>
       <link>//localhost:1313/tags/content/</link>
       <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
@@ -72,6 +96,15 @@
       <description></description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <title>Hayes</title>
+      <link>//localhost:1313/tags/hayes/</link>
+      <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
+      <guid>//localhost:1313/tags/hayes/</guid>
+=======
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
       <title>CMS</title>
       <link>//localhost:1313/tags/cms/</link>
       <pubDate>Tue, 08 Oct 2024 10:53:07 -0400</pubDate>
@@ -83,6 +116,7 @@
       <link>//localhost:1313/tags/content-management/</link>
       <pubDate>Tue, 08 Oct 2024 00:30:02 -0400</pubDate>
       <guid>//localhost:1313/tags/content-management/</guid>
+<<<<<<< HEAD
       <description></description>
     </item>
     <item>
@@ -90,6 +124,9 @@
       <link>//localhost:1313/tags/hayes/</link>
       <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
       <guid>//localhost:1313/tags/hayes/</guid>
+=======
+>>>>>>> 87817c4f72f7d95cb7b1cfe9c8f79e51c58a3a1d
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
       <description></description>
     </item>
     <item>
@@ -100,6 +137,7 @@
       <description></description>
     </item>
     <item>
+<<<<<<< HEAD
       <title>Mccoy</title>
       <link>//localhost:1313/tags/mccoy/</link>
       <pubDate>Mon, 07 Oct 2024 20:13:26 -0400</pubDate>
@@ -107,6 +145,8 @@
       <description></description>
     </item>
     <item>
+=======
+>>>>>>> b67f10d728c0d91e76a822f35f6dd1cd6e5564d4
       <title>Reddit</title>
       <link>//localhost:1313/tags/reddit/</link>
       <pubDate>Mon, 07 Oct 2024 16:55:51 -0400</pubDate>
