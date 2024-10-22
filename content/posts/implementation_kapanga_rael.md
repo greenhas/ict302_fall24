@@ -2,7 +2,7 @@
 title = 'Implimentation_kapanga_rael'
 date = 2024-10-09T22:35:40-04:00
 draft = false
-author = "Rael Kapanga"`
+author = "Rael Kapanga"
 tags = ["implementation"]
 +++
 ## Implementing Our Workflow with WordPress
