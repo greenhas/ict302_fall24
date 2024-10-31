@@ -6,13 +6,48 @@
     <description>Recent content in Categories on ICT 302 Fall 24</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 10:55:11 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 23:30:52 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Implementation</title>
-      <link>//localhost:1313/categories/implementation/</link>
-      <pubDate>Tue, 08 Oct 2024 10:55:11 -0400</pubDate>
-      <guid>//localhost:1313/categories/implementation/</guid>
+      <title>CMS</title>
+      <link>//localhost:1313/categories/cms/</link>
+      <pubDate>Wed, 23 Oct 2024 23:30:52 -0400</pubDate>
+      <guid>//localhost:1313/categories/cms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management Systems</title>
+      <link>//localhost:1313/categories/content-management-systems/</link>
+      <pubDate>Mon, 14 Oct 2024 19:58:47 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CMS Definition</title>
+      <link>//localhost:1313/categories/cms-definition/</link>
+      <pubDate>Mon, 14 Oct 2024 15:30:02 -0400</pubDate>
+      <guid>//localhost:1313/categories/cms-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Implementation Proposal</title>
+      <link>//localhost:1313/categories/implementation-proposal/</link>
+      <pubDate>Thu, 10 Oct 2024 15:37:02 -0400</pubDate>
+      <guid>//localhost:1313/categories/implementation-proposal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management System Definition</title>
+      <link>//localhost:1313/categories/content-management-system-definition/</link>
+      <pubDate>Tue, 08 Oct 2024 11:20:07 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-system-definition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Content Management System</title>
+      <link>//localhost:1313/categories/content-management-system/</link>
+      <pubDate>Tue, 08 Oct 2024 11:15:52 -0400</pubDate>
+      <guid>//localhost:1313/categories/content-management-system/</guid>
       <description></description>
     </item>
     <item>
@@ -23,9 +58,16 @@
       <description></description>
     </item>
     <item>
+      <title>Management</title>
+      <link>//localhost:1313/categories/management/</link>
+      <pubDate>Mon, 07 Oct 2024 15:30:37 -0400</pubDate>
+      <guid>//localhost:1313/categories/management/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Management Definition</title>
       <link>//localhost:1313/categories/management-definition/</link>
-      <pubDate>Mon, 07 Oct 2024 12:30:02 -0400</pubDate>
+      <pubDate>Mon, 07 Oct 2024 14:16:18 -0400</pubDate>
       <guid>//localhost:1313/categories/management-definition/</guid>
       <description></description>
     </item>
@@ -41,13 +83,6 @@
       <link>//localhost:1313/categories/content-management-definition/</link>
       <pubDate>Thu, 03 Oct 2024 10:55:07 -0400</pubDate>
       <guid>//localhost:1313/categories/content-management-definition/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CMS Definition</title>
-      <link>//localhost:1313/categories/cms-definition/</link>
-      <pubDate>Wed, 02 Oct 2024 10:28:01 -0400</pubDate>
-      <guid>//localhost:1313/categories/cms-definition/</guid>
       <description></description>
     </item>
     <item>
