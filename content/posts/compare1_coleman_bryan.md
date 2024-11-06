@@ -1,7 +1,7 @@
 +++
 title = 'compare1_coleman_bryan'
 date = 2024-10-31T13:58:53-04:00
-draft = true
+draft = false
 author = "Bryan Coleman"
 +++
 
