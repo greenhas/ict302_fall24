@@ -4,7 +4,7 @@ date = 2024-10-09T21:27:39-04:00
 author = 'Avery Mason'
 categories = ["implementation proposal"]
 tags = ["proposal", "implementation"]
-draft = true
+draft = false
 +++
 
 ## Mission
