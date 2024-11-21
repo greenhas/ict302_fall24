@@ -1,6 +1,6 @@
 +++
-title = Understanding User-Generated Content  
-author = Sam Kirkpatrick 
+title = "Understanding User-Generated Content" 
+author = "Sam Kirkpatrick"
 date = 2024-11-21T11:03:24-05:00
 +++
 
