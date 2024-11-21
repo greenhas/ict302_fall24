@@ -1,8 +1,9 @@
----
-title: "Content class blog"
-date: 2024-09-09
-author: "Sam Kirkpatrick"
----2
++++
+title =  "Content class blog"
+date = 2024-11-21T11:03:24-05:00
+author = "Sam Kirkpatrick"
++++
+
 ## Definition
 
 Definition: Data, digital code, images, graphics, sounds, text or any other similar material regardless of the method or medium of communication of such content or the purpose of the communication. Source: https://www.lawinsider.com/dictionary/media-content#:~:text=Copy-,Media%20Content%20means%20data%2C%20digital%20code%2C%20images%2C%20graphics%2C,the%20purpose%20of%20the%20communication.

@@ -1,8 +1,10 @@
++++
 title = "Implementing a Content Management Workflow with WordPress and Teams"
 author = "Sam Kirkpatrick"
+date = 2024-11-21T11:03:24-05:00
 tags = ["content management", "workflow", "GMS project"]
 categories = ["implementation proposal"]
-
++++
 
 ## Introduction
 

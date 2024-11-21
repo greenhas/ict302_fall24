@@ -1,6 +1,9 @@
-title: "Understanding CMS"
-author: "Sam Kirkpatrick"
-tags: ["CMS", "content"]
++++
+title = "Understanding CMS"
+date = 2024-11-21T11:03:24-05:00
+author =  "Sam Kirkpatrick"
+tags =  ["CMS", "content"]
++++
 
 **Definition**  
 A Content Management System (CMS) is software that allows users to create, manage, and modify website content without needing technical expertise (Smith, 2020).
