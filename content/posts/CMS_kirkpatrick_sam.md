@@ -6,7 +6,7 @@ tags =  ["CMS", "content"]
 +++
 
 **Definition**  
-A Content Management System (CMS) is software that allows users to create, manage, and modify website content without needing technical expertise (Smith, 2020).
+A Content Management System (CMS) is software that allows users to create, manage, and modify website content without needing technical expertise.
 
 **Explanation**  
 A CMS helps you manage website content without writing code, simplifying the process.
