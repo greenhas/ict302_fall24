@@ -17,4 +17,4 @@ In simple terms, content aggregation is like curating information from across th
 Flipboard demonstrates content aggregation by collecting articles from different websites and presenting them in a magazine-like format. Users can personalize their experience by choosing topics of interest, which highlights the essence of aggregation: gathering and simplifying diverse content for easier consumption.
 
 ## Reference  
-What is content aggregation? Steps, tools, and examples. NewsData.io. (2021)
+Content Aggregation: Definition, steps, and examples. NewsData.io. (2021)
