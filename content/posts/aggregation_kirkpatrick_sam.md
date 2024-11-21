@@ -1,5 +1,5 @@
 +++
-title = "Understanding Content Aggregation"
+title = "Content Aggregation"
 date = 2024-11-21T11:30:00-05:00
 author = "Sam Kirkpatrick"
 +++
